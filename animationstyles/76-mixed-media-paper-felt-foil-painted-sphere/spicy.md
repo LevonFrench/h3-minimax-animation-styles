@@ -1,0 +1,7 @@
+# Spicy — Four-Material Sphere
+
+integrated_multimodal_description: Tactile mixed-media stop-motion animation, 16:9, native H3 736x416 at 24 fps, locked rostrum camera, one centered sphere at constant diameter, warm studio paper field, visible handcrafted edges and subtle registration jitter. [Shot 1] The sphere begins as folded matte paper. TIME BLOCK at 100 BPM: 0.00–0.60 s paper establish; 0.60–1.60 s the paper skin lifts in four tabs and fuzzy felt wraps beneath it; 1.60–2.60 s felt peels backward as crinkled metallic foil closes around the same sphere; 2.60–3.60 s foil folds into narrow facets while wet brush strokes overlay it and resolve as a painted shell; 3.60–4.80 s paint retracts into strokes, foil unfolds, felt unwraps, and paper tabs close in reverse order; 4.80–5.1667 s exact opening paper sphere, center, scale, fold pattern, shadow, and camera hold. SPATIAL BLOCK: every medium conforms to one unchanged spherical envelope; no growth, translation, or parallax. LIGHT CUE: diffuse on paper, grazing nap light on felt, narrow glints on foil, wet highlights on paint. No dissolve, liquid morph, camera move, extra object, text, or material blending that obscures the stages.
+
+overall_soundscape: Paper folds, felt brushing, foil crinkles, wet bristle strokes, and a soft final paper closure, each bound to its visible transition.
+
+non_diegetic_music: Toy piano, muted hand percussion, plucked strings, and airy synth pads pass a four-note motif between materials and leave the tail clean.

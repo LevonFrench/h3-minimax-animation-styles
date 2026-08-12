@@ -10,5 +10,5 @@ Paper joints click softly, the bridge gives a dry wooden creak, the lantern hand
 
 ## Music
 
-Sparse chamber accompaniment with plucked harp, bowed cello, and small hand drum follows the deliberate puppet-like movement. @STVie = @SuBJECT @ ACTION
+Sparse chamber accompaniment with plucked harp, bowed cello, and small hand drum follows the deliberate puppet-like movement.
 

@@ -10,5 +10,5 @@ Graphite scratches, paper sheets flip rapidly, shoes make a soft landing thump, 
 
 ## Music
 
-A metronomic piano pattern marks the preparation, leap, apex, and landing without obscuring the animation timing. @StVie @suBect @ ACTION
+A metronomic piano pattern marks the preparation, leap, apex, and landing without obscuring the animation timing.
 

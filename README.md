@@ -10,7 +10,7 @@ The collection was transcribed from a 392.7-second reference video containing 76
 - **Soundscape** — diegetic and material sounds
 - **Music** — musical character, instrumentation, rhythm, and ending
 
-Frames were sampled from each five-second segment, the left-hand prompt panel was isolated, and its text was extracted into a separate numbered folder. The original source video is not stored in this project.
+Frames were sampled at the source's actual 124-frame cadence (approximately 5.1667 seconds at 24 fps), the left-hand prompt panel was isolated, and its text was extracted into a separate chronological folder. The on-screen source numbers contain gaps and continue past 76, so folder numbers represent playback order rather than the inconsistent displayed counter. The original source video is not stored in this project.
 
 ## Credit and provenance
 
@@ -30,7 +30,7 @@ animationstyles/
     spicy.md
     extra-crisp.md
   ...
-  76-crisp-vector-shape-layers-exact-geometry-clean-easing-co/
+  76-mixed-media-paper-felt-foil-painted-sphere/
     ...
 ```
 
@@ -127,7 +127,8 @@ The completed library was audited with the following result:
 - 76 `research.md` files
 - 76 `spicy.md` files
 - 76 `extra-crisp.md` files
-- no duplicate transcription files
+- no accidental duplicate transcription files; source-identical cards that appear as separate clips are retained
+- all 76 chronological source cards accounted for at the corrected 124-frame cadence
 - source links present in every research note
 - required H3 timing and structural fields present in every generated variant
 - zero missing-file or structural audit errors

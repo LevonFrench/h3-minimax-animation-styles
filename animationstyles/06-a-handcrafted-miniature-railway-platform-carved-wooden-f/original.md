@@ -10,5 +10,5 @@ Wooden joints click, fabric brushes, the suitcase handle creaks, the porter land
 
 ## Music
 
-Light bass clarinet, plucked strings, and brushed snare follow the stepped physical comedy with slightly uneven phrasing. @Stvie @suBecT @ ACTION
+Light bass clarinet, plucked strings, and brushed snare follow the stepped physical comedy with slightly uneven phrasing.
 

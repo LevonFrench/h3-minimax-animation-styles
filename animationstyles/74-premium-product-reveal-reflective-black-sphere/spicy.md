@@ -1,0 +1,7 @@
+# Spicy — Black-Sphere Product Reveal
+
+integrated_multimodal_description: Premium photoreal product animation, 16:9, native H3 736x416 at 24 fps, a flawless glossy black sphere centered on a black mirrored plinth, deep charcoal studio, razor-clean silhouette, controlled white strip reflections, physically plausible contact shadow, restrained motion blur. [Shot 1] Locked 70 mm product shot; no cut, no reframing. TIME BLOCK at 100 BPM: 0.00–0.60 s establish the sphere in near-darkness; 0.60–2.40 s the reflected studio environment turns slowly clockwise, carrying one narrow vertical highlight across the front hemisphere; 2.40–3.60 s a soft circular halo blooms in the plinth reflection while twelve fine condensation-like sparkle points appear along the upper-right rim; 3.60–4.80 s sparkles fade, halo contracts, and the highlight returns to its opening position; 4.80–5.1667 s exact opening geometry, reflection, focus, and illumination hold. SPATIAL BLOCK: sphere center fixed at origin, camera and horizon locked, no scale drift. LIGHT CUE: one continuous reflection sweep only. No logo, text, seams, dents, extra objects, floating, camera move, or second highlight.
+
+overall_soundscape: Quiet studio ventilation, a refined turntable bearing, and one polished crystalline shimmer tied to the halo bloom.
+
+non_diegetic_music: Sparse glass tones, a soft sub-bass pulse, and an airy pad resolve before the clean tail hold.

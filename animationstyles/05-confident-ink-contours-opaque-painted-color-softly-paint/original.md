@@ -10,5 +10,5 @@ Thread unwinds, the wooden spool rolls, cloth rustles, scissors lightly rattle, 
 
 ## Music
 
-Warm orchestral scoring with clarinet, pizzicato strings, bassoon, and harp follows the chase through expressive rises and a gentle comic cadence. @StvVie @suBecT @ ACTION
+Warm orchestral scoring with clarinet, pizzicato strings, bassoon, and harp follows the chase through expressive rises and a gentle comic cadence.
 
