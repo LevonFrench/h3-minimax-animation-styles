@@ -1,16 +1,22 @@
-# Research — Glitch typography with controlled recovery
+# Research: displacement-based glitch typography
 
-## Style fingerprint
+## Identification and provenance
 
-- **Visual/material vocabulary:** scan-line slice; RGB channel offset; block compression; temporal displacement; data smear; sync bar; stable post-glitch lockup.
-- **Motion logic:** Corrupt only the title layers, not the whole frame; escalate displacement in bounded bands, then let one vertical sync line restore geometry and channel registration.
-- **MiniMax H3 translation:** Use one primary action, one continuous camera path (or a locked camera), one lighting progression, and a stable resolved endpoint. At 100 BPM, map beats 1–8 to 0.00–4.80 seconds and use the remaining H3 tail through 5.17 seconds as a clean hold. Treat exact typography and perfect loops as explicit constraints, but expect final frame-accurate enforcement in post.
+This is a contemporary hybrid motion-graphics treatment, not a single historical school: typographic animation is combined with spatial displacement, temporal displacement, channel offsets, scan-line slicing, compression artifacts, and a datamosh-like transition. Adobe documents spatial Displacement Map as luminance-driven horizontal/vertical pixel displacement and Time Displacement as luminance-driven sampling from earlier or later frames. Those mechanisms substantiate the component vocabulary, not the coined composite label “glitch typography.”
+
+## Visual and motion mechanics
+
+- Keep the white word silhouette dominant on black; distortion should attack bands and edges while the word remains recoverable.
+- Use narrow horizontal slices, uneven block boundaries, restrained RGB edge separation, and discontinuous temporal echoes. Avoid generic static noise covering the whole frame.
+- Make the synchronization line a causal event: its passage restores alignment, channel registration, and correct letter identity behind it.
+- Preserve exact spelling by treating “NOISE” and “SIGNAL” as designed title states, not incidental generated text.
+
+## Prompt implications
+
+Direct a clear escalation–repair arc: readable source word, increasingly severe but structured damage, one vertical scan repair, then a full second of stable “SIGNAL” with only peripheral fragments. A locked camera and planar typography make pixel displacement legible. Sound should progress from crackle and buffer stutter to one clean sync beep and a steadier electronic pulse.
 
 ## Sources
 
-- [Adobe — channel data and displacement inputs](https://helpx.adobe.com/nz/after-effects/using/3d-channel-effects.html)
-- [Adobe — keyframed effect changes](https://helpx.adobe.com/after-effects/desktop/animate-in-after-effects/animation-basics/animation-basics.html)
-
-## Prompting takeaways
-
-Name the physical medium before the subject, describe visible intermediate states rather than asking for a dissolve, bind each sound to one visible event, and state what must remain stable: subject identity, material texture, screen geometry, letterforms, or the loop phase.
+- [Adobe After Effects: Displacement Map effect](https://helpx.adobe.com/uk/after-effects/desktop/apply-effects-and-animation-presets/list-of-effects/distort-effects.html)
+- [Adobe After Effects: Time Displacement effect](https://helpx.adobe.com/in/after-effects/using/time-effects.html)
+- [Adobe After Effects: creating and editing vector text layers](https://helpx.adobe.com/uk/after-effects/using/creating-editing-text-layers.html)

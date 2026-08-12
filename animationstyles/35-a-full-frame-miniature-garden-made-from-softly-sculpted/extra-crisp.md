@@ -1,40 +1,5 @@
-# Title
+integrated_multimodal_description: T2VA, native 736×416, 24 fps, 124 frames, exactly 5.1667 s. One brass-colored clay gear is the dominant subject at the center of a tactile plasticine greenhouse floor. 0.00–1.20 s: the gear begins a stepped clockwise turn; thumbprints, practical shadows, and tiny registration shifts remain visible. 1.20–3.75 s: each tooth phase mechanically bends one blue stem, opens its yellow flower, raises the clay center, then closes it; a tiny paper moth follows one discrete half-circle and touches the flower for one frame. Camera locked-off, zero amplitude, zero speed, with shallow but readable miniature depth. 3.75–4.65 s: the gear finishes its single cycle and drives the stem upright. 4.65–5.1667 s: gear phase, flower, moth, light, and shadows settle and hold at the opening state. No fluid CGI interpolation, duplicated flowers, floating gear, text, or changing material.
 
-Clay Sunflower Gear
+overall_soundscape: Small clay clicks, paper-wing flicks, and a gentle miniature mechanism creak in a quiet room.
 
-## Intent
-
-Let one brass gear visibly drive a tactile flower phase while fingerprints, contacts, and practical shadows remain coherent.
-
-## Shot Class
-
-Medium macro miniature view, 65 mm equivalent, locked camera at flower height.
-
-## Subject / Continuity
-
-Three soft plasticine sunflowers connect by armature-like stems to one brass gear. Preserve petal count, thumbprints, gear teeth, soil contact, and shadows.
-
-## Timed Action + Camera
-
-100 BPM. Beat 1 (0.00-0.60): gear and flowers at phase zero. Beats 2-7 (0.60-4.20): gear advances exactly one revolution at a constant stepped rate; each tooth causes the three flower heads to nod sequentially through one closed phase. Beat 8 (4.20-4.80): gear, petals, stems, and shadows return to opening phase. Hold through 5.1667 s.
-
-## Spatial Block
-
-Gear at (0,0,0), flowers at X=−0.24,0,+0.24 m, stems Y=0-0.28 m. Camera fixed at (0,+0.18,−1.25), 65 mm.
-
-## Look + Lighting
-
-Plasticine thumbprints, tactile wobble, stepped poses, brass teeth, miniature soil and practical contact shadows. Warm miniature sun remains fixed.
-
-## Sound
-
-Silent; no gear foley, music, dialogue, or soundtrack.
-
-## Limits
-
-One gear-driven flower cycle. No bee, extra mechanisms, changing tooth or petal count, floating stems, smooth CG motion, camera movement, text, logos, or movement after 4.80 s.
-
-## Sources
-
-- [NFB — plasticine and animation materials](https://www3.nfb.ca/sg/56975.pdf)
-- [Library of Congress — puppet animation history](https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-motion-pictures/overview-of-the-edison-motion-pictures-by-genre/)
+non_diegetic_music: Playful plucked strings trace the mechanism’s cycle without implying frame-exact BPM control.

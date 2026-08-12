@@ -1,14 +1,22 @@
-# Research — Speed-Graph Easing Demonstration
+# Research: vector easing and motion-spacing demonstration
 
-## Actionable vocabulary
+## Identification and provenance
 
-- Motion spacing is visible velocity: close positions at start/end and wider positions through the middle communicate ease-in/ease-out.
-- A speed graph rises from zero, peaks, and returns to zero; a small overshoot needs a brief reverse velocity lobe followed by a clean settle.
-- Use a dotted motion path only as a secondary explanatory overlay. Its dot spacing must match the circle’s observed speed.
-- Preserve exact center height and target-line contact; motion should be one-dimensional and camera locked.
+This is a didactic motion-design exercise visualizing slow-in/slow-out, acceleration, overshoot, and settle. Adobe’s Graph Editor documentation states that motion-path dots represent frames: close spacing indicates lower speed and wide spacing higher speed. Vector shape layers supply precise geometry. The exact cobalt-circle lesson is a bespoke instructional animation.
+
+## Visual and motion mechanics
+
+- The circle’s path is straight and its geometry constant; only spacing, speed, and controlled blur reveal the easing curve.
+- Begin from genuine stillness, widen frame-to-frame spacing through the middle, then tighten near the target.
+- Overshoot should be small and singular, followed by one backward ease and exact contact with the vertical line.
+- Dotted path is an explanatory overlay tied to prior positions, then fades.
+
+## Prompt implications
+
+Keep a locked pale-gray field, one cobalt circle, one thin target line, and one dotted path. Avoid extra interface chrome. This source is text-identical to folder 49; no factual stylistic difference exists.
 
 ## Sources
 
-- [Adobe — animation basics and Graph Editor](https://helpx.adobe.com/after-effects/desktop/animate-in-after-effects/animation-basics/animation-basics.html)
-- [Adobe — After Effects reference on motion-path spacing](https://helpx.adobe.com/en/pdf/cs6/after_effects_reference.pdf)
-- [Blender Manual — F-Curves and interpolation](https://docs.blender.org/manual/en/3.5/editors/graph_editor/fcurves/introduction.html)
+- [Adobe After Effects: speed graphs and motion-path dot spacing](https://helpx.adobe.com/uk/after-effects/using/speed.html)
+- [Adobe After Effects: shape layers, paths, and vector graphics](https://helpx.adobe.com/after-effects/using/overview-shape-layers-paths-vector.html)
+- [Walt Disney Animation Studios: timing and animation principles](https://www.disneyanimation.com/process/animation/)

@@ -1,16 +1,25 @@
 # Research — Ink-line metamorphosis / early drawn animation
 
-## Style fingerprint
+## Identification and provenance
 
-- **Visual/material vocabulary:** economical contour; off-white paper tooth; line boil; straight-ahead redraw; pen-stroke causality; graphic metamorphosis through shared contours.
-- **Motion logic:** Keep the drawing hand implied and make every new object inherit a visible line from the prior form; favor uneven but readable arcs over polished tweening.
-- **MiniMax H3 translation:** Use one primary action, one continuous camera path (or a locked camera), one lighting progression, and a stable resolved endpoint. At 100 BPM, map beats 1–8 to 0.00–4.80 seconds and use the remaining H3 tail through 5.17 seconds as a clean hold. Treat exact typography and perfect loops as explicit constraints, but expect final frame-accurate enforcement in post.
+The label is descriptive, not a documented historical school; the sources support early line animation and graphic transformation.
+
+## Historically and technically grounded mechanics
+
+Economical black contour, off-white paper tooth, visible line boil, straight-ahead redraw, and shared-contour metamorphosis. Early drawn animation makes the act of drawing and the persistence of a line part of the event.
+
+## Actionable motion, material, and camera vocabulary
+
+- Preserve material evidence and edge behavior; use controlled silhouettes, motivated overlap, readable spacing, and a stable endpoint.
+- Keep each new form causally attached to an existing stroke; readable intermediate contours matter more than polished tweening.
+- Camera vocabulary: locked-off rostrum view, zero amplitude, zero speed; continuous screen direction; no unmotivated reframing.
+
+## Prompt implications
+
+Translate the technique into visible causes rather than naming the style alone. Prioritize the original subject and action, use one dominant action hierarchy, make transformations pass through legible intermediate states, and reserve the final tail for a settled hold.
 
 ## Sources
 
-- [Animation Resources — Early Cartoonists](https://animationresources.org/category/early-cartoonists/)
-- [Library of Congress — Silent Animated Films](https://www.loc.gov/rr/mopic/findaid/animate.html)
-
-## Prompting takeaways
-
-Name the physical medium before the subject, describe visible intermediate states rather than asking for a dissolve, bind each sound to one visible event, and state what must remain stable: subject identity, material texture, screen geometry, letterforms, or the loop phase.
+- [Library of Congress — Origins of American Animation](https://www.loc.gov/collections/origins-of-american-animation/about-this-collection/)
+- [Library of Congress — Humorous Phases of Funny Faces](https://www.loc.gov/item/00694006/)
+- [Library of Congress — Innovative Animators](https://www.loc.gov/loc/lcib/9906/animate.html)

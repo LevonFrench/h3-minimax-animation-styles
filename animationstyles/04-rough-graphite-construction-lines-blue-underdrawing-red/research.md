@@ -1,16 +1,25 @@
-# Research — Animator pencil test
+# Research — Animator’s graphite pencil test
 
-## Style fingerprint
+## Identification and provenance
 
-- **Visual/material vocabulary:** blue non-photo underdrawing; graphite cleanup search lines; red corrections; peg holes; exposure notes; arcs; spacing charts; key-pose clarity; overlapping action.
-- **Motion logic:** Show the drawing process as evidence: construction circles persist, corrections cluster near joints, and spacing visibly changes around apex and landing.
-- **MiniMax H3 translation:** Use one primary action, one continuous camera path (or a locked camera), one lighting progression, and a stable resolved endpoint. At 100 BPM, map beats 1–8 to 0.00–4.80 seconds and use the remaining H3 tail through 5.17 seconds as a clean hold. Treat exact typography and perfect loops as explicit constraints, but expect final frame-accurate enforcement in post.
+This is a production-process look, not a single period style.
+
+## Historically and technically grounded mechanics
+
+Graphite search lines sit over blue construction, with red corrections, peg holes, exposure notes, arcs, spacing changes, and overlapping action left visible. Keys clarify the line of action while in-betweens reveal acceleration and easing.
+
+## Actionable motion, material, and camera vocabulary
+
+- Preserve material evidence and edge behavior; use controlled silhouettes, motivated overlap, readable spacing, and a stable endpoint.
+- Make anticipation, apex spacing, descent spacing, hair overlap, landing squash, and the balanced final key visibly distinct; retain construction evidence rather than cleaning it away.
+- Camera vocabulary: locked animation-stand camera, zero amplitude, zero speed; continuous screen direction; no unmotivated reframing.
+
+## Prompt implications
+
+Translate the technique into visible causes rather than naming the style alone. Prioritize the original subject and action, use one dominant action hierarchy, make transformations pass through legible intermediate states, and reserve the final tail for a settled hold.
 
 ## Sources
 
-- [Animation Resources — Don Graham biography](https://animationresources.org/biography-don-graham/)
-- [Animation Resources — Walter Lantz drawing lesson](https://animationresources.org/education-a-drawing-lesson-from-walter-lantz/)
-
-## Prompting takeaways
-
-Name the physical medium before the subject, describe visible intermediate states rather than asking for a dissolve, bind each sound to one visible event, and state what must remain stable: subject identity, material texture, screen geometry, letterforms, or the loop phase.
+- [Adobe — Animation key poses](https://www.adobe.com/uk/creativecloud/animation/discover/animation-key-poses.html)
+- [Adobe — Principles of animation](https://www.adobe.com/creativecloud/animation/discover/principles-of-animation.html)
+- [Library of Congress — Innovative Animators](https://www.loc.gov/loc/lcib/9906/animate.html)

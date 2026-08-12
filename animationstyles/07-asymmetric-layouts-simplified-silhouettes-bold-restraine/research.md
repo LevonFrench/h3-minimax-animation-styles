@@ -1,16 +1,25 @@
-# Research — UPA-inspired limited animation
+# Research — UPA-associated limited animation
 
-## Style fingerprint
+## Identification and provenance
 
-- **Visual/material vocabulary:** asymmetric composition; flattened perspective; reduced palette; angular silhouette; held body pose; selective eye and wrist motion; poster-like negative space.
-- **Motion logic:** Limited animation gains force through selective motion: keep the body held, animate only gaze and wrist, then use the cabinet drawers as a graphic percussion grid.
-- **MiniMax H3 translation:** Use one primary action, one continuous camera path (or a locked camera), one lighting progression, and a stable resolved endpoint. At 100 BPM, map beats 1–8 to 0.00–4.80 seconds and use the remaining H3 tail through 5.17 seconds as a clean hold. Treat exact typography and perfect loops as explicit constraints, but expect final frame-accurate enforcement in post.
+UPA is a studio history, while “limited animation” names a broad production approach; the prompt uses associated graphic traits without claiming a specific film.
+
+## Historically and technically grounded mechanics
+
+Asymmetric composition, flattened perspective, reduced palette, angular silhouettes, held poses, selective eye/wrist animation, and poster-like negative space focus attention through economy.
+
+## Actionable motion, material, and camera vocabulary
+
+- Preserve material evidence, edge behavior, controlled silhouettes, motivated overlap, readable spacing, and a stable endpoint.
+- Hold the worker’s body; animate pupils, one wrist, and drawer rhythm selectively. The cabinet acts as a graphic percussion grid, not realistic furniture choreography.
+- Camera vocabulary: locked graphic proscenium, zero amplitude, zero speed; continuous screen direction; no unmotivated reframing.
+
+## Prompt implications
+
+Translate technique into visible causes rather than style names alone. Preserve the original subject/action and use legible intermediate states, coherent spatial relationships, and a settled final hold.
 
 ## Sources
 
 - [Library of Congress — The Unicorn in the Garden](https://www.loc.gov/exhibits/music-and-animation/the-unicorn-in-the-garden-1953.html)
-- [Library of Congress — Three Films by Chuck Jones](https://lcweb2.loc.gov/static/programs/national-film-preservation-board/documents/chuck_jones.pdf)
-
-## Prompting takeaways
-
-Name the physical medium before the subject, describe visible intermediate states rather than asking for a dissolve, bind each sound to one visible event, and state what must remain stable: subject identity, material texture, screen geometry, letterforms, or the loop phase.
+- [Library of Congress — Film Registry descriptions and essays](https://www.loc.gov/programs/national-film-preservation-board/film-registry/descriptions-and-essays)
+- [Adobe — Animation key poses](https://www.adobe.com/uk/creativecloud/animation/discover/animation-key-poses.html)

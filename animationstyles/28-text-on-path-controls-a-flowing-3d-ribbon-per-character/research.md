@@ -1,16 +1,22 @@
-# Research — Text-on-path ribbon animation
+# Research: text-on-path ribbon typography
 
-## Style fingerprint
+## Identification and provenance
 
-- **Visual/material vocabulary:** mask-path text; perpendicular character orientation; force alignment; spline ribbon; depth-aware occlusion; stable reading direction; character release.
-- **Motion logic:** Keep the phrase attached to one continuous ribbon and upright at every bend; occlusion must be brief and physically caused by the ribbon crossing itself.
-- **MiniMax H3 translation:** Use one primary action, one continuous camera path (or a locked camera), one lighting progression, and a stable resolved endpoint. At 100 BPM, map beats 1–8 to 0.00–4.80 seconds and use the remaining H3 tail through 5.17 seconds as a clean hold. Treat exact typography and perfect loops as explicit constraints, but expect final frame-accurate enforcement in post.
+This is a contemporary hybrid of kinetic typography, spline animation, and 3D ribbon staging. Adobe documents mask paths as editable text paths, including per-character perpendicular orientation, margins, reversal, and forced alignment. The “flowing 3D ribbon” is an art-direction description rather than a standardized historical style.
+
+## Visual and motion mechanics
+
+- Bind the exact phrase to one coherent ribbon centerline; letters inherit tangent direction but remain upright to the viewer.
+- Layered curves require clear depth ordering and self-occlusion: the ribbon may hide its own text briefly, never scramble it.
+- Use broad spline arcs, consistent ribbon width, soft banking, and restrained perspective convergence.
+- Detachment should proceed word-by-word or character-group-by-character-group into a stable centered title grid.
+
+## Prompt implications
+
+Keep the blue ribbon as the dominant object and the phrase as its surface graphic. Use one gentle camera response to the near loop, then settle frontally for the title. Explicitly protect spelling and baseline alignment.
 
 ## Sources
 
-- [Adobe — Creating and animating text on a path](https://helpx.adobe.com/after-effects/desktop/animating-text/text-animation/animating-text.html)
-- [Adobe — Bezier paths](https://helpx.adobe.com/ca/after-effects/using/overview-shape-layers-paths-vector.html)
-
-## Prompting takeaways
-
-Name the physical medium before the subject, describe visible intermediate states rather than asking for a dissolve, bind each sound to one visible event, and state what must remain stable: subject identity, material texture, screen geometry, letterforms, or the loop phase.
+- [Adobe After Effects: creating and animating text on a path](https://helpx.adobe.com/uk/after-effects/using/animating-text.html)
+- [Adobe After Effects: editable vector text layers](https://helpx.adobe.com/uk/after-effects/using/creating-editing-text-layers.html)
+- [Adobe After Effects: shape layers, paths, and vector graphics](https://helpx.adobe.com/after-effects/using/overview-shape-layers-paths-vector.html)

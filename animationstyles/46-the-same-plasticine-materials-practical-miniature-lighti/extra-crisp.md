@@ -1,41 +1,5 @@
-# Title
+integrated_multimodal_description: T2VA, native 736×416, 24 fps, 124 frames, exactly 5.1667 s. One ochre-plasticine adult mechanic grips an oversized clay mallet beside a fixed brass peg on a miniature wooden bench. 0.00–1.55 s: the mechanic half-raises the mallet, adjusts one foot, studies the peg, lowers the tool slightly, and holds in doubt. 1.55–3.30 s: weight shifts backward and the mallet arcs behind into one accented anticipation extreme; handcrafted thumbprints, replacement mouth shapes, stepped poses, and practical shadows remain visible. Camera locked side three-quarter, zero amplitude, zero speed. 3.30–4.05 s: one fast downstroke widens pose spacing into a single clean contact, sinking the peg without bounce. 4.05–5.1667 s: the torso follows past the target, recovers to a post-impact lean, then settles and holds. Keep hammer scale, peg location, and bench geometry fixed. No repeated strike, elastic peg, extra tools, smooth CGI, or camera motion.
 
-Clay Bellmaker's Strike
+overall_soundscape: Clay handling creaks, one air swish, a dense wooden impact, and a faint bench resonance.
 
-## Intent
-
-Send weight through feet, hips, torso, arms, and hammer into one legible impact and brief practical settle.
-
-## Shot Class
-
-Medium full miniature shot, 65 mm equivalent, locked three-quarter camera.
-
-## Subject / Continuity
-
-A clay bellmaker in a fixed brown apron drives one brass peg into a wooden bench with one stable hammer. Preserve fingerprints, hand anatomy, hammer head, peg, bench, and shadows.
-
-## Timed Action + Camera
-
-100 BPM. Beat 1 (0.00-0.60): feet plant. Beat 2 (0.60-1.20): hips and torso coil backward. Beats 3-4 (1.20-2.40): arms lift hammer along one curved arc, then hold briefly. Beats 5-6 (2.40-3.60): chain reverses and accelerates into one contact. Beat 7 (3.60-4.20): peg sinks once, hammer follows through, bench rattles briefly. Beat 8 (4.20-4.80): hammer and bench settle. Hold through 5.1667 s.
-
-## Spatial Block
-
-Bellmaker at (−0.15,0,0); hammer arc from (−0.05,+0.24,0) to (+0.12,+0.52,0) to (+0.18,+0.16,0); camera fixed (+0.45,+0.30,−1.55).
-
-## Look + Lighting
-
-Plasticine fingerprints, discrete pose changes, purposeful hold, stable wood grain, brass material, practical warm lamp and contact shadows.
-
-## Sound
-
-Silent; no hammer impact, voice, music, or soundtrack.
-
-## Limits
-
-One strike. No repeated blows, changing tool geometry, hand fusion, bouncing peg, cuts, camera motion, text, logos, or rattle after 4.80 s.
-
-## Sources
-
-- [Disney Animation — timing, anticipation, follow-through](https://www.disneyanimation.com/process/animation/)
-- [MoMA — stop-motion and articulated performance](https://www.moma.org/explore/inside_out/2010/04/07/crude-elegance-stop-motion-animation-and-tim-burton/)
-- [Oscars — animation activities guide](https://www.oscars.org/sites/oscars/files/complete_animation_activities_guide.pdf)
+non_diegetic_music: Low plucked bass builds tension and lands one restrained accent; tempo is not frame-exact.

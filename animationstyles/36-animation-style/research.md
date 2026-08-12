@@ -1,14 +1,22 @@
-# Research — Premium Turntable Product Loop
+# Research: photoreal product turntable loop
 
-## Actionable vocabulary
+## Identification and provenance
 
-- Treat the object as a hero packshot: invariant silhouette, grille pitch, button placement, label-free finish, and physically plausible contact shadow.
-- A seamless turntable loop needs constant angular velocity, a closed highlight path, identical exposure and shadow phase at the seam, and no focus breathing.
-- PBR materials separate diffuse, specular, roughness, and clear-coat behavior; a matte polymer should carry a broad softbox reflection, not a metallic mirror streak.
-- Keep the camera locked and let one action own the clip: a single clockwise revolution. Use the moving vertical stripbox reflection as the readable accent.
+The source supplies no named “animation style”; it describes a premium 3D product visualization. Physically based rendering aims to reproduce real-world light and material appearances, while rendered depth of field uses a selected focus distance. The turntable/revolving highlight treatment is commercial product cinematography, not a historical school.
+
+## Visual and motion mechanics
+
+- Exact cylindrical geometry, grille pattern, buttons, and material roughness must remain stable through rotation.
+- A mirrored black turntable needs coherent contact reflection and a grounded shadow.
+- The narrow vertical highlight should travel causally around the curved matte-white surface as the product rotates.
+- A constant-speed 360° revolution and locked camera create an objectively closed loop.
+
+## Prompt implications
+
+Treat the speaker as the sole hero object. Use controlled large soft sources, black studio falloff, shallow depth without losing the front grille, and restrained blur. Do not invent branding.
 
 ## Sources
 
-- [Blender Manual — Principled BSDF](https://docs.blender.org/manual/en/3.1/render/shader_nodes/shader/principled.html)
-- [Blender Manual — materials introduction](https://docs.blender.org/manual/en/2.91/render/materials/introduction.html)
-- [Blender Manual — keyframe interpolation](https://docs.blender.org/manual/en/dev/animation/keyframes/introduction.html)
+- [Test Scene Design for Physically Based Rendering](https://arxiv.org/abs/2008.11657)
+- [Autodesk Maya: adjusting depth of field and focus target](https://help.autodesk.com/cloudhelp/2022/ENU/Maya-Rendering/files/GUID-3FCD5E9C-98AF-4BA9-99A1-381B036724E3.htm)
+- [OpenPBR technical overview: interoperable physically based materials](https://arxiv.org/abs/2512.23696)

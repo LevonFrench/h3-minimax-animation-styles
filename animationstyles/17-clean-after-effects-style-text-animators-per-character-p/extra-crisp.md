@@ -1,40 +1,5 @@
-# Title
+integrated_multimodal_description: A native 736×416, 24 fps, 124-frame, 5.1667-second kinetic-typography T2VA shot. [0.00–1.00 s] The single word "UPWARD" sits as seven small cream glyphs along one baseline on a deep navy orthographic field, with cap-height guides faintly visible and crisp sans-serif construction. The layout camera is locked, zero amplitude, zero speed. [1.00–3.85 s] The word performs one action: its letters rise sequentially into a large centered lockup, each glyph moving independently through controlled vertical position, shallow 3D rotation, tracking compression, motion blur, and one modest overshoot while retaining legibility. [3.85–4.55 s] All seven letters return square to camera, align to one baseline, and finish their overshoot without drifting as a whole word. [4.55–5.1667 s] The exact "UPWARD" lockup holds and the guides fade to subordinate hairlines. No misspelling, extra words, warped glyphs, camera motion, or lingering jitter.
 
-NORTHBOUND Letter Cascade
+overall_soundscape: Seven soft typographic ticks climb in pitch with the letters, followed by a compact low lockup thump and clean room silence.
 
-## Intent
-
-Create one exact kinetic-type build using per-character selectors, disciplined baselines, and a stable final lockup.
-
-## Shot Class
-
-Full-frame graphic plate, orthographic view, locked camera.
-
-## Subject / Continuity
-
-Exact uppercase word “NORTHBOUND” in one bold geometric sans-serif, white on deep navy. Preserve spelling, character order, counters, baseline, and cap-height.
-
-## Timed Action + Camera
-
-100 BPM. Beat 1 (0.00-0.60): cap-height and baseline guides appear faintly; letters rest 0.12 m below baseline. Beats 2-5 (0.60-3.00): a left-to-right range selector lifts characters individually onto the baseline with shallow Y rotation and readable motion blur. Beats 6-7 (3.00-4.20): selector completes; each character makes one 6 percent overshoot and returns. Beat 8 (4.20-4.80): guides vanish, exact word locks. Hold perfect lockup and camera through 5.1667 s.
-
-## Spatial Block
-
-Word spans X=−0.42 to +0.42 m, baseline Y=0; characters travel Y=−0.12 to 0. Camera fixed at (0,0,−1.5), no perspective drift.
-
-## Look + Lighting
-
-Clean After Effects-style typography, range-selector rhythm, crisp edges, shallow 3D rotation, restrained motion blur, flat white and navy. No lighting change beyond the guides fading away.
-
-## Sound
-
-Silent visual take; no voice, music, effects, or soundtrack.
-
-## Limits
-
-One title build. Exact text only: NORTHBOUND. No extra glyphs, misspelling, whole-word drift, warped letters, decorative icons, cuts, camera motion, gradients, logos, or motion after 4.80 s.
-
-## Sources
-
-- [Adobe — Animating text](https://helpx.adobe.com/after-effects/desktop/animating-text/text-animation/animating-text.html)
-- [Adobe Learn — Create and animate text](https://www.adobe.com/learn/after-effects/web/creating-animating-text)
+non_diegetic_music: Minimal mallet synth and warm sub bass make a brief ascending phrase, then sustain quietly during the final hold.

@@ -1,40 +1,5 @@
-# Title
+integrated_multimodal_description: T2VA, native 736×416, 24 fps, 124 frames, exactly 5.1667 s. One cobalt satin ribbon carries the exact white phrase “FOLLOW THE CURRENT” along its centerline in a pale-gray seamless space. 0.00–1.30 s: the ribbon enters from lower left in a broad spline arc; letters remain upright to the viewer and tangent-aligned. 1.30–3.55 s: the ribbon banks through one near loop, preserving width, depth ordering, and brief self-occlusion without scrambling the phrase; camera makes one gentle lateral truck right, small amplitude, slow speed. 3.55–4.55 s: the ribbon straightens frontally and the phrase detaches word-group by word-group into one centered line. 4.55–5.1667 s: the title settles and holds with a level baseline. Preserve continuous ribbon geography and restrained perspective. No misspelling, twisted glyphs, extra ribbons, or abrupt cuts.
 
-FOLLOW THE TIDE Ribbon
+overall_soundscape: Soft fabric-air swishes follow the curve, ending with three quiet paper-light placement taps and clean room tone.
 
-## Intent
-
-Keep one exact phrase attached to a continuous 3D ribbon, upright and readable through every bend and brief physical occlusion.
-
-## Shot Class
-
-Medium-wide 50 mm view, continuous lateral arc following one spline ribbon.
-
-## Subject / Continuity
-
-One cobalt ribbon carries exact white phrase “FOLLOW THE TIDE.” Characters remain perpendicular to the path, in order, upright, and attached.
-
-## Timed Action + Camera
-
-100 BPM. Beat 1 (0.00-0.60): ribbon enters from left. Beats 2-4 (0.60-2.40): phrase advances along a broad S-curve as camera arcs parallel. Beats 5-6 (2.40-3.60): ribbon crosses itself once, causing a brief depth-correct occlusion of two letters without reordering them. Beat 7 (3.60-4.20): phrase clears the crossing and ribbon straightens. Beat 8 (4.20-4.80): exact phrase settles centered and fully readable. Hold through 5.1667 s.
-
-## Spatial Block
-
-Ribbon spans X=−0.55 to +0.55 m, Y=±0.18, Z=0-0.22 m. Camera (−0.35,+0.10,−1.6) to (+0.25,+0.10,−1.5), maintaining reading direction.
-
-## Look + Lighting
-
-Smooth spline ribbon, depth-aware occlusion, perpendicular text orientation, restrained cobalt-white palette, soft edge light.
-
-## Sound
-
-Silent; no voice, music, effects, or soundtrack.
-
-## Limits
-
-Exact phrase only: FOLLOW THE TIDE. No detached characters, reversed reading, multiple ribbons, unmotivated occlusion, cuts, roll, misspelling, logos, or endpoint motion.
-
-## Sources
-
-- [Adobe — Creating and animating text on a path](https://helpx.adobe.com/after-effects/desktop/animating-text/text-animation/animating-text.html)
-- [Adobe — Bezier paths](https://helpx.adobe.com/ca/after-effects/using/overview-shape-layers-paths-vector.html)
+non_diegetic_music: Airy marimba tones and a smooth synth bed rise gently, then resolve without asserting frame-exact musical timing.

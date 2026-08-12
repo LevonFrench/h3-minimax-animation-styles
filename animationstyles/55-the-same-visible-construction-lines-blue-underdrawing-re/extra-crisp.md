@@ -1,41 +1,5 @@
-# Title
+integrated_multimodal_description: A rough hand-drawn flight pencil test on stationary off-white animation paper, using visible graphite construction, blue underdrawing, minimal red corrections, controlled onion skins, and fixed registration holes. [0.00–0.85 s] One small kingfisher enters from left above a bare branch, lit as a page beneath one warm desk lamp. The camera performs a lateral track, medium amplitude, moderate speed, following the bird while keeping the branch’s final perch visible. [0.85–3.15 s] The kingfisher performs one observable action: flies to and lands on the branch. It completes exactly two readable wing cycles; body follows a shallow rise-and-fall arc, head stays comparatively stable, wing spacing clusters at reversals and opens through fast mid-strokes, tail counter-arcs with delay, feet tucked. [3.15–4.20 s] Forward momentum converts into one precise two-foot branch contact and a compact body-settle arc; the branch remains registered. [4.20–5.1667 s] Wings fold, tail completes one diminishing correction, and the perched bird holds still. Preserve left-to-right direction, one bird identity, branch position, paper, and page lighting. Native output contract: 736×416, 24 fps, 124 frames, exactly 5.1667 seconds. No extra wing cycle, extra birds, sliding branch, uncontrolled ghost copies, colored cel fill, text, or camera whip.
 
-Pencil Kingfisher Landing
+overall_soundscape: Soft paper-and-pencil rasp, two delicate wing-paper flutters, one tiny claw click on branch contact, and a faint wooden flex that settles.
 
-## Intent
-
-Separate torso, wing-tip, head, tail, and foot arcs so two countable wing cycles resolve into one branch landing.
-
-## Shot Class
-
-Top-down animation-page side view, locked camera.
-
-## Subject / Continuity
-
-One rough-pencil kingfisher approaches one fixed branch. Blue construction, red corrections, graphite lines, onion skins, peg holes, and registration stay fixed.
-
-## Timed Action + Camera
-
-100 BPM. Beats 1-4 (0.00-2.40): bird advances right through exactly two complete wing cycles; torso follows a shallow wave, wing tips trace large ellipses, head remains stable, tail counter-arcs. Beats 5-6 (2.40-3.60): feet tuck then extend toward branch while wing spacing widens. Beat 7 (3.60-4.20): both feet contact branch once. Beat 8 (4.20-4.80): one decreasing body settle ends stable. Hold through 5.1667 s.
-
-## Spatial Block
-
-Torso (−0.42,+0.20,0) to (+0.22,+0.12,0); branch contact (+0.25,0,0). Camera fixed at (0,+0.72,0).
-
-## Look + Lighting
-
-Visible graphite construction, blue underdrawing, red arc corrections, onion skins clarifying separate paths, fixed paper field and line boil only in drawings.
-
-## Sound
-
-Silent; no wing foley, bird call, music, or soundtrack.
-
-## Limits
-
-One approach-and-land action, exactly two wing cycles. No extra birds, branch drift, camera motion, finished color, cuts, text, logos, or movement after settle.
-
-## Sources
-
-- [Disney Animation — hand-drawn timing, weight, overlapping action](https://www.disneyanimation.com/process/hand-drawn-animation/)
-- [Disney Animation — animation principles](https://www.disneyanimation.com/process/animation/)
-- [Academy — animation terms and frame-by-frame movement](https://www.oscars.org/sites/oscars/files/complete_animation_activities_guide.pdf)
+non_diegetic_music: Two light flute pulses accompany the wing cycles and resolve into a held celesta tone at landing; timing is expressive, not frame-locked to BPM.

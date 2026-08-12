@@ -1,41 +1,5 @@
-# Title
+integrated_multimodal_description: A modern homage to high-contrast 1930s rubber-hose cartoon motion, rendered in pure black and white with rounded ink forms, subtle gate weave, and light film flicker. [0.00–0.90 s] One cheerful black cat with white face and tube-like limbs crouches on a simple white stage beneath a single graphic overhead spotlight; the stage horizon stays fixed. The camera performs a lateral track, medium amplitude, brisk speed, following left to right. [0.90–3.55 s] The cat performs one observable action: makes one elastic leap over a small black puddle. It anticipates as a broad low squash, stretches into a tall curved arc while preserving perceived body volume, snaps through one readable airborne pose with two graphic speed strokes, then descends. [3.55–4.35 s] The cat lands right of the puddle in one pancake squash and rebounds to its rounded standing shape; speed strokes vanish cleanly. [4.35–5.1667 s] Limbs finish one diminishing rubbery ripple and the cat holds. Preserve one cat identity, left-to-right continuity, puddle location, monochrome contrast, and spotlight. Native output contract: 736×416, 24 fps, 124 frames, exactly 5.1667 seconds. No extra jumps, gray shading, limb multiplication, sliding horizon, modern 3D rendering, text, or heavy scratches.
 
-Rubber-Hose Moon Sphere
+overall_soundscape: Light projector flutter, one taut springy boing through takeoff, a tiny air whistle, and a soft rubber thump on landing.
 
-## Intent
-
-Drive one abstract sphere through four clean volume-preserving extremes with jazz-age elasticity.
-
-## Shot Class
-
-Centered medium graphic shot, locked camera.
-
-## Subject / Continuity
-
-One high-contrast black sphere with two white pie-cut eyes occupies a white stage. Preserve apparent volume, center, eye identity, and floor shadow.
-
-## Timed Action + Camera
-
-100 BPM. Beat 1 (0.00-0.60): round sphere holds. Beat 2 (0.60-1.20): squashes into a wide pancake. Beat 3 (1.20-1.80): stretches into tall oval. Beats 4-5 (1.80-3.00): one elastic ripple travels around circumference. Beats 6-7 (3.00-4.20): sphere spins once clockwise, eyes counter-rotating to remain readable. Beat 8 (4.20-4.80): clean round form returns. Hold through 5.1667 s.
-
-## Spatial Block
-
-Sphere centered at (0,0,0), equivalent area constant, extremes within 0.40×0.16 and 0.16×0.40 m. Camera fixed at (0,+0.20,−1.5).
-
-## Look + Lighting
-
-1920s–30s black-and-white rubber-hose styling, elastic curves, simple graphic staging, subtle gate weave and exposure variation.
-
-## Sound
-
-Silent; no jazz, dialogue, effects, or soundtrack.
-
-## Limits
-
-One deformation cycle. No limbs, extra characters, volume loss, destabilizing gate weave, camera motion, cuts, text, logos, or movement after 4.80 s.
-
-## Sources
-
-- [MoMA — Fleischer Cartoons](https://www.moma.org/calendar/film/5671)
-- [MoMA — Disney, Iwerks, and Fleischer in the 1930s](https://www.moma.org/explore/inside_out/2011/02/08/disney-iwerks-and-fleischer-in-the-1930s/)
-- [Academy — squash and stretch](https://www.oscars.org/sites/oscars/files/complete_animation_activities_guide.pdf)
+non_diegetic_music: Jaunty muted trumpet, upright bass, and woodblock play one compact rise-and-land phrase; tempo language is editorial, not frame-exact.

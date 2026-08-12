@@ -1,16 +1,25 @@
 # Research — Replacement-face puppet stop motion
 
-## Style fingerprint
+## Identification and provenance
 
-- **Visual/material vocabulary:** carved wood armature puppet; fabric drag; replacement mouth plates; stepped pose increments; practical miniature shadows; contact jitter; tactile suitcase hardware.
-- **Motion logic:** Weight comes from incremental pose changes, planted feet, compressed fabric, and persistent contact shadows; facial replacement should change only at motivated beats.
-- **MiniMax H3 translation:** Use one primary action, one continuous camera path (or a locked camera), one lighting progression, and a stable resolved endpoint. At 100 BPM, map beats 1–8 to 0.00–4.80 seconds and use the remaining H3 tail through 5.17 seconds as a clean hold. Treat exact typography and perfect loops as explicit constraints, but expect final frame-accurate enforcement in post.
+The prompt combines common puppet-stop-motion methods rather than citing one production lineage.
+
+## Historically and technically grounded mechanics
+
+Carved wooden figures, fabric drag, replacement mouth pieces, stepped pose increments, practical miniature shadows, contact jitter, and tactile hardware make weight visible.
+
+## Actionable motion, material, and camera vocabulary
+
+- Preserve material evidence, edge behavior, controlled silhouettes, motivated overlap, readable spacing, and a stable endpoint.
+- Plant the porter’s feet, compress fabric at the brace, keep suitcase contact shadows persistent, and change the mouth only at motivated emotional beats.
+- Camera vocabulary: locked miniature-set camera, zero amplitude, zero speed; continuous screen direction; no unmotivated reframing.
+
+## Prompt implications
+
+Translate technique into visible causes rather than style names alone. Preserve the original subject/action and use legible intermediate states, coherent spatial relationships, and a settled final hold.
 
 ## Sources
 
-- [Library of Congress — Edison animation overview](https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-motion-pictures/overview-of-the-edison-motion-pictures-by-genre/)
-- [Library of Congress — Silent Animated Films](https://www.loc.gov/rr/mopic/findaid/animate.html)
-
-## Prompting takeaways
-
-Name the physical medium before the subject, describe visible intermediate states rather than asking for a dissolve, bind each sound to one visible event, and state what must remain stable: subject identity, material texture, screen geometry, letterforms, or the loop phase.
+- [Smithsonian Magazine — The animation craft of Rudolph](https://www.smithsonianmag.com/innovation/magical-animation-rudolph-red-nosed-reindeer-180973841/)
+- [Library of Congress — Early stop-motion animation](https://blogs.loc.gov/families/2021/08/exploring-the-early-days-of-animation-lets-start-with-stop-motion/)
+- [NFB — The Art of the Animator, Part II](https://collection.nfb.ca/film/the-art-of-the-animator-part-ii)

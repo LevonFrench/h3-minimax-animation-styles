@@ -1,14 +1,23 @@
-# Research — Isometric Logistics Motion Design
+# Research: isometric modular logistics loop
 
-## Actionable vocabulary
+## Identification and provenance
 
-- Orthographic/isometric staging removes perspective convergence; preserve parallel axes, consistent scale, and stable shadow direction.
-- Build a readable hierarchy: one package owns the action, four stations provide sequential waypoints, and vehicles/data pulses remain low-amplitude secondary cycles.
-- Parametric vector paths support exact path animation; use quarter-turn arm pivots, belt index marks, and graph-editor ease at transfers while conveyor travel remains steady.
-- A loop closes only when every subsystem returns to the same phase, not merely the hero package.
+This is a contemporary isometric/orthographic motion-graphics system. Orthographic cameras use parallel projection and are commonly useful for isometric or 2D scenes; vector shape layers provide resolution-independent paths and repeatable geometry. The miniature logistics tableau is an original infographic-like hybrid, not a historical movement.
+
+## Visual and motion mechanics
+
+- Use one consistent axonometric grid with parallel edges and no perspective convergence.
+- Package, belts, arms, vehicles, signals, and pulses need separate closed paths but a shared cycle phase.
+- Ninety-degree arm rotations should pivot on fixed joints, transfer contact cleanly, and return before the next station event.
+- Clean shadows should share direction and length; tiny vehicles remain subordinate to the package circuit.
+
+## Prompt implications
+
+Keep a locked high three-quarter orthographic view, readable station spacing, and one hero package. Avoid scale drift and perspective lens breathing. Return every subsystem to its opening phase.
 
 ## Sources
 
-- [Adobe — shape layers, paths, and vector graphics](https://helpx.adobe.com/ca/after-effects/using/overview-shape-layers-paths-vector.html)
-- [Adobe — animation basics and Graph Editor](https://helpx.adobe.com/after-effects/desktop/animate-in-after-effects/animation-basics/animation-basics.html)
-- [Blender Manual — keyframe interpolation](https://docs.blender.org/manual/en/dev/animation/keyframes/introduction.html)
+- [Unity Manual: orthographic camera use for isometric and 2D scenes](https://docs.unity.cn/2022.1/Documentation/Manual/class-Camera.html)
+- [Unity Learn: perspective and orthographic projection types](https://learn.unity.com/tutorial/66fd9e15edbc2a06f73501d8)
+- [Adobe After Effects: shape layers, paths, and vector graphics](https://helpx.adobe.com/after-effects/using/overview-shape-layers-paths-vector.html)
+- [Adobe After Effects: cyclic loop expressions](https://helpx.adobe.com/after-effects/using/expression-basics.html)

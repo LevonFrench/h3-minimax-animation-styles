@@ -1,14 +1,22 @@
-# Research — Deterministic Particle Morph
+# Research: deterministic particle-field morph loop
 
-## Actionable vocabulary
+## Identification and provenance
 
-- Particle systems become coherent through force fields, attractors, turbulence, and flocking/boid rules. For a loop, use cached deterministic trajectories rather than respawning particles.
-- Preserve point count and particle identity through sphere → ring → torus → hourglass → sphere; avoid dissolves that disguise topology changes.
-- Depth comes from size falloff, occlusion, controlled bloom, and a shallow but stable focus plane. Keep the camera locked to the particle centroid.
-- A color wave should travel through neighboring points as a spatial phase front, then return the entire cloud to the opening cyan state.
+This is a procedural particle-motion hybrid using force fields, turbulence, attractors, flocking-like coherence, and depth-of-field rendering. Blender’s manual documents force fields affecting particle simulations and enumerates vortex, turbulence, drag, boid, and related field types. The exact sphere–torus–hourglass loop is a bespoke motion design, not a named historical style.
+
+## Visual and motion mechanics
+
+- Use a fixed population of luminous points; each point follows a closed deterministic trajectory instead of dying and respawning.
+- Shape change should preserve mass impression and point continuity through sphere, ring, torus, hourglass, and restored sphere.
+- A violet wave travels through existing points and returns them to cyan; do not replace the cloud.
+- Depth falloff and locked-center camera give dimensionality while the centroid remains stable.
+
+## Prompt implications
+
+Keep one coherent particle body on black. Favor smooth field-driven flow over explosive scatter. Restore distribution, velocity, brightness, color, focus, and rotation phase for the loop.
 
 ## Sources
 
-- [Blender Manual — Boids particle physics](https://docs.blender.org/manual/vi/3.6/physics/particles/emitter/physics/boids.html)
-- [Blender Manual — force fields](https://docs.blender.org/manual/fi/4.5/physics/forces/force_fields/introduction.html)
-- [Blender Manual — motion blur for particles](https://docs.blender.org/manual/fi/3.6/render/cycles/render_settings/motion_blur.html)
+- [Blender Manual: force fields affecting particles and simulations](https://docs.blender.org/manual/en/dev/physics/forces/force_fields/introduction.html)
+- [Blender Manual: force-field types including turbulence, vortex, and boid](https://docs.blender.org/manual/en/2.83/physics/forces/force_fields/index.html)
+- [Autodesk Maya: depth-of-field focus control](https://help.autodesk.com/cloudhelp/2022/ENU/Maya-Rendering/files/GUID-3FCD5E9C-98AF-4BA9-99A1-381B036724E3.htm)

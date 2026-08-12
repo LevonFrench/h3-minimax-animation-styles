@@ -1,41 +1,5 @@
-# Title
+integrated_multimodal_description: Limited cel-style effects animation with clean dark line art, flat navy and cyan shading, held core drawings, stepped highlights, and planar graphic aura shapes. [0.00–1.00 s] One cyan lantern floats centered above a flat indigo shrine step, its body completely still under a single graphic moon key and pale cyan rim. The camera performs a centered push-in, small amplitude, slow speed, never breaking the frontal axis. [1.00–3.75 s] The lantern performs one observable action: emits exactly three luminous pulses. For each pulse, one of three concentric rings expands in a held-and-step cadence while looping flame-shaped aura drawings cycle around the stationary core; the third pulse has one slightly taller aura spike, then immediately returns to the established loop. Highlights advance in discrete cel increments, not smooth volumetric gradients. [3.75–4.55 s] All three rings contract and disappear, the aura completes its last cycle, and the opening flame silhouette returns precisely. [4.55–5.1667 s] The held cyan lantern remains centered and still. Preserve shrine step, planar geometry, palette, core registration, and lighting. Native output contract: 736×416, 24 fps, 124 frames, exactly 5.1667 seconds. No fourth pulse, volumetric plasma, 3D glow fog, drifting core, extra lanterns, text, or camera shake.
 
-Limited-Cel Aura Orb
+overall_soundscape: Quiet night ambience, a low lantern hum, three synchronized airy chimes with diminishing tails, and a brief soft flame flutter before stillness.
 
-## Intent
-
-Hold the hero drawing while only a reusable aura, stepped highlight, and three planar effects rings animate.
-
-## Shot Class
-
-Centered medium graphic shot, locked camera.
-
-## Subject / Continuity
-
-One violet orb with clean line art and flat shading remains held. A cyan glow contour, one white highlight, and exactly three effects rings occupy separate cel layers.
-
-## Timed Action + Camera
-
-100 BPM. Beat 1 (0.00-0.60): orb drawing holds. Beats 2-4 (0.60-2.40): reusable aura flame cycles around it while highlight advances in three stepped increments. Beats 5-7 (2.40-4.20): exactly three planar rings pulse outward sequentially; orb itself never moves. Beat 8 (4.20-4.80): aura, highlight, glow contour, and ring phase return to stable endpoint. Hold through 5.1667 s.
-
-## Spatial Block
-
-Orb centered (0,0,0), diameter 0.25 m; rings expand to 0.48 m on same plane. Camera fixed at (0,0,−1.4).
-
-## Look + Lighting
-
-Limited cel animation, clean line art, flat violet shading, held frames, reusable graphic aura cycle, crisp planar cyan effects.
-
-## Sound
-
-Silent; no energy sound, voice, music, or soundtrack.
-
-## Limits
-
-One effects cycle. Exactly three rings; no orb motion, volumetric particles, extra colors, camera motion, cuts, text, logos, or movement after 4.80 s.
-
-## Sources
-
-- [MoMA — Independent Animation and limited movement](https://www.moma.org/explore/inside_out/2012/12/25/an-auteurist-history-of-film-independent-animation-1947-60/)
-- [MoMA — UPA modernist animation](https://www.moma.org/interactives/exhibitions/1997/hubley/hub_essay.html)
-- [Academy — cel layers and special effects](https://www.oscars.org/sites/oscars/files/complete_animation_activities_guide.pdf)
+non_diegetic_music: Three spaced synth-bell chords over a restrained analog pad, with the last chord blooming slightly higher; phrasing is editorial, not frame-exact.

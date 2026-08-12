@@ -1,41 +1,5 @@
-# Title
+integrated_multimodal_description: A saturated Pop-art-inflected cut-paper collage assembled frame by frame, with visible scissor edges, screen-print dots, slight paper relief, and bold commercial-print color. [0.00–1.00 s] One cut-paper pomegranate sits centered on a cyan tabletop against a hot pink field, lit by one hard overhead practical that reveals shallow layer shadows. The camera performs a top-down push-in, small amplitude, moderate speed, preserving the object’s registered center. [1.00–3.55 s] The pomegranate performs one observable action: blooms into a concentric paper rosette. Its surface reveals four successive physically layered print skins—yellow florals, black-and-white stripes, red polka dots, then a blue starburst—each peeling outward as a cut ring rather than dissolving; two color halos pulse behind without covering the fruit. [3.55–4.55 s] The rings fold inward in reverse, every paper edge returning to the original pomegranate silhouette and the opening yellow floral skin. [4.55–5.1667 s] Layer shadows stop shifting and the closed collage holds. Preserve tabletop, center, scale, paper thickness, palette, and overhead lighting. Native output contract: 736×416, 24 fps, 124 frames, exactly 5.1667 seconds. No liquid CGI morph, digital crossfade, missing skin, extra fruit, glossy 3D plastic, text, or logos.
 
-Pop Sphere Skin Parade
+overall_soundscape: Crisp paper peels, light card-stock snaps at each ring, two soft printed-paper pulses, and a final layered shuffle into silence.
 
-## Intent
-
-Keep one physical sphere silhouette while four planar paper skins swap and stacked rings bloom from its center.
-
-## Shot Class
-
-Top-down rostrum close-up, locked camera.
-
-## Subject / Continuity
-
-One circular paper sphere stays centered. Four prepared skins—halftone dots, stripes, starbursts, found floral print—replace within the same cut edge; stacked rings remain physical paper.
-
-## Timed Action + Camera
-
-100 BPM. Beat 1 (0.00-0.60): dot skin holds. Beats 2-5 (0.60-3.00): exactly four surface skins replace sequentially, one per beat, without changing the sphere outline. Beats 6-7 (3.00-4.20): concentric scissor-cut rings hinge upward from the center in three stacked steps. Beat 8 (4.20-4.80): floral skin and full ring bloom hold through 5.1667 s.
-
-## Spatial Block
-
-Sphere centered (0,0,0), diameter 0.30 m; rings expand to 0.48 m at Z=0.01-0.03 m. Camera fixed at (0,+0.68,0).
-
-## Look + Lighting
-
-Saturated pop-art collage, torn/scissor edges, halftone misregistration, pasted overlaps, flat shadows, bold cyan/magenta/yellow/black palette.
-
-## Sound
-
-Silent; no paper sounds, music, voice, or soundtrack.
-
-## Limits
-
-One skin-swap-and-bloom action. Exactly four skins; no liquid morph, volume change, camera motion, cuts, text, logos, or endpoint drift.
-
-## Sources
-
-- [The Met — Juan Gris and papiers collés](https://www.metmuseum.org/art/collection/search/500421)
-- [MoMA — Jeff Scher’s collages and painted animation](https://www.moma.org/calendar/exhibitions/3680)
-- [NFB — under-camera paper cut-out techniques](https://blog.nfb.ca/blog/2011/09/14/animation-open-house-2011/)
+non_diegetic_music: Punchy organ, handclaps, and muted bass mark four colorful reveals, then reverse into a clipped final chord; tempo remains editorial intent.

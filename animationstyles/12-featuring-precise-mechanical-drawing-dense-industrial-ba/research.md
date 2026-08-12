@@ -1,16 +1,25 @@
-# Research — High-detail industrial cel action
+# Research — Industrial-design cel animation
 
-## Style fingerprint
+## Identification and provenance
 
-- **Visual/material vocabulary:** precise mechanical perspective; dense layered city; hard practical signals; atmospheric haze; weighty human mechanics; delayed coat and strap overlap; rail sparks.
-- **Motion logic:** Keep the train and rider on one coherent motion axis; sell speed through background depth layers and suspension reaction, not random camera shake.
-- **MiniMax H3 translation:** Use one primary action, one continuous camera path (or a locked camera), one lighting progression, and a stable resolved endpoint. At 100 BPM, map beats 1–8 to 0.00–4.80 seconds and use the remaining H3 tail through 5.17 seconds as a clean hold. Treat exact typography and perfect loops as explicit constraints, but expect final frame-accurate enforcement in post.
+“Industrial cel” is a descriptive hybrid of cel technique and industrial/diagrammatic design, not a formally bounded movement.
+
+## Historically and technically grounded mechanics
+
+Precise mechanical drawing, dense industrial backgrounds, hard-edged cel color, diagrammatic overlays, repeated machinery cycles, and controlled multiplane depth privilege functional clarity.
+
+## Actionable motion, material, and camera vocabulary
+
+- Preserve material evidence, edge behavior, motivated overlap, readable spacing, and a stable endpoint.
+- Keep mechanisms plausible and aligned; animate the worker’s intervention as the dominant causal event while conveyors, gauges, and pistons remain supporting cycles.
+- Camera vocabulary: slow lateral multiplane truck, 5% frame-width amplitude, constant speed; continuous screen direction; no unmotivated reframing.
+
+## Prompt implications
+
+Name visible causes, not style alone. Preserve the original subject/action, use legible intermediate states and coherent space, and reserve the final tail for a settled hold.
 
 ## Sources
 
-- [Library of Congress — animation, pacing, and sound](https://www.loc.gov/exhibits/music-and-animation/about.html)
-- [Animation Resources — staging and dimensional drawing](https://animationresources.org/biography-don-graham/)
-
-## Prompting takeaways
-
-Name the physical medium before the subject, describe visible intermediate states rather than asking for a dissolve, bind each sound to one visible event, and state what must remain stable: subject identity, material texture, screen geometry, letterforms, or the loop phase.
+- [Smithsonian — John Vassos and television design](https://www.smithsonianmag.com/blogs/archives-american-art/2017/12/05/new-technologies-john-vassos-and-television-design/)
+- [Library of Congress — Animation cels](https://www.loc.gov/pictures/collection/tgm/item/tgm000358/)
+- [Adobe — Principles of animation](https://www.adobe.com/creativecloud/animation/discover/principles-of-animation.html)

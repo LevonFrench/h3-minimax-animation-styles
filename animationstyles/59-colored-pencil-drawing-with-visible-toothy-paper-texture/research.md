@@ -1,14 +1,22 @@
-# Research — Colored Pencil on Tooth Paper
+# Research — Colored pencil on toothy paper
 
-## Actionable vocabulary
+## Provenance and identification
 
-- Paper tooth catches dry pigment and remains visible between strokes. Layered hatching, crosshatching, pressure changes, and uneven contour density create a handmade surface.
-- Colored-pencil rotation should be indicated by moving hatch direction and a sliding reserved-paper highlight, not glossy PBR reflection.
-- Controlled line boil and a small organic bulge can animate the object while maintaining center and average volume.
-- Avoid smudged pastel behavior: pencil marks are directional, linear, and comparatively crisp.
+This is a material simulation rather than a named animation movement. Disney establishes that hand-drawn animation may be made traditionally on paper frame by frame. The Metropolitan Museum's pastel materials essay is not about colored pencil specifically, but it usefully explains how dry media interact with textured supports; it supports the tooth, dust, and rubbed-mark vocabulary, not the exact colored-pencil label.
+
+## Visual mechanics
+
+- Let directional pencil strokes wrap around the implied sphere volume.
+- Shift crosshatching and highlight marks consistently with one slow axial turn.
+- Preserve paper tooth as small gaps and granular pigment catches.
+- Confine nervous contour boil and one-sided bulge to local redraws; restore symmetry.
+
+## Prompt implications
+
+Describe the mark behavior rather than merely saying “handmade.” Avoid treating crosshatching as a static texture map sliding independently of the form.
 
 ## Sources
 
-- [The Met — Pastel (useful comparison of tooth and dry pigment)](https://www.metmuseum.org/de/perspectives/materials-and-techniques-drawing-pastel)
-- [Disney Animation — frame-by-frame hand-drawn process](https://www.disneyanimation.com/process/hand-drawn-animation/)
-- [Library of Congress — early line drawing and registration](https://www.loc.gov/loc/lcib/9906/animate.html)
+- [Walt Disney Animation Studios — Hand-Drawn Animation](https://www.disneyanimation.com/process/hand-drawn-animation/)
+- [The Met — Materials and Techniques: Drawing with Pastel](https://www.metmuseum.org/perspectives/materials-and-techniques-drawing-pastel)
+- [Academy — Animation Activities Guide](https://www.oscars.org/sites/oscars/files/complete_animation_activities_guide.pdf)

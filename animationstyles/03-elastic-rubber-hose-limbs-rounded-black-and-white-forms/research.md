@@ -1,16 +1,25 @@
 # Research — Rubber-hose musical cartoon
 
-## Style fingerprint
+## Identification and provenance
 
-- **Visual/material vocabulary:** pie-cut eyes; white gloves; noodle limbs without elbows; rhythmic knee pumps; squash-and-stretch; looping walk cycle; ink-and-paint monochrome; gate weave.
-- **Motion logic:** Build motion around a strong downbeat pose, elastic C- and S-curves, and a clean recoil; synchronized impacts should be few and unmistakable.
-- **MiniMax H3 translation:** Use one primary action, one continuous camera path (or a locked camera), one lighting progression, and a stable resolved endpoint. At 100 BPM, map beats 1–8 to 0.00–4.80 seconds and use the remaining H3 tail through 5.17 seconds as a clean hold. Treat exact typography and perfect loops as explicit constraints, but expect final frame-accurate enforcement in post.
+“Rubber hose” is used as a practical design description; sources document early sound-era synchronization and animation practice rather than this invented character.
+
+## Historically and technically grounded mechanics
+
+Rounded monochrome masses, limbless elbow-free curves, cyclical knee pumps, squash-and-stretch, and clear recoil poses create elastic rhythm. Gate weave and ink instability belong to the photographed-cel surface, not to subject deformation.
+
+## Actionable motion, material, and camera vocabulary
+
+- Preserve material evidence and edge behavior; use controlled silhouettes, motivated overlap, readable spacing, and a stable endpoint.
+- Organize the sweeper, broom, and bin around a few unmistakable musical impacts; reserve the strongest compression and snap for the final catch.
+- Camera vocabulary: locked-off proscenium camera, zero amplitude, zero speed; continuous screen direction; no unmotivated reframing.
+
+## Prompt implications
+
+Translate the technique into visible causes rather than naming the style alone. Prioritize the original subject and action, use one dominant action hierarchy, make transformations pass through legible intermediate states, and reserve the final tail for a settled hold.
 
 ## Sources
 
 - [Library of Congress — Music and Animation](https://www.loc.gov/exhibits/music-and-animation/about.html)
-- [Library of Congress — Steamboat Willie essay](https://lcweb2.loc.gov/static/programs/national-film-preservation-board/documents/steamboat_willie.pdf)
-
-## Prompting takeaways
-
-Name the physical medium before the subject, describe visible intermediate states rather than asking for a dissolve, bind each sound to one visible event, and state what must remain stable: subject identity, material texture, screen geometry, letterforms, or the loop phase.
+- [Library of Congress — Steamboat Willie essay](https://www.loc.gov/programs/static/national-film-preservation-board/documents/steamboat_willie.pdf)
+- [Adobe — Principles of animation](https://www.adobe.com/creativecloud/animation/discover/principles-of-animation.html)

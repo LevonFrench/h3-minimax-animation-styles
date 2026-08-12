@@ -1,14 +1,22 @@
-# Research — CG Follow-Through and Secondary Motion
+# Research — Stylized feature CG with overlapping action
 
-## Actionable vocabulary
+## Provenance and identification
 
-- The primary action is the courier’s abrupt stop. Arms, backpack, straps, and scarf are secondary masses with delayed momentum and decreasing settles.
-- Follow-through should respect attachment points: backpack lifts from shoulders then rebounds; scarf travels past the stopped torso, reverses, and damps in waves.
-- Clean topology supports stable deformation at knees, shoulders, and cloth attachments. PBR materials distinguish skin, fabric, leather, and roof.
-- Use one lateral camera track or a locked profile; the H3 one-action rule favors a locked profile for this mechanics study.
+The source describes a contemporary stylized-CG shot, not a named historical school. Its most specific craft idea is overlapping action: the courier stops first while scarf, backpack, arms, and knees resolve momentum on different schedules. Disney's hand-drawn process identifies timing, weight, mass, and overlapping action as core character-animation tools; Blender's material documentation supports the physically based surface language.
+
+## Visual mechanics
+
+- Build the run and stop around a readable planted-foot contact and a strong torso arrest.
+- Preserve a parent-to-child lag chain: torso → arms/backpack → scarf tip, with progressively smaller settling waves.
+- Use clean deformation at knees and straps; motion blur belongs only to genuinely fast travel.
+- Soft studio key/fill/rim separation should clarify silhouette without flattening the rooftop.
+
+## Prompt implications
+
+State the stop as the dominant action, name each delayed mass in order, and reserve the final interval for a visibly motionless torso plus dying scarf/backpack motion. “Feature-quality” is an aspiration, so topology, deformation, material response, and timing must be described concretely.
 
 ## Sources
 
-- [Disney Animation — follow-through and secondary action](https://www.disneyanimation.com/process/animation/)
-- [Blender Manual — Principled BSDF](https://docs.blender.org/manual/en/3.1/render/shader_nodes/shader/principled.html)
-- [Blender Manual — motion blur](https://docs.blender.org/manual/fi/3.6/render/cycles/render_settings/motion_blur.html)
+- [Walt Disney Animation Studios — Hand-Drawn Animation](https://www.disneyanimation.com/process/hand-drawn-animation/)
+- [Academy of Motion Picture Arts and Sciences — Animation Activities Guide](https://www.oscars.org/sites/oscars/files/complete_animation_activities_guide.pdf)
+- [Blender Manual — Materials introduction](https://docs.blender.org/manual/en/2.91/render/materials/introduction.html)

@@ -1,25 +1,5 @@
-# Spicy — Glitch typography with controlled recovery
+integrated_multimodal_description: Native MiniMax H3 T2VA clip, 736×416, 24 fps, 124 frames, 5.1667 s, 16:9. One dominant subject: the exact uppercase word “NOISE,” large white geometric sans-serif on absolute black. Controlled glitch treatment: luminance-driven displacement bands, scan-line slicing, block compression, time-displaced echoes, and restrained red/green/blue edge separation; preserve readable letter identity until the intentional near-collapse. Camera move: locked-off planar camera, 0 px translation, constant speed. Spatial continuity: the word remains centered on one baseline; all fragments derive from its edges. 0.00–0.70 s: “NOISE” is crisp and stable. 0.70–2.40 s: horizontal slices offset in increasingly irregular bands while RGB fringes separate and reconnect. 2.40–3.20 s: distortion peaks; letters nearly collapse but their global silhouette remains centered. 3.20–3.75 s: one bright vertical synchronization line sweeps left-to-right, rebuilding clean pixels behind it and changing the exact word once to “SIGNAL.” 3.75–4.15 s: residual blocks snap into registration. 4.15–5.17 s: final settle/hold on perfectly legible “SIGNAL”; only tiny peripheral fragments flicker. Exclude extra words, misspellings, camera shake, full-frame television snow, and illegible final type.
 
-## Prompt
+overall_soundscape: Dry digital crackles and short buffer stutters follow the displaced bands; narrow static bursts peak before the repair. A single clean synchronization beep travels with the vertical line, after which the noise floor drops and “SIGNAL” holds in clean electronic silence.
 
-**FORMAT:** MiniMax H3, 736×416, 16:9, 24 fps, 124 frames, 5.17 seconds, 100 BPM. Beat 8 lands at 4.80 seconds; hold the resolved endpoint through the remaining tail.
-
-**STYLE LOCK:** Glitch typography with controlled recovery. scan-line slice; RGB channel offset; block compression; temporal displacement; data smear; sync bar; stable post-glitch lockup. Corrupt only the title layers, not the whole frame; escalate displacement in bounded bands, then let one vertical sync line restore geometry and channel registration.
-
-**SHOT CLASS:** locked frontal title view; no camera movement. One physically continuous shot; no unmotivated reframing, zoom, orbit, or generic camera drift.
-
-**SUBJECT AND PRIMARY ACTION:** using displacement maps, RGB channel separation, scan-line slicing, block compression, time displacement, and brief data-moshing transitions while preserving readable typography. The word "NOISE" appears in large white letters on black. Horizontal bands offset different sections of the word while red, green, and blue edges separate and reconnect. The distortion intensifies until the letter shapes nearly collapse, then a vertical synchronization line passes across the frame and rebuilds them as the exact word "SIGNAL". 'Small fragments continue flickering around the edges, but the final word remains stable and legible for the last second.
-
-**TIME BLOCK:** Beats 1–2 / 0.00–1.20 s: establish the subject, medium, and anticipation with a readable silhouette. Beats 3–5 / 1.20–3.00 s: perform the single main action in physically connected intermediate states. Beats 6–7 / 3.00–4.20 s: resolve the action and allow secondary material motion to settle. Beat 8 / 4.20–4.80 s: land the final composition. Tail / 4.80–5.17 s: stable endpoint; only medium-native micro-motion may continue.
-
-**SPATIAL BLOCK:** Primary subject begins at stage origin (0,0,0) and remains inside the central title-safe 70% of frame; camera follows the declared shot class without crossing the subject axis. Graphic or rostrum work uses the paper/screen plane as Z=0. Miniature or dimensional work preserves grounded contact and consistent parallax.
-
-**LIGHT AND CONTINUITY:** One coherent lighting progression, stable palette, stable subject design, and persistent material properties. Preserve silhouettes, joint logic, contact shadows, line or grain behavior, and exact title spelling. Transformations must pass through visible intermediate shapes; no cross-dissolves, spontaneous duplicate subjects, broken anatomy, texture swimming, random flicker, or late camera movement.
-
-## Soundscape
-
-Digital crackles, short buffer stutters, narrow static bursts, and one clean synchronization beep follow the visual disruption and repair. Bind each transient to its matching visible contact or material event; no invented impacts.
-
-## Music
-
-Fragmented electronic percussion and an unstable bass pulse gradually become a steady 100 BPM rhythm as the final word stabilizes. Keep the cue on a 100 BPM grid, let major accents support the declared beat phases, and resolve by 4.80 seconds so the final visual hold remains clean.
+non_diegetic_music: Fragmented electronic percussion and an unstable bass pulse gradually cohere into an editorial 110 BPM feel as the word stabilizes; tempo is musical intent, not frame-exact synchronization. End under the stable title with a short controlled tail.

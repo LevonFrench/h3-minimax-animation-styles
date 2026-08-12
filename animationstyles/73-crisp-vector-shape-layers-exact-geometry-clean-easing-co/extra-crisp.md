@@ -1,41 +1,5 @@
-# Title
+integrated_multimodal_description: Crisp modern vector shape-layer motion design on a pale gray field, using exact cobalt geometry, mathematically concentric paths, clean Bezier easing, controlled speed curves, and razor-sharp edges. [0.00–1.00 s] One cobalt compass medallion sits centered, composed of a solid disc, three thin concentric strokes, and one white needle, all sharing one exact anchor. The camera performs a planar push-in, small amplitude, slow speed, with no perspective distortion. [1.00–3.65 s] The medallion performs one observable action: points the needle from west to northeast. The disc scales from 100% to 108%, eases back through 98%, and returns to 100% as the needle rotates clockwise; outer and inner strokes counterrotate by equal small angles around the same anchor. Guide lines and four anchor points appear briefly as construction information, remain registered, then vanish cleanly. [3.65–4.50 s] Needle arrives northeast with controlled deceleration and no wobble; all strokes stop simultaneously at exact concentric alignment. [4.50–5.1667 s] The final medallion holds crisp and centered. Preserve palette, center, stroke widths, geometry, and flat background. Native output contract: 736×416, 24 fps, 124 frames, exactly 5.1667 seconds. No raster texture, excessive motion blur, drifting anchors, 3D bevel, extra symbols, text, or camera shake.
 
-Vector Circle Construction
+overall_soundscape: Precise soft vector whooshes, three light alignment ticks, a muted elastic scale pulse, and one clean click when the needle locks northeast.
 
-## Intent
-
-Reveal mathematically exact circle construction, one clean overshoot sequence, and opposing concentric rotations before a solid final form.
-
-## Shot Class
-
-Centered full-frame vector study, locked orthographic camera.
-
-## Subject / Continuity
-
-One coral parametric circle on cream. Thin teal guide lines, four anchor markers, and two concentric strokes reveal construction; exact center and geometry never drift.
-
-## Timed Action + Camera
-
-100 BPM. Beat 1 (0.00-0.60): solid circle holds. Beat 2 (0.60-1.20): fill recedes, revealing thin unlabeled guides and four anchors. Beats 3-4 (1.20-2.40): concentric strokes rotate exactly 180 degrees in opposing directions with motion blur only on strokes. Beat 5 (2.40-3.00): circle scales to one 108 percent overshoot. Beat 6 (3.00-3.60): one 96 percent undershoot. Beat 7 (3.60-4.20): settle to 100 percent as guides disappear. Beat 8 (4.20-4.80): solid exact circle holds through 5.1667 s.
-
-## Spatial Block
-
-Circle centered (0,0,0), diameter 0.30 m at rest; camera fixed at (0,0,−1.4).
-
-## Look + Lighting
-
-Crisp vector shape layers, parametric geometry, clean Bezier easing, thin construction guides, flat coral/teal/cream palette, controlled stroke-only blur.
-
-## Sound
-
-Silent; no UI effects, voice, music, or soundtrack.
-
-## Limits
-
-One construction reveal. Exactly one overshoot and one undershoot; no labels, center drift, extra anchors, fill blur, camera motion, cuts, text, logos, or endpoint movement.
-
-## Sources
-
-- [Adobe — shape layers, paths, and vector graphics](https://helpx.adobe.com/ca/after-effects/using/overview-shape-layers-paths-vector.html)
-- [Adobe — animation basics and Graph Editor](https://helpx.adobe.com/after-effects/desktop/animate-in-after-effects/animation-basics/animation-basics.html)
-- [Blender Manual — interpolation and Bezier handles](https://docs.blender.org/manual/en/dev/animation/keyframes/introduction.html)
+non_diegetic_music: Minimal plucked synth and dry electronic percussion articulate the ease curve, then hold one clear tonic; no promise of frame-accurate BPM sync.

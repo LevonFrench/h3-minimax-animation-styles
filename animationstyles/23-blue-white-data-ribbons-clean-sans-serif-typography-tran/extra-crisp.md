@@ -1,40 +1,5 @@
-# Title
+integrated_multimodal_description: A native 736×416, 24 fps, 124-frame, 5.1667-second broadcast-information T2VA shot. [0.00–1.00 s] One luminous blue weather-system ring floats around a white dot globe in a restrained blue-white data space, with transparent cards, clean sans-serif micro-label hierarchy, calibrated depth, and one thin red perimeter rule. [1.00–3.85 s] The ring performs one action: it rotates halfway around the globe to reveal the exact headline "COASTAL OUTLOOK" on a single title-safe frontal card. A precise forward data-space dolly moves with 12% depth amplitude at constant medium speed with a soft stop; globe, ring, card, and red rule remain on one coherent depth axis with limited simultaneous labels. [3.85–4.55 s] The camera passes the ring once, the red rule finishes drawing around the card, and the headline remains correctly spelled and centered. [4.55–5.1667 s] All data motion settles into a stable headline hold. No extra headlines, ticker clutter, warped globe, repeated pass-through, or cuts.
 
-POLAR CURRENT Briefing
+overall_soundscape: Clean interface pulses, one restrained data sweep, and a soft perimeter-line click sit above a quiet newsroom-like electronic bed.
 
-## Intent
-
-Deliver one clean data-card movement on a single depth axis, then finish the perimeter rule before an exact headline hold.
-
-## Shot Class
-
-Title-safe broadcast-news frame, 50 mm equivalent, locked camera.
-
-## Subject / Continuity
-
-A white dot globe centered left and one transparent data card centered right. Exact headline “POLAR CURRENT” uses a clean sans-serif; a single red perimeter rule frames the final state.
-
-## Timed Action + Camera
-
-100 BPM. Beat 1 (0.00-0.60): globe rotates minimally; card sits behind it. Beats 2-4 (0.60-2.40): card travels forward only along Z while one blue ribbon wraps the globe. Beats 5-6 (2.40-3.60): exact headline resolves on the card. Beat 7 (3.60-4.20): red rule draws clockwise around title-safe bounds. Beat 8 (4.20-4.80): rule closes and all motion stops. Hold through 5.1667 s.
-
-## Spatial Block
-
-Globe (−0.24,+0.06,0); card (+0.20,+0.04,+0.18) to (+0.20,+0.04,+0.04). Camera fixed at (0,+0.10,−1.8).
-
-## Look + Lighting
-
-Restrained blue-white broadcast palette, transparent calibrated-depth card, dot globe, thin red rule, clean hierarchy, soft studio glow.
-
-## Sound
-
-Silent; no anchor voice, music, effects, or soundtrack.
-
-## Limits
-
-One card approach. Exact title only: POLAR CURRENT. No simultaneous labels, tickers, maps, extra cards, cuts, camera motion, misspelling, logos, or motion after 4.80 s.
-
-## Sources
-
-- [Adobe — 3D layers and compositing](https://helpx.adobe.com/after-effects/desktop/work-with-layers/3d-layers/3d-layers.html)
-- [Adobe — text animation and selectors](https://helpx.adobe.com/after-effects/desktop/animating-text/text-animation/animating-text.html)
+non_diegetic_music: Cool glassy synth, low pulse, and a subtle orchestral swell resolve into a neutral sustained bed beneath the final headline.

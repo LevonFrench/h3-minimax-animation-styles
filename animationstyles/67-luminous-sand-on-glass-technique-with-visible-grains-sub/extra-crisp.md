@@ -1,41 +1,5 @@
-# Title
+integrated_multimodal_description: Luminous sand-on-glass animation, made by redistributing a finite field of visible dark grains over warm amber backlight, with hand-swept clearings and dense deposits. [0.00–1.05 s] One curled sleeping fox silhouette is centered on the glowing glass, nose tucked to tail, with a single darker underside deposit and evenly visible grains. The camera performs a top-down dolly-in, small amplitude, slow speed, keeping the fox center fixed. [1.05–3.70 s] The fox performs one observable action: uncurls into a standing profile. Grains are swept from the central curl into four legs, a raised head, and one curved tail; subtractive clearings define the belly and eye while redistributed grains form three brief radial breath rays behind it. Apparent sand mass remains conserved and all motion stays on the glass plane. [3.70–4.55 s] The fox curls back to sleep; every ray’s grains are swept inward, legs and head recombine, and the opening density and boundary are restored. [4.55–5.1667 s] The original sleeping silhouette holds. Preserve center, amber illumination, grain scale, total mass, and top-down spatial continuity. Native output contract: 736×416, 24 fps, 124 frames, exactly 5.1667 seconds. No liquid morph, floating 3D particles, vanishing sand, extra animals, smoke, text, or camera tilt.
 
-Sand Circle Spiral Return
+overall_soundscape: Fine grain scrapes across glass, a low amber-room hum, three soft sandy breaths, and a final inward brush that fades to stillness.
 
-## Intent
-
-Redistribute one fixed mass of grains through circle, ring, spiral, and restored circle without particle-system shortcuts.
-
-## Shot Class
-
-Top-down light-table close-up, locked camera.
-
-## Subject / Continuity
-
-One dense sand circle sits on luminous glass. The same grains, center, edge character, scattered perimeter pattern, and density must persist across forms.
-
-## Timed Action + Camera
-
-100 BPM. Beat 1 (0.00-0.60): filled circle. Beats 2-3 (0.60-1.80): central grains are swept outward into an even ring, leaving translucent finger ridges. Beats 4-5 (1.80-3.00): one card sweep opens the ring into a clockwise spiral. Beats 6-7 (3.00-4.20): grains travel back inward along that spiral, rebuilding the disc. Beat 8 (4.20-4.80): original density, center, edge, and scattered grains recur. Hold through 5.1667 s.
-
-## Spatial Block
-
-Sand remains within radius 0.24 m centered at (0,0,0). Camera fixed at (0,+0.66,0).
-
-## Look + Lighting
-
-Visible grains, density-controlled value, finger channels, card-sweep ridges, luminous light table, additive/subtractive handmade motion.
-
-## Sound
-
-Silent; no grain foley, music, voice, or soundtrack.
-
-## Limits
-
-One redistribution cycle. No particle explosion, respawn, drifting center, extra colors, visible hand, camera motion, cuts, text, logos, or endpoint movement.
-
-## Sources
-
-- [NFB — Hand-Crafted Cinema with Caroline Leaf](https://www.nfb.ca/film/handcrafted_cinema/)
-- [NFB Collection — Sand or Peter and the Wolf](https://collection.nfb.ca/film/sand-or-peter-and-the-wolf)
-- [NFB — under-camera sand techniques](https://blog.nfb.ca/blog/2011/09/14/animation-open-house-2011/)
+non_diegetic_music: Warm bass flute and a single hand drum trace the uncurl and return, ending with a sustained quiet tone; no frame-locked BPM claim.

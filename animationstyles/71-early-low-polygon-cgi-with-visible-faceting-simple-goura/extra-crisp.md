@@ -1,41 +1,5 @@
-# Title
+integrated_multimodal_description: An early-CGI evocation staged against pure black, with coarse triangular geometry, a visibly faceted silhouette, simple Gouraud-like vertex shading, saturated cyan-magenta point lights, and no photoreal material complexity. [0.00–1.05 s] One low-polygon armadillo is centered on a matte black turntable, viewed three-quarter profile, with stable feet and readable facets. The camera performs an orbital move, small amplitude, slow speed, traveling fifteen degrees clockwise at constant height. [1.05–3.70 s] The armadillo performs one observable action: curls into a faceted ball. Its shell separates into four latitudinal polygon bands that rotate independently by small opposing amounts while remaining perfectly contiguous; one correctly registered cyan wireframe fades on over the shaded surface to reveal shared vertices. [3.70–4.50 s] The bands rejoin without gaps, the animal uncurls to its opening pose, and the wireframe fades away without replacing the shaded mesh. [4.50–5.1667 s] Original topology, profile, and vertex shading hold steady as the camera settles. Preserve one mesh identity, turntable center, facet scale, light positions, and black space. Native output contract: 736×416, 24 fps, 124 frames, exactly 5.1667 seconds. No subdivision smoothing, geometry gaps, extra limbs, ray-traced reflections, text, or camera jump.
 
-Low-Poly Latitude Engine
+overall_soundscape: Sparse computer-room hum, four dry digital servo tones as bands rotate, a quiet wireframe shimmer, and one low confirmation blip on reassembly.
 
-## Intent
-
-Separate one visibly faceted sphere into rigid latitude bands, coordinate their turns, and precisely reassemble the original topology.
-
-## Shot Class
-
-Centered 55 mm CG demo view, locked camera in black void.
-
-## Subject / Continuity
-
-One low-poly amber sphere with stable latitude/longitude topology and simple Gouraud shading. A matching wireframe overlay briefly reveals exact facets.
-
-## Timed Action + Camera
-
-100 BPM. Beat 1 (0.00-0.60): shaded sphere holds. Beat 2 (0.60-1.20): matching wireframe fades on. Beats 3-4 (1.20-2.40): sphere separates into five evenly spaced rigid latitudinal bands. Beats 5-6 (2.40-3.60): bands rotate independently at coordinated whole-number angles. Beat 7 (3.60-4.20): bands reassemble precisely and wireframe fades. Beat 8 (4.20-4.80): original shaded sphere holds through 5.1667 s.
-
-## Spatial Block
-
-Sphere centered (0,0,+0.4), radius 0.28 m; band separation along Y ≤0.08 m. Camera fixed at (0,0,−1.6).
-
-## Look + Lighting
-
-Early low-polygon CGI, visible faceting, vertex-interpolated Gouraud shading, black void, one limited key and rim, mathematically smooth transforms.
-
-## Sound
-
-Silent; no demo music, effects, voice, or soundtrack.
-
-## Limits
-
-One band-separate-reassemble action. Exactly five bands; no PBR, ray tracing, fog, subdivision, topology changes, camera motion, cuts, text, logos, or endpoint drift.
-
-## Sources
-
-- [Academy — From Celluloid to CGI](https://www.oscars.org/events/series/animation-showcase-celluloid-cgi)
-- [Blender Manual — keyframe interpolation](https://docs.blender.org/manual/en/dev/animation/keyframes/introduction.html)
-- [Academy — Jurassic Park and the stop-motion-to-CGI transition](https://www.oscars.org/events/jurassic-park)
+non_diegetic_music: Minimal FM-synth arpeggio and gated bass evoke an early demo reel, resolving on a clean sustained interval; no frame-exact BPM assertion.

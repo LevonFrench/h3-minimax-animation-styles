@@ -1,16 +1,25 @@
 # Research — Liquid-gradient brand motion
 
-## Style fingerprint
+## Identification and provenance
 
-- **Visual/material vocabulary:** mesh color field; matte-separated blobs; laminar deformation; turbulent edge displacement; controlled bloom; negative-space title reveal; color exchange without mud.
-- **Motion logic:** Use broad, slow deformation and keep color regions separated; reveal the title by opening negative space, then damp all motion behind the stable text.
-- **MiniMax H3 translation:** Use one primary action, one continuous camera path (or a locked camera), one lighting progression, and a stable resolved endpoint. At 100 BPM, map beats 1–8 to 0.00–4.80 seconds and use the remaining H3 tail through 5.17 seconds as a clean hold. Treat exact typography and perfect loops as explicit constraints, but expect final frame-accurate enforcement in post.
+“Liquid-gradient brand motion” is a descriptive contemporary hybrid; sources support mesh construction, liquid noise, and motion controls rather than the exact label.
+
+## Historically and technically grounded mechanics
+
+Mesh color fields, matte-separated blobs, laminar deformation, controlled turbulent edges, soft bloom, negative-space title reveals, and clean color exchange create organic brand motion.
+
+## Actionable motion, material, and camera vocabulary
+
+- Preserve material evidence, edge behavior, motivated overlap, readable spacing, and a stable endpoint.
+- Keep magenta, orange, and violet regions distinct; reveal each exact line by opening negative space, restore geometric letter edges, and damp background motion for the hold.
+- Camera vocabulary: locked orthographic brand frame, zero amplitude, zero speed; continuous screen direction; no unmotivated reframing.
+
+## Prompt implications
+
+Name visible causes, not style alone. Preserve the original subject/action, use legible intermediate states and coherent space, and reserve the final tail for a settled hold.
 
 ## Sources
 
-- [Adobe — animation basics](https://helpx.adobe.com/after-effects/desktop/animate-in-after-effects/animation-basics/animation-basics.html)
-- [Adobe — shape and gradient structures](https://helpx.adobe.com/ca/after-effects/using/overview-shape-layers-paths-vector.html)
-
-## Prompting takeaways
-
-Name the physical medium before the subject, describe visible intermediate states rather than asking for a dissolve, bind each sound to one visible event, and state what must remain stable: subject identity, material texture, screen geometry, letterforms, or the loop phase.
+- [Adobe Illustrator — Create and edit mesh objects](https://helpx.adobe.com/uk/illustrator/desktop/paint-and-fill/create-and-edit-meshes/create-mesh-objects.html)
+- [Adobe Substance 3D — Liquid noise](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/nodes-reference-for-substance-graphs/node-library/texture-generators/noises/liquid)
+- [Adobe — Animation basics](https://helpx.adobe.com/after-effects/desktop/animate-in-after-effects/animation-basics/animation-basics.html)

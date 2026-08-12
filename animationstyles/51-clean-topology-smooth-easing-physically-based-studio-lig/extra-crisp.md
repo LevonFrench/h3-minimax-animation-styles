@@ -1,41 +1,5 @@
-# Title
+integrated_multimodal_description: A contemporary stylized feature-CG shot. [0.00–1.20 s] One helmeted roller skater enters a quiet rooftop practice lane from frame left, moving right under a broad softbox-like dusk key, cool sky fill, and a narrow amber rim; clean topology, softly rough PBR fabric and plastic, stable anatomy. The camera performs a lateral tracking move, medium amplitude, moderate speed, matching the skater without changing direction. [1.20–2.80 s] The skater performs one observable action: a firm heel-stop on a painted line; the planted foot arrests first, then torso, bent arms, small backpack, and loose scarf tip resolve momentum in that causal order. [2.80–4.40 s] Knees compress and recover once while the backpack and scarf make progressively smaller delayed arcs; contact point does not slide. [4.40–5.1667 s] The torso becomes motionless, secondary motion dies away, and the shot settles in a clean profile hold. Preserve left-to-right screen direction, rooftop geometry, wardrobe, scale, and lighting throughout. Native output contract: 736×416, 24 fps, 124 frames, exactly 5.1667 seconds. No extra people, topology tearing, foot skating, camera shake, text, or logos.
 
-Rooftop Courier Stop
+overall_soundscape: Light rooftop wind, soft wheel roll, one rubber heel scrape synchronized to the stop, a quiet backpack buckle tick, and fading fabric flutter. Keep the space open and restrained.
 
-## Intent
-
-Study one abrupt stop and the delayed momentum of attached secondary masses in clean stylized CG.
-
-## Shot Class
-
-Full-body locked profile, 65 mm equivalent, rooftop eye-level view.
-
-## Subject / Continuity
-
-A stylized courier in fixed green clothes, leather backpack, and long red scarf runs left-to-right. Preserve identity, attachment points, feet, fabric, leather, and roof contacts.
-
-## Timed Action + Camera
-
-100 BPM. Beats 1-3 (0.00-1.80): courier enters and brakes into one abrupt stop, knees compressing at a fixed floor mark. Beat 4 (1.80-2.40): torso is still while arms travel slightly forward. Beat 5 (2.40-3.00): backpack lifts from shoulder attachments and rebounds. Beats 6-7 (3.00-4.20): scarf passes torso, reverses, and damps in two decreasing waves. Beat 8 (4.20-4.80): all masses settle. Hold through 5.1667 s; camera locked.
-
-## Spatial Block
-
-Courier (−0.42,0,0) to (0,0,0), feet stop at origin; scarf extends to X=+0.38 m after stop. Camera fixed at (0,+1.0,−3.0).
-
-## Look + Lighting
-
-Clean topology, stable knee/shoulder deformation, smooth easing, distinct PBR skin/fabric/leather/roof materials, soft studio-quality sunrise light.
-
-## Sound
-
-Silent; no footsteps, breathing, music, or soundtrack.
-
-## Limits
-
-One abrupt stop. No continued running, detached straps, sliding feet, topology collapse, camera motion, cuts, text, logos, or motion after 4.80 s.
-
-## Sources
-
-- [Disney Animation — follow-through and secondary action](https://www.disneyanimation.com/process/animation/)
-- [Blender Manual — Principled BSDF](https://docs.blender.org/manual/en/3.1/render/shader_nodes/shader/principled.html)
-- [Blender Manual — motion blur](https://docs.blender.org/manual/fi/3.6/render/cycles/render_settings/motion_blur.html)
+non_diegetic_music: A sparse marimba-and-muted-bass phrase with one low punctuation at the stop, then a gently decaying sustained chord; rhythmic intent only, not frame-exact BPM sync.

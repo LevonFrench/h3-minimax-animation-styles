@@ -1,40 +1,5 @@
-# Title
+integrated_multimodal_description: A native 736×416, 24 fps, 124-frame, 5.1667-second liquid-gradient brand T2VA shot. [0.00–1.05 s] One soft-edged violet orb rests at center within distinct magenta, orange, and violet mesh color fields, with matte-separated blobs, controlled turbulent rims, subtle bloom, and no hard scene lighting. The orthographic brand camera is locked, zero amplitude, zero speed. [1.05–3.85 s] The orb performs one action: it opens a horizontal band of negative space through its center, deforming laminarily while surrounding colors flow around the band without muddy mixing; the opening reveals the exact word "CURRENT" in crisp white geometric letters. [3.85–4.55 s] The orb’s edges restore smooth symmetry, the letter edges become perfectly geometric, and the three color regions return to distinct positions. [4.55–5.1667 s] Background turbulence damps to near stillness while "CURRENT" holds centered. No misspelling, extra words, particle splashes, muddy brown blending, or camera motion.
 
-STILLWATER Negative-Space Bloom
+overall_soundscape: A rounded liquid swell, soft membrane separation, and one bright glassy reveal tone accompany the opening negative space.
 
-## Intent
-
-Open a calm title from broad laminar color deformation while keeping hues cleanly separated and damping all motion for the hold.
-
-## Shot Class
-
-Full-frame abstract brand plate, locked orthographic camera.
-
-## Subject / Continuity
-
-Three matte-separated mesh fields—cobalt, coral, and saffron—fill the frame. Their shared negative space must reveal exact word “STILLWATER.”
-
-## Timed Action + Camera
-
-100 BPM. Beat 1 (0.00-0.60): broad fields drift slowly. Beats 2-4 (0.60-2.40): cobalt and coral deform laminarly around a central void; saffron remains separate. Beats 5-6 (2.40-3.60): restrained turbulent edge displacement opens counters and letter gaps. Beat 7 (3.60-4.20): exact title becomes fully readable. Beat 8 (4.20-4.80): deformation damps to zero behind the stable word. Hold through 5.1667 s.
-
-## Spatial Block
-
-Color fields remain on Z=0 plane within full frame; title centered at (0,0,0), 0.70 m wide. Camera fixed at (0,0,−1.5).
-
-## Look + Lighting
-
-Smooth mesh gradients, matte separation, controlled bloom, clean color exchange without mud, crisp negative-space title. Bloom reduces gently at lockup.
-
-## Sound
-
-Silent; no voice, music, effects, or soundtrack.
-
-## Limits
-
-One title reveal. Exact word only: STILLWATER. No liquid splashes, muddy blending, extra words, cuts, camera motion, unreadable counters, logos, or residual motion after 4.80 s.
-
-## Sources
-
-- [Adobe — animation basics](https://helpx.adobe.com/after-effects/desktop/animate-in-after-effects/animation-basics/animation-basics.html)
-- [Adobe — shape and gradient structures](https://helpx.adobe.com/ca/after-effects/using/overview-shape-layers-paths-vector.html)
+non_diegetic_music: Airy synth pads and a single warm sub-bass bloom expand gently, then settle into a quiet sustained chord.

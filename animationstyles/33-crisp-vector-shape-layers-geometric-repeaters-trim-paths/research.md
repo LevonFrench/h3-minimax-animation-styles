@@ -1,16 +1,23 @@
-# Research — Seamless vector tessellation loop
+# Research: procedural vector tessellation loop
 
-## Style fingerprint
+## Identification and provenance
 
-- **Visual/material vocabulary:** parametric shape layers; repeaters; whole-number rotation; negative-space stars; diagonal phase wave; edge wrap; exact state recurrence.
-- **Motion logic:** Use integer cycle counts for every animated property and identical opening/closing phase; avoid easing near the seam, final holds, fades, or changing motion blur.
-- **MiniMax H3 translation:** Use one primary action, one continuous camera path (or a locked camera), one lighting progression, and a stable resolved endpoint. At 100 BPM, map beats 1–8 to 0.00–4.80 seconds and use the remaining H3 tail through 5.17 seconds as a clean hold. Treat exact typography and perfect loops as explicit constraints, but expect final frame-accurate enforcement in post.
+This is a contemporary procedural motion-graphics hybrid: vector shape layers, repeated geometry, path operations, graph-editor timing, and seamless cyclic state. Adobe documents resolution-independent shape paths, Trim Paths start/end/offset controls, speed graphs, and cyclic expressions. Those tools support the construction; “procedural vector tessellation loop” is a descriptive label.
+
+## Visual and motion mechanics
+
+- Build a periodic tile from circles, diamonds, and rounded rectangles; match geometry across all four frame edges.
+- Counter-rotation should open and close negative-space stars without overlaps or topology changes.
+- A diagonal scale wave needs phase wrapping: elements exiting upper-right continue from lower-left.
+- Every animated value must complete an integer cycle and meet the opening state with continuous velocity.
+
+## Prompt implications
+
+Use flat cobalt/teal, warm yellow, and pale neutral shapes with crisp edges and restrained motion blur. Keep the virtual camera locked. Because the source asks for an uninterrupted loop, the “final hold” should be a very brief perceptual settle while motion crosses the seam, not a freeze that breaks cyclic velocity.
 
 ## Sources
 
-- [Adobe — parametric shape layers](https://helpx.adobe.com/ca/after-effects/using/overview-shape-layers-paths-vector.html)
-- [Adobe — keyframes and interpolation](https://helpx.adobe.com/after-effects/desktop/animate-in-after-effects/animation-basics/animation-basics.html)
-
-## Prompting takeaways
-
-Name the physical medium before the subject, describe visible intermediate states rather than asking for a dissolve, bind each sound to one visible event, and state what must remain stable: subject identity, material texture, screen geometry, letterforms, or the loop phase.
+- [Adobe After Effects: shape layers, paths, and vector graphics](https://helpx.adobe.com/after-effects/using/overview-shape-layers-paths-vector.html)
+- [Adobe After Effects: Trim Paths controls](https://helpx.adobe.com/ca/after-effects/using/shape-attributes-paint-operations-path.html)
+- [Adobe After Effects: cyclic loop expressions](https://helpx.adobe.com/after-effects/using/expression-basics.html)
+- [Adobe After Effects: speed graphs and motion-path spacing](https://helpx.adobe.com/uk/after-effects/using/speed.html)

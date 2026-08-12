@@ -1,41 +1,5 @@
-# Title
+integrated_multimodal_description: A rough animation pencil test on fixed off-white punched paper. [0.00–1.00 s] One young raccoon character stands at a simple workbench, drawn in loose graphite over blue construction, with restrained red correction marks, registration holes, and faint functional onion skins; a single warm desk-lamp pool illuminates the page. The camera performs a top-down dolly-in, small amplitude, slow speed, keeping page registration centered. [1.00–3.85 s] The raccoon performs one observable action: tosses one walnut from its right paw and catches it in its left. Shoulder, elbow, wrist, and walnut follow nested arcs; drawing spacing widens through ascent, clusters around the apex, then widens during descent as the receiving paw anticipates underneath. A red correction line briefly clarifies the parabola and changes with the active drawing. [3.85–4.55 s] The left paw yields under contact and the elbow absorbs the weight; onion ghosts remain sparse and never read as extra limbs. [4.55–5.1667 s] The caught walnut and body settle into one held key drawing. Preserve paper, bench line, scale, hand identities, and screen direction. Native output contract: 736×416, 24 fps, 124 frames, exactly 5.1667 seconds. No cleanup ink, colored fill, duplicate walnuts, uncontrolled ghost bodies, text overlays, or camera roll.
 
-Pencil Apple Toss
+overall_soundscape: Quiet animation desk room tone, pencil rasp that follows each redraw, one light walnut tap into the catching paw, and a soft paper tick at settle.
 
-## Intent
-
-Expose nested joint arcs and motion spacing in a fixed-registration rough pencil test.
-
-## Shot Class
-
-Top-down full-page animation study, locked camera.
-
-## Subject / Continuity
-
-Two rough-drawn hands toss one graphite apple across punched paper. Blue underdrawing, red corrections, onion skins, arcs, timing charts, and peg holes remain visible.
-
-## Timed Action + Camera
-
-100 BPM. Beat 1 (0.00-0.60): left hand anticipates beneath apple. Beats 2-3 (0.60-1.80): wrist, elbow, shoulder follow nested arcs as apple launches on one parabola with wide ascent spacing. Beats 4-5 (1.80-3.00): tight spacing near apex; right receiving hand moves beneath. Beats 6-7 (3.00-4.20): apple descends with widening spacing into right palm. Beat 8 (4.20-4.80): receiving fingers compress and hold. Camera and page remain locked through 5.1667 s.
-
-## Spatial Block
-
-Apple (−0.30,+0.08,0) to (+0.30,+0.08,0), apex (0,+0.30,0); camera fixed at (0,+0.70,0), perpendicular.
-
-## Look + Lighting
-
-Graphite construction mass, blue underdrawing, red joint corrections, onion-skin echoes, fixed paper tooth and registration, clean nested arc notes.
-
-## Sound
-
-Silent; no dialogue, pencil foley, music, or soundtrack.
-
-## Limits
-
-One toss. No extra balls, changing hands, camera drift, random scribbles, finished cel color, cuts, readable text, logos, or movement after catch.
-
-## Sources
-
-- [Disney Animation — hand-drawn animation process](https://www.disneyanimation.com/process/hand-drawn-animation/)
-- [Academy — extremes, in-betweens, and scenes](https://www.oscars.org/sites/oscars/files/complete_animation_activities_guide.pdf)
-- [Library of Congress — Winsor McCay’s registration and timing](https://www.loc.gov/loc/lcib/9906/animate.html)
+non_diegetic_music: A dry pizzicato figure rises and falls with the toss, ending on one muted note; editorial timing intent only, not frame-exact BPM.

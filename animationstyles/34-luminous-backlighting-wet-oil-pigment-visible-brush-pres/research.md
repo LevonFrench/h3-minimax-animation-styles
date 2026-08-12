@@ -1,16 +1,23 @@
-# Research — Seamless paint-on-glass loop
+# Research: paint-on-glass metamorphosis loop
 
-## Style fingerprint
+## Identification and provenance
 
-- **Visual/material vocabulary:** backlit wet pigment; counter-rotating spirals; frame-by-frame repaint; brush-pressure ridges; edge-wrapped current; material recurrence; no clean digital dissolve.
-- **Motion logic:** Build a circular flow field whose pigment density and edge marks recur; disguise the seam with continuous brush motion instead of pausing or crossfading.
-- **MiniMax H3 translation:** Use one primary action, one continuous camera path (or a locked camera), one lighting progression, and a stable resolved endpoint. At 100 BPM, map beats 1–8 to 0.00–4.80 seconds and use the remaining H3 tail through 5.17 seconds as a clean hold. Treat exact typography and perfect loops as explicit constraints, but expect final frame-accurate enforcement in post.
+Paint-on-glass is an under-the-camera animation technique in which wet media is manipulated between exposures on a persistent surface. Caroline Leaf pioneered paint-on-glass work at the National Film Board of Canada; institutional material describes her use of sand, paint on glass, and scratch animation. The prompt’s tileable abstract current is a contemporary application of that material process rather than a named historical substyle.
+
+## Visual and motion mechanics
+
+- Preserve wet pigment drag, translucent density variation, smeared edges, finger/brush pressure, and partial traces of prior states.
+- Backlighting should make thin paint glow and thick paint deepen; avoid digitally clean vector boundaries.
+- Metamorphosis works through redistribution of the same pigment: amber droplets stretch into fish silhouettes and dissolve back, rather than appearing by cuts.
+- Opposed spiral rotation and edge-wrapping brush marks provide a closed spatial flow.
+
+## Prompt implications
+
+Use one fixed under-glass view. Choreograph the two spirals and fish-like droplets as one circulating pigment system. For the loop, restore composition and velocity while retaining organic micro-variation.
 
 ## Sources
 
-- [NFB — paint-on-glass workshop](https://www.nfb.ca/film/handcrafted_cinema/)
-- [NFB — animation materials overview](https://www3.nfb.ca/sg/56975.pdf)
-
-## Prompting takeaways
-
-Name the physical medium before the subject, describe visible intermediate states rather than asking for a dissolve, bind each sound to one visible event, and state what must remain stable: subject identity, material texture, screen geometry, letterforms, or the loop phase.
+- [National Film Board of Canada: Caroline Leaf’s handcrafted animation workshop](https://collection.nfb.ca/film/handcrafted_cinema)
+- [Canadian Film Encyclopedia: Caroline Leaf and paint-on-glass](https://cfe.tiff.net/canadianfilmencyclopedia/content/bios/caroline-leaf)
+- [Animate Materials: material process behind The Street](https://www.animatematerials.org/media/the-street/)
+- [Senses of Cinema interview: Leaf on under-the-camera wet paint](https://www.sensesofcinema.com/2003/feature-articles/caroline_leaf/)

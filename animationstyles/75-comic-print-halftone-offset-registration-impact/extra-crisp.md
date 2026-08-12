@@ -1,38 +1,5 @@
-# Extra Crisp — Three-Plate Impact
+integrated_multimodal_description: Comic-print impact animation with stable halftone screens, black ink contours, flat process yellow, deliberately separated cyan and magenta registration plates, and a cream paper panel. [0.00–1.00 s] One yellow halftone boxing glove hangs at upper left above a simple black speed bag, illuminated by flat printed color with no realistic shading. The camera performs a diagonal push-in, small amplitude, brisk speed, preserving the panel border and frontal plane. [1.00–3.20 s] The glove performs one observable action: strikes the speed bag once. During fast travel only, cyan and magenta plate shadows separate by a few printed millimeters behind the glove while the halftone screen turns consistently with its form; black radial speed lines converge toward contact. [3.20–3.65 s] One bold impact drawing holds briefly, containing exactly one single-frame starburst and no additional flash. [3.65–4.50 s] The glove recoils a short distance, speed lines retract, and CMYK plates realign exactly around the clean contour. [4.50–5.1667 s] Glove and bag settle at their original registered centers and hold. Preserve paper panel, color plates, print texture, object scale, and spatial axis. Native output contract: 736×416, 24 fps, 124 frames, exactly 5.1667 seconds. No RGB glitch, chromatic aberration, second punch, extra starbursts, 3D gloss, text, or logos.
 
-## Intent
+overall_soundscape: Paper-dry whoosh, one compact leather-on-bag smack, a sharp printed snap for the starburst, then a short bag creak and ink-plate click into registration.
 
-Turn printing misregistration into a readable animation principle: separation means speed, perfect alignment means rest.
-
-## Shot Class
-
-Locked flat rostrum composition, 16:9, native H3 736×416, 24 fps, 124 frames.
-
-## Subject / Continuity
-
-One yellow halftone sphere with a thick black keyline remains centered and constant in size throughout.
-
-## Timed Action + Camera
-
-Hold clean registration to 0.60 s. Spin through 2.20 s as cyan and magenta plates peel sideways from the yellow body. At 2.20 s, hit one frozen panel with inward radial lines and a one-frame starburst. Resume immediately; converge the color plates by 4.40 s, snap into perfect registration by 4.80 s, and hold through 5.1667 s. No camera motion.
-
-## Spatial Block
-
-Sphere center fixed at origin; registration ghosts remain small tangential offsets, never separate objects.
-
-## Look + Lighting
-
-Warm pulp paper, visible Ben-Day dots, flat CMY process color, hard black contour, no modeled lighting.
-
-## Sound
-
-Paper swishes, print-roller chatter, dry slap, crisp alignment click; breakbeat and one brass stab.
-
-## Limits
-
-No text, logo, speech bubble, extra sphere, glossy rendering, depth, camera motion, or unresolved color offset.
-
-## Sources
-
-- [Tate — Roy Lichtenstein](https://www.tate.org.uk/art/artists/roy-lichtenstein-1508)
-- [MoMA — Comic Abstraction](https://www.moma.org/calendar/exhibitions/26)
+non_diegetic_music: Brass stab, floor tom, and muted electric bass deliver one graphic impact cadence, leaving a clean final rest; rhythmic intent is not frame-exact.

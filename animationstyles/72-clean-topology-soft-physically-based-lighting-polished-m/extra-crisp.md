@@ -1,41 +1,5 @@
-# Title
+integrated_multimodal_description: Contemporary polished PBR motion design with clean topology, a translucent apricot gel material, stable soft specular response, and a seamless pale lavender studio sweep. [0.00–1.05 s] One pear-shaped gel capsule stands centered on a satin pedestal beneath a large soft key from upper left, cool fill, and a precise white rim. The camera performs a straight dolly-in, small amplitude, slow speed, maintaining centered product framing. [1.05–3.65 s] The capsule performs one observable action: compresses vertically and rebounds once. It first turns exactly one half-turn around its vertical axis with spline easing and no endpoint overshoot; highlight and internal roughness cues remain continuous. At the turn’s midpoint the body compresses modestly along the vertical axis, widening just enough to preserve perceived volume, then rebounds to full height. Five tiny light motes make one coherent orbit close to the surface. [3.65–4.50 s] Rotation eases to its exact endpoint, the capsule becomes fully still, and the motes dissolve without residue. [4.50–5.1667 s] Original proportions and polished shading hold. Preserve pedestal, center, topology, palette, and studio lights. Native output contract: 736×416, 24 fps, 124 frames, exactly 5.1667 seconds. No second bounce, overshoot, surface tearing, particle swarm, extra objects, text, or camera wobble.
 
-Teal Gel Compression
+overall_soundscape: Clean studio quiet, one soft gel compression squeak, a rounded rebound thump, five faint glassy mote passes, and subtle pedestal resonance.
 
-## Intent
-
-Show volume-preserving squash and rebound in a polished translucent gel while fixed studio lights drive coherent highlights.
-
-## Shot Class
-
-Centered product-like CG medium shot, 85 mm equivalent, locked camera.
-
-## Subject / Continuity
-
-One glossy teal gel sphere rests on a matte white plinth. Preserve clean topology, apparent volume, center, transmission, contact shadow, and fixed-light highlight logic.
-
-## Timed Action + Camera
-
-100 BPM. Beat 1 (0.00-0.60): sphere holds. Beats 2-3 (0.60-1.80): it compresses vertically by 35 percent, widening to preserve volume. Beats 4-5 (1.80-3.00): sphere rebounds above rest height with smooth spline ease; fixed highlights travel over deforming surface. Beat 6 (3.00-3.60): six tiny particles orbit once as a secondary ring. Beat 7 (3.60-4.20): sphere settles and particles fade completely. Beat 8 (4.20-4.80): pristine rest state holds through 5.1667 s.
-
-## Spatial Block
-
-Sphere centered (0,+0.18,0), radius 0.18 m; vertical compression stays attached to plinth Y=0. Camera fixed at (+0.42,+0.34,−1.7).
-
-## Look + Lighting
-
-Clean topology, soft PBR studio light, teal gel transmission, energy-conserving reflections, coherent broad highlight, stable contact shadow.
-
-## Sound
-
-Silent; no squish, voice, music, effects, or soundtrack.
-
-## Limits
-
-One compression-rebound. Exactly six particles; no pinching, volume loss, independent sliding highlight, camera motion, cuts, text, logos, or post-hold motion.
-
-## Sources
-
-- [Blender Manual — Principled BSDF](https://docs.blender.org/manual/en/3.1/render/shader_nodes/shader/principled.html)
-- [Blender Manual — physically based materials](https://docs.blender.org/manual/en/2.91/render/materials/introduction.html)
-- [Disney Animation — squash/stretch and secondary action](https://www.disneyanimation.com/process/animation/)
+non_diegetic_music: Warm analog pad with one elastic bass pluck and a short high shimmer, settling into a polished final chord; tempo is not claimed frame-exact.

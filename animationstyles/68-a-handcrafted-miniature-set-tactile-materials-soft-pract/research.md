@@ -1,14 +1,22 @@
-# Research — Fabric Puppet Stop-Motion
+# Research — Fabric-object stop motion on a miniature set
 
-## Actionable vocabulary
+## Provenance and identification
 
-- A handcrafted miniature reads through textile weave, visible seams, padding compression, practical-light shadow, tiny hardware, and stepped articulation.
-- The sphere’s tilt should pivot from its pedestal contact point. Hidden seams can open into four padded gores with hinge-like behavior.
-- Fabric highlights should slide according to weave and quarter-turn rotation; stitches must remain consistent to preserve object identity.
-- Registration jitter should be subtle and local, never a wandering pedestal or camera.
+The Academy defines stop-motion as frame-by-frame animation of physical materials and specifically includes puppets, paper, clay, wood, and other movable objects; MoMA discusses the medium's handcrafted “crude elegance.” The source is a contemporary tactile miniature-object variation, not a recognized named historical style.
+
+## Visual mechanics
+
+- Preserve stepped pose increments, tiny registration jitter, fabric nap, stitching, and practical-light response.
+- Pivot the sphere on the pedestal without sliding its contact point.
+- Open exactly four padded segments along one hidden seam system.
+- A quarter-turn must reveal changed stitch lighting and then reverse to the original facing.
+
+## Prompt implications
+
+Keep every deformation physically plausible for a sewn padded prop. Avoid fluid morphs or seamless CGI closure.
 
 ## Sources
 
-- [Oscars — stop-motion as frame-by-frame animation](https://www.oscars.org/sites/oscars/files/93aa_anim_feature.pdf)
-- [MoMA — stop-motion’s three-dimensional material presence](https://www.moma.org/explore/inside_out/2010/04/07/crude-elegance-stop-motion-animation-and-tim-burton/)
-- [NFB — puppet, clay, and paper techniques](https://blog.nfb.ca/blog/2011/09/14/animation-open-house-2011/)
+- [Academy — Animation Activities Guide](https://www.oscars.org/sites/oscars/files/complete_animation_activities_guide.pdf)
+- [Academy — Student Academy Awards animation techniques](https://www.oscars.org/saa/apply)
+- [MoMA — Stop-Motion Animation and Tim Burton](https://www.moma.org/explore/inside_out/2010/04/07/crude-elegance-stop-motion-animation-and-tim-burton/)

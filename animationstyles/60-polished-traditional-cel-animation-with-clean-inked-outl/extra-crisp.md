@@ -1,41 +1,5 @@
-# Title
+integrated_multimodal_description: A polished traditional-cel-style shot with stable clean ink contours, opaque painted color, modest squash-and-stretch, and a softly airbrushed sky background. [0.00–1.00 s] One bright red ladybug rests on a pale blue leaf tip, lit by a warm painted sun key from upper left and soft violet underside fill. The camera performs a vertical crane-up, small amplitude, slow speed, keeping the ladybug near frame center. [1.00–3.60 s] The ladybug performs one observable action: completes one buoyant hop and axial half-spin, rising from the leaf, rotating while a painted highlight travels coherently across its shell, then returning to the same contact point. Two small four-point sparkles orbit once on a clean circular path and disappear before contact. [3.60–4.45 s] Landing produces one restrained vertical squash, then a single recovery to the opening proportions; shell spots, ink weight, and painted shading remain on-model. [4.45–5.1667 s] The ladybug holds motionless on the leaf as the camera finishes and settles. Preserve contact point, background, scale, palette, and light direction. Native output contract: 736×416, 24 fps, 124 frames, exactly 5.1667 seconds. No second bounce, ray-traced reflections, extra insects, contour boil, leftover sparkles, text, or camera wobble.
 
-Cel Pearl Bounce
+overall_soundscape: Light garden air, one tiny leaf spring, a soft airborne swish, two crystalline sparkle ticks, and a neat painted-cartoon landing tap.
 
-## Intent
-
-Deliver a polished cel bounce with controlled volume, stable painted shading, and a separate restrained effects layer.
-
-## Shot Class
-
-Centered medium shot, 70 mm equivalent, locked camera.
-
-## Subject / Continuity
-
-One pale-blue pearl with clean ink outline and fixed painted highlight bounces above a reusable airbrushed lavender background. Three tiny sparkles remain a separate effects layer.
-
-## Timed Action + Camera
-
-100 BPM. Beat 1 (0.00-0.60): pearl compresses slightly in anticipation. Beats 2-3 (0.60-1.80): it launches on one clean arc with modest stretch. Beat 4 (1.80-2.40): apex, spacing tight. Beats 5-6 (2.40-3.60): pearl descends and makes one small squash contact. Beat 7 (3.60-4.20): three sparkles orbit once as pearl returns round. Beat 8 (4.20-4.80): pearl and highlight lock. Hold through 5.1667 s.
-
-## Spatial Block
-
-Pearl center (0,0,0) to apex (+0.10,+0.38,0) to (+0.20,0,0); camera fixed at (0,+0.18,−1.6).
-
-## Look + Lighting
-
-Polished traditional cel, clean on-model outline, opaque flat paint, controlled airbrushed background, smooth animation on ones, stable painted highlight.
-
-## Sound
-
-Silent; no sparkle sound, music, voice, or soundtrack.
-
-## Limits
-
-One bounce. Exactly one pearl and three sparkles; no changing shading, volume loss, cuts, camera motion, text, logos, or movement after 4.80 s.
-
-## Sources
-
-- [Academy — how cel layers simplify animation](https://www.oscars.org/sites/oscars/files/complete_animation_activities_guide.pdf)
-- [Disney Animation — hand-drawn clean-up and in-betweens](https://www.disneyanimation.com/process/hand-drawn-animation/)
-- [MoMA — Disney animation art and cel/Xerox processes](https://www.moma.org/docs/press_archives/7358/releases/MOMA_1995_0038_32.pdf)
+non_diegetic_music: Celesta and pizzicato strings make one rounded ascent-and-return phrase, ending in a gentle sustained cadence; not a frame-exact BPM promise.

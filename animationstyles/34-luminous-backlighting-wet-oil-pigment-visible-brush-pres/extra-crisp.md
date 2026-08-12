@@ -1,40 +1,5 @@
-# Title
+integrated_multimodal_description: T2VA, native 736×416, 24 fps, 124 frames, exactly 5.1667 s. One continuous pool of wet ultramarine and amber pigment circulates on backlit glass. 0.00–1.30 s: a dense blue crescent and three amber droplets drift clockwise, showing brush pressure, translucent thin glow, thick dark cores, and prior-state smears. 1.30–3.65 s: the same pigment stretches without cuts into one swimming seahorse silhouette, crosses the center, then dissolves back into opposing spirals; camera locked overhead, zero amplitude, zero speed. 3.65–4.65 s: edge-wrapping brush marks complete the closed flow as amber returns to its initial droplet positions. 4.65–5.1667 s: composition and velocity settle into the opening phase and hold only perceptually, retaining organic micro-motion. No clean vector edges, new pigment appearing, hard cuts, text, or digital particle scatter.
 
-Twin Currents Paint Cycle
+overall_soundscape: Close wet brush drags, tiny glass taps, and a soft liquid swirl synchronized to the circulating pigment.
 
-## Intent
-
-Create one circular paint current whose pigment density, ridges, and edge marks visibly recur without a clean digital dissolve.
-
-## Shot Class
-
-Top-down glass close-up, 60 mm equivalent, locked camera.
-
-## Subject / Continuity
-
-Two wet oil spirals, ultramarine and amber, share a luminous glass field. Pigment volume, brush-pressure ridges, and perimeter smears remain materially continuous.
-
-## Timed Action + Camera
-
-100 BPM. Beat 1 (0.00-0.60): opening phase holds. Beats 2-7 (0.60-4.20): blue spiral rotates exactly once clockwise while amber rotates once counterclockwise; edge-wrapped currents repaint continuously and exchange no pigment. Beat 8 (4.20-4.80): both reach the identical opening orientation, density, and edge-mark phase. Hold recurrence through 5.1667 s.
-
-## Spatial Block
-
-Spirals centered at X=−0.16 and +0.16 m on Z=0 glass plane, radius 0.18 m. Camera fixed at (0,+0.70,0).
-
-## Look + Lighting
-
-Backlit wet pigment, frame-by-frame repainting, visible ridges, material smears, soft luminous glass. Backlight remains constant for seam coherence.
-
-## Sound
-
-Silent; no music, effects, voice, or soundtrack.
-
-## Limits
-
-One counter-rotation action. No morphing objects, crossfade, color mixing, visible hand, camera motion, text, logos, or pigment movement during final hold. Verify perfect loop in post.
-
-## Sources
-
-- [NFB — paint-on-glass workshop](https://www.nfb.ca/film/handcrafted_cinema/)
-- [NFB — animation materials overview](https://www3.nfb.ca/sg/56975.pdf)
+non_diegetic_music: Low bowed-glass drone with sparse amber bell tones, gently circular and not claimed as frame-exact tempo.

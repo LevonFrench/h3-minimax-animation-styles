@@ -1,40 +1,5 @@
-# Title
+integrated_multimodal_description: A native 736×416, 24 fps, 124-frame, 5.1667-second single-line vector T2VA shot. [0.00–1.05 s] One tapered cobalt stroke begins as a small horizontal dash at center on a clean warm-gray orthographic field, with rounded caps and joins. The vector camera is locked, zero amplitude, zero speed. [1.05–3.85 s] The stroke performs one action: it writes itself into a readable lighthouse through trim-path extension and tangent-aware interpolation; the existing dash becomes the base, one continuous bend forms the tower and lantern room, and the same line loops outward into two restrained light rays without detached fragments. [3.85–4.55 s] The final endpoint returns neatly to the base, all Bezier curvature remains smooth, and the lighthouse stays centered in the same coordinate system. [4.55–5.1667 s] The completed single cobalt path holds without movement. No extra strokes, fills, text, sharp miter spikes, or camera motion.
 
-One-Line Weather Station
+overall_soundscape: A fine pen-like draw sound follows the moving endpoint, with two airy swishes as the light rays form and a precise click on closure.
 
-## Intent
-
-Use a single continuous cobalt Bezier stroke to write and reshape one complete pictogram without detached fragments.
-
-## Shot Class
-
-Centered full-frame vector composition, orthographic locked camera.
-
-## Subject / Continuity
-
-One tapered cobalt stroke on a pale cream field. It begins as a horizontal horizon and becomes a compact weather-vane pictogram solely by extending trim and moving existing vertices.
-
-## Timed Action + Camera
-
-100 BPM. Beat 1 (0.00-0.60): short horizon line holds. Beats 2-3 (0.60-1.80): trim path writes a vertical mast with rounded joins. Beats 4-5 (1.80-3.00): existing top vertices bend into one arrow while the stroke remains connected. Beats 6-7 (3.00-4.20): lower vertices loop into a small compass circle, tangents staying smooth. Beat 8 (4.20-4.80): arrow rotates once to northeast and stops. Hold exact endpoint through 5.1667 s; camera locked.
-
-## Spatial Block
-
-Stroke remains within X=±0.30 m, Y=±0.24 m on Z=0 plane. Camera fixed at (0,0,−1.4), centered.
-
-## Look + Lighting
-
-Crisp shape layer, tapered cobalt stroke, rounded joins, tangent-aware path changes, clean trim-path write-on, flat cream field. Uniform graphic lighting.
-
-## Sound
-
-Silent visual take; no dialogue, music, effects, or soundtrack.
-
-## Limits
-
-One connected path only. No vehicles, figures, route map, detached fragments, fills, added strokes, morph blur, cuts, camera motion, typography, logos, or movement after 4.80 s.
-
-## Sources
-
-- [Adobe — Shape layers, paths, and vector graphics](https://helpx.adobe.com/ca/after-effects/using/overview-shape-layers-paths-vector.html)
-- [Adobe — Animating shape paths and masks](https://helpx.adobe.com/sg/after-effects/using/animating-shape-paths-masks.html)
+non_diegetic_music: One plucked harp figure and a low sustained synth tone accompany the write-on, resolving to silence beneath the hold.

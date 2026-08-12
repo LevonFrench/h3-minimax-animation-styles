@@ -1,40 +1,5 @@
-# Title
+integrated_multimodal_description: A native 736×416, 24 fps, 124-frame, 5.1667-second hybrid 2D/3D T2VA shot. [0.00–1.00 s] One hand-drawn bicycle messenger rides through a dimensional 3D market street at late afternoon, with lively ink-line boil and flat cel color integrated by shared warm sunlight, contact shadows, rail occlusion, and stable perspective. [1.00–3.78 s] The messenger performs one action: a single curb hop, compressing over the handlebars, lifting both wheels, passing through one graphic smear accent, and extending for landing while retaining drawn identity. A low tracking dolly moves right, 14% frame-width amplitude, fast constant speed; the 3D stalls and paving parallax continuously while wheel positions align to the street plane. [3.78–4.52 s] Both tires meet the road, the shadow reconnects beneath them, and the rider absorbs the impact without changing direction. [4.52–5.1667 s] The bicycle rolls a short distance and settles into a steady riding pose as the camera eases to a hold. No extra riders, floating wheels, mismatched lighting, geometry penetration, or cuts.
 
-Paper Diver Between Glass Towers
+overall_soundscape: Tire hum on paving, a short chain rattle, airborne wind, and two compact landing thuds are embedded in a subdued market ambience.
 
-## Intent
-
-Make the medium contrast explicit: a hand-drawn figure moves on twos while the dimensional city and camera remain fluid at 24 fps.
-
-## Shot Class
-
-Wide downward angle, 32 mm equivalent, continuous crane descent.
-
-## Subject / Continuity
-
-A flat hand-inked diver in a yellow suit descends through a smooth 3D atrium of glass towers. Preserve suit silhouette, ink contour, halftone shadow, and chromatic misregistration.
-
-## Timed Action + Camera
-
-100 BPM. Beat 1 (0.00-0.60): diver holds a star pose. Beats 2-3 (0.60-1.80): figure descends in deliberate two-frame pose holds while the atrium scrolls smoothly. Beats 4-5 (1.80-3.00): arms fold into a narrow arrow pose, leaving one short painted trail. Beat 6 (3.00-3.60): one graphic impact card marks passage through a circular light ring. Beat 7 (3.60-4.20): diver opens arms. Beat 8 (4.20-4.80): feet touch a suspended platform and hold. Camera descends continuously, landing at platform level through 5.1667 s.
-
-## Spatial Block
-
-Diver (0,+2.4,0) to (0,0,0); camera (−0.5,+2.8,−2.6) to (−0.5,+0.7,−2.6), parallel vertical path.
-
-## Look + Lighting
-
-Smooth dimensional 3D architecture, graphic 2D ink character on twos, halftone shadow, slight chromatic offset, one-frame impact card. Cool atrium light warms at the landing ring.
-
-## Sound
-
-Silent take; no dialogue, music, effects, or soundtrack.
-
-## Limits
-
-One descent action. No skater, street, multiple impact cards, 3D character conversion, fluid 2D interpolation, cuts, camera shake, text, logos, or post-landing motion.
-
-## Sources
-
-- [ACM SIGGRAPH — integrating CG with filmed imagery](https://blog.siggraph.org/2018/06/jurassic-park-made-a-dinosaur-sized-leap-forward-in-computer-generated-animation-on-screen-25-years-ago.html)
-- [Adobe — keyframes and interpolation](https://helpx.adobe.com/after-effects/desktop/animate-in-after-effects/animation-basics/animation-basics.html)
+non_diegetic_music: Tight hand percussion and plucked electric bass support the forward energy, ending on a held chord without asserting frame-exact beat sync.

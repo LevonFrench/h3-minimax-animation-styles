@@ -1,41 +1,5 @@
-# Title
+integrated_multimodal_description: Handcrafted stop motion on a miniature dressing table, featuring one sewn velvet nautilus prop with visible stitching, padded volume, fabric nap, stepped posing, and tiny registration jitter. Soft practical tungsten key from a miniature lamp is balanced by cool window fill and a narrow rim. [0.00–1.00 s] The nautilus rests upright on a carved wooden pedestal, its contact point fixed. The camera performs a semicircular arc move, medium amplitude, slow speed, revealing stitch-light changes without changing height. [1.00–3.55 s] The nautilus performs one observable action: opens exactly four padded shell segments along hidden sewn hinges, each segment lifting in plausible stop-motion increments while the central body pivots one quarter-turn on the pedestal without sliding. [3.55–4.55 s] The pivot reverses and the four segments close in reverse order; compressed seams and velvet nap respond physically, never melting. [4.55–5.1667 s] The original facing and fully closed silhouette return, then hold as the camera settles. Preserve pedestal, contact, segment count, set scale, practical lighting, and prop identity. Native output contract: 736×416, 24 fps, 124 frames, exactly 5.1667 seconds. No seamless CGI morph, extra segments, floating prop, fabric changing material, text, or camera shake.
 
-Fabric Sphere Iris
+overall_soundscape: Miniature room tone, four soft stuffed-fabric creaks, tiny thread tension ticks, a wooden pedestal whisper, and a muffled final closure.
 
-## Intent
-
-Open one sewn sphere into four padded gores through hinge-like seams while preserving pedestal contact and textile identity.
-
-## Shot Class
-
-Medium miniature product shot, 70 mm equivalent, locked camera.
-
-## Subject / Continuity
-
-One indigo fabric sphere sits on a walnut pedestal. Four hidden stitched seams define padded gores; preserve weave, stitches, padding, contact point, pedestal, hardware, and shadows.
-
-## Timed Action + Camera
-
-100 BPM. Beat 1 (0.00-0.60): closed sphere holds. Beats 2-3 (0.60-1.80): sphere tilts 12 degrees from its fixed pedestal contact, revealing seam lines. Beats 4-6 (1.80-3.60): four padded gores open sequentially on hinge-like arcs, exposing a warm felt center. Beat 7 (3.60-4.20): gores make one tiny stepped settle. Beat 8 (4.20-4.80): open iris holds through 5.1667 s.
-
-## Spatial Block
-
-Sphere centered (0,+0.16,0), fixed contact at (0,0,0); gore span reaches 0.42 m. Camera fixed at (+0.35,+0.28,−1.5).
-
-## Look + Lighting
-
-Textile weave, visible seams, padding compression, stepped articulation, sliding fabric highlights, soft practical light, local registration jitter only.
-
-## Sound
-
-Silent; no fabric foley, voice, music, or soundtrack.
-
-## Limits
-
-One opening action. Exactly four gores; no wandering pedestal, camera jitter, rubber deformation, changing stitches, cuts, text, logos, or post-hold motion.
-
-## Sources
-
-- [Oscars — stop-motion as frame-by-frame animation](https://www.oscars.org/sites/oscars/files/93aa_anim_feature.pdf)
-- [MoMA — stop-motion’s three-dimensional material presence](https://www.moma.org/explore/inside_out/2010/04/07/crude-elegance-stop-motion-animation-and-tim-burton/)
-- [NFB — puppet, clay, and paper techniques](https://blog.nfb.ca/blog/2011/09/14/animation-open-house-2011/)
+non_diegetic_music: Music-box harp and muted viola open through four gentle notes and fold back to the tonic; expressive timing only, not frame-exact BPM.

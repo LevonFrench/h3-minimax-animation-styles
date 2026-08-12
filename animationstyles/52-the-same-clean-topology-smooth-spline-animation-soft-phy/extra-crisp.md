@@ -1,41 +1,5 @@
-# Title
+integrated_multimodal_description: A polished stylized-CG desert shot at blue hour. [0.00–1.10 s] One long-eared fennec stands planted on a sandstone ledge, facing right, in soft physically based moon key, warm horizon fill, and a fine rim along the ears; the ledge, paw contacts, and distant dunes remain fixed. The camera performs a slow push-in, small amplitude, slow speed, from medium-wide toward medium framing. [1.10–3.50 s] The fennec performs one observable action: it turns to look behind itself. Eyes lead, then muzzle, head, neck, shoulders, torso, and hips rotate in sequence while all four paws stay registered. [3.50–4.55 s] The backward-facing pose arrives; the heavy tail follows on one delayed low arc and the ears overshoot by a few degrees before returning with decreasing oscillation. [4.55–5.1667 s] Tail and ears finish settling and the animal holds the backward glance. Preserve one body, constant ground contact, desert geography, screen axis, materials, and lighting. Native output contract: 736×416, 24 fps, 124 frames, exactly 5.1667 seconds. No paw sliding, duplicated features, uniform joint rotation, extra animals, text, or abrupt lighting changes.
 
-Desert Fox Turn
+overall_soundscape: Dry evening wind over rock, faint sand hiss, one soft paw-pad creak against stone, and a subtle tail brush at the delayed settle.
 
-## Intent
-
-Make one attention-led rotation readable through sequential eyes, head, shoulders, torso, hips, ears, and tail.
-
-## Shot Class
-
-Medium full CG character shot, 70 mm equivalent, locked camera in a simple studio desert.
-
-## Subject / Continuity
-
-A stylized sand-colored fennec with two long ears and one heavy tail stands with four feet planted. Preserve body volume, foot contacts, topology, ear length, and tail mass.
-
-## Timed Action + Camera
-
-100 BPM. Beat 1 (0.00-0.60): eyes look over right shoulder. Beat 2 (0.60-1.20): head and neck begin turn. Beat 3 (1.20-1.80): shoulders follow. Beat 4 (1.80-2.40): torso rotates as hips counterbalance. Beat 5 (2.40-3.00): long ears lag then overshoot on distinct arcs. Beats 6-7 (3.00-4.20): heavy tail follows, reverses, and damps once. Beat 8 (4.20-4.80): fox holds backward glance. Hold through 5.1667 s.
-
-## Spatial Block
-
-Feet remain at fixed marks X=±0.14, Z=±0.12 m; torso rotates 70 degrees about Y; camera fixed at (0,+0.80,−2.6).
-
-## Look + Lighting
-
-Clean subdivision topology, smooth spline animation, stable volume, soft physically based desert light, separate ear and tail inertia.
-
-## Sound
-
-Silent; no animal sounds, music, effects, or soundtrack.
-
-## Limits
-
-One look-back turn. No walking, foot sliding, simultaneous appendage starts, identity drift, cuts, camera motion, text, logos, or post-hold motion.
-
-## Sources
-
-- [Disney Animation — follow-through and secondary action](https://www.disneyanimation.com/process/animation/)
-- [Disney Animation — weight and overlapping action in hand-drawn work](https://www.disneyanimation.com/process/hand-drawn-animation/)
-- [Blender Manual — F-Curve interpolation](https://docs.blender.org/manual/en/3.5/editors/graph_editor/fcurves/introduction.html)
+non_diegetic_music: Low wooden flute and two soft plucked strings trace the turn’s causal sequence, resolving into silence; no claim of frame-accurate tempo lock.

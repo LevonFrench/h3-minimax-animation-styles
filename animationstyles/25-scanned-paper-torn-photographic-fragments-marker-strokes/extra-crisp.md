@@ -1,40 +1,5 @@
-# Title
+integrated_multimodal_description: A native 736×416, 24 fps, 124-frame, 5.1667-second editorial-photocopy-collage T2VA shot. [0.00–1.05 s] One black-and-white photographic skateboarder is frozen mid-crouch on a cream scanned-paper poster, assembled from three aligned torn strips with toner grain, coarse halftone, tape edges, red marker accents, and shallow physical shadows under even rostrum illumination. The rostrum camera is locked, zero amplitude, zero speed. [1.05–3.85 s] The skateboarder performs one action: a single ollie assembled by successive page-strip replacements; the legs compress, board and body lift together, and the strips slide only enough to reveal readable photographic phases while a red marker arc traces the jump beneath them. [3.85–4.55 s] The final landing strips align into one coherent figure, one rubber-stamp circle registers around the board, and all paper shadows remain spatially consistent. [4.55–5.1667 s] Tape, strips, marker arc, and landed skateboarder settle into a balanced poster hold. No extra people, floating board, liquid morph, illegible letter clutter, or camera movement.
 
-Night Swimmer Poster
+overall_soundscape: Paper slides, tape tacks, marker squeak, a brief wheel lift, and one dry skateboard landing clap synchronize with the collage replacements.
 
-## Intent
-
-Assemble one balanced editorial poster through physical torn-paper motion while preserving the subject's anatomy across strips.
-
-## Shot Class
-
-Top-down rostrum view, 55 mm equivalent, locked camera.
-
-## Subject / Continuity
-
-A monochrome photocopied swimmer is split across four horizontal torn-photo strips on red paper. Body anatomy, swimsuit, toner density, strip order, tape edges, and cast shadows remain consistent.
-
-## Timed Action + Camera
-
-100 BPM. Beat 1 (0.00-0.60): strips sit misaligned. Beats 2-5 (0.60-3.00): strips slide laterally one at a time to assemble one complete diving silhouette. Beat 6 (3.00-3.60): a black marker arc draws the dive path behind the figure. Beat 7 (3.60-4.20): one rubber-stamp circle lands at the arc endpoint. Beat 8 (4.20-4.80): composition settles into a balanced poster. Hold through 5.1667 s.
-
-## Spatial Block
-
-Four strips move within X=±0.35 m on Z-separated paper planes 0-0.012 m; swimmer centers at (0,0,0). Camera fixed at (0,+0.72,0).
-
-## Look + Lighting
-
-Torn photo fiber, coarse halftone, toner grain, marker stroke, tape edges, stamp misregistration, high-contrast red/black/white paper palette. Fixed side light preserves small paper shadows.
-
-## Sound
-
-Silent; no dialogue, music, paper foley, or soundtrack.
-
-## Limits
-
-One assembly action. No cyclist, page flip, duplicated limbs, changing anatomy, cuts, zoom, typography, logos, or strip movement after 4.80 s.
-
-## Sources
-
-- [NFB — Hand-Crafted Cinema](https://www.nfb.ca/film/handcrafted_cinema/)
-- [Adobe — masks and shapes](https://helpx.adobe.com/uk/after-effects/desktop/drawing-painting-and-paths/shapes-and-shape-attributes/creating-shapes-masks.html)
+non_diegetic_music: Dusty breakbeat fragments and muted bass support the jump as editorial energy rather than frame-exact BPM sync, ending on a short vinyl-warm chord.

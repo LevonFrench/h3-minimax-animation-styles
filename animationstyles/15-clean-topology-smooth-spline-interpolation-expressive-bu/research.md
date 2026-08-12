@@ -1,16 +1,25 @@
-# Research — Feature-quality stylized CG character animation
+# Research — Stylized character CG
 
-## Style fingerprint
+## Identification and provenance
 
-- **Visual/material vocabulary:** clean subdivision topology; spline interpolation; eye-led action; controlled facial shapes; soft PBR bounce; subsurface skin response; strap lag; contact compression.
-- **Motion logic:** Lead with eyes, then head, torso, and backpack straps in descending order; preserve hand anatomy and seed identity through the catch and final held smile.
-- **MiniMax H3 translation:** Use one primary action, one continuous camera path (or a locked camera), one lighting progression, and a stable resolved endpoint. At 100 BPM, map beats 1–8 to 0.00–4.80 seconds and use the remaining H3 tail through 5.17 seconds as a clean hold. Treat exact typography and perfect loops as explicit constraints, but expect final frame-accurate enforcement in post.
+“Stylized CG” spans many pipelines; sources establish subdivision, physically based shading, and subsurface techniques rather than this character design.
+
+## Historically and technically grounded mechanics
+
+Clean topology, spline interpolation, expressive but controlled deformation, subsurface response, groomed secondary motion, and physically based materials support readable stylization.
+
+## Actionable motion, material, and camera vocabulary
+
+- Preserve material evidence, edge behavior, motivated overlap, readable spacing, and a stable endpoint.
+- Preserve the botanist’s anatomy and prop contacts; let facial pose, body mechanics, cloth/hair overlap, and plant response form one causal chain.
+- Camera vocabulary: slow three-quarter orbit, 6-degree amplitude, constant speed; continuous screen direction; no unmotivated reframing.
+
+## Prompt implications
+
+Name visible causes, not style alone. Preserve the original subject/action, use legible intermediate states and coherent space, and reserve the final tail for a settled hold.
 
 ## Sources
 
-- [Pixar Research — Subdivision Surfaces in Character Animation](https://research.pixar.com/docs/1998.SiggraphPapers.DKT.pdf)
-- [ACM SIGGRAPH — CG history](https://blog.siggraph.org/2023/07/50-years-in-a-blink-of-the-eye.html)
-
-## Prompting takeaways
-
-Name the physical medium before the subject, describe visible intermediate states rather than asking for a dissolve, bind each sound to one visible event, and state what must remain stable: subject identity, material texture, screen geometry, letterforms, or the loop phase.
+- [Pixar Research — Subdivision surfaces](https://research.pixar.com/docs/1998.SiggraphPapers.DKT.pdf)
+- [Disney Animation — Physically based shading notes](https://media.disneyanimation.com/uploads/production/publication_asset/48/asset/s2012_pbs_disney_brdf_notes_v3.pdf)
+- [Disney Animation — Subsurface scattering](https://disneyanimation.com/publications/practical-and-controllable-subsurface-scattering-for-production-path-tracing/)

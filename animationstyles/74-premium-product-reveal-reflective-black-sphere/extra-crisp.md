@@ -1,38 +1,5 @@
-# Extra Crisp — Obsidian Eclipse
+integrated_multimodal_description: A premium commercial studio reveal on a seamless charcoal cyclorama. [0.00–1.10 s] One polished black spherical fragrance bottle sits centered on a low mirror-black plinth, readable through controlled reflected gradients rather than flat black fill; a tall white strip key, dim blue fill, and narrow amber rim create one continuous lighting system. The camera performs a low-angle orbital move, medium amplitude, very slow speed, traveling twenty degrees clockwise while maintaining product scale. [1.10–3.85 s] The bottle performs one observable action: rotates slowly one quarter-turn on its fixed contact point. A continuous white highlight sweeps from left edge across the front without discontinuity, revealing subtle surface roughness; a soft halo reflection beneath the contact blooms outward and contracts once. Six sparse condensation-like pin glints appear on the upper right surface and remain flat highlights, never droplets. [3.85–4.55 s] Object rotation stops with smooth F-curve deceleration; pin glints fade and the base halo returns to its opening size. [4.55–5.1667 s] The bottle holds in clean black stillness as camera motion settles. Preserve silhouette, plinth, contact, light sources, reflections, and studio axis. Native output contract: 736×416, 24 fps, 124 frames, exactly 5.1667 seconds. No label text, impossible reflection jumps, liquid droplets, extra products, surface dents, or camera shake.
 
-## Intent
+overall_soundscape: Near-silent treated studio, a low glassy rotational hum, one soft halo bloom, and six faint crystalline pin ticks that fade naturally.
 
-Make a luxury object reveal whose entire drama comes from reflection control, not camera spectacle.
-
-## Shot Class
-
-Locked 70 mm studio close shot, 16:9, native H3 736×416, 24 fps, 124 frames.
-
-## Subject / Continuity
-
-One flawless obsidian-black sphere remains centered, grounded on a mirrored black plinth, and unchanged in size and geometry.
-
-## Timed Action + Camera
-
-At 0.00–0.60 s, establish near-black silhouette. From 0.60–2.40 s, a slim white reflection travels once across the sphere. From 2.40–3.60 s, a dim circular eclipse halo blooms beneath it and a few dew-bright points sparkle at the rim. From 3.60–4.80 s, the halo and points withdraw as the reflection returns. Hold the restored opening state through 5.1667 s. Camera remains locked.
-
-## Spatial Block
-
-Sphere center and contact point never move; reflection and halo share the same axis.
-
-## Look + Lighting
-
-Deep charcoal studio, glossy black dielectric surface, narrow strip-box reflection, crisp edge separation, restrained bloom.
-
-## Sound
-
-Low turntable bearing, one crystalline shimmer, quiet room tone; sparse glass tones over a soft sub pulse.
-
-## Limits
-
-No logo, text, seam, levitation, camera move, extra object, or multiple competing highlights.
-
-## Sources
-
-- [Blender Manual — Principled BSDF](https://docs.blender.org/manual/en/latest/render/shader_nodes/shader/principled.html)
-- [Blender Manual — Light Objects](https://docs.blender.org/manual/en/latest/render/lights/light_object.html)
+non_diegetic_music: Deep sub-bass, bowed metal, and a single high glass harmonic build understated luxury tension, then settle; no frame-exact BPM claim.

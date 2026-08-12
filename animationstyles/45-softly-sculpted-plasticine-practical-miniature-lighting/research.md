@@ -1,14 +1,22 @@
-# Research — Clay Stop-Motion Anticipation
+# Research: clay stop-motion anticipation exercise—diver
 
-## Actionable vocabulary
+## Identification and provenance
 
-- Clay animation should show plasticine fingerprints, stepped increments, replacement-mouth changes, miniature practical shadows, and controlled registration variation.
-- Hesitation needs a held pose: weight pulls backward, one foot retreats, shoulders lift, and gaze stays fixed on the drop.
-- The jump is one action unit with clear anticipation, board deflection, release, and delayed board vibration.
-- Avoid a vague “dive arc”; specify a clean forward-downward parabola and preserve limb/board geometry.
+This is a plasticine stop-motion character exercise organized around hesitation, anticipation, action, and follow-through. Stop motion is photographed through successive physical adjustments; Aardman’s practice foregrounds hand-crafted clay texture, while Disney’s animation vocabulary supplies anticipation and follow-through. The diver scenario is an original exercise, not a named substyle.
+
+## Visual and motion mechanics
+
+- Visible thumbprints, replacement mouth shapes, stepped pose increments, practical shadows, and tiny registration shifts establish material authenticity.
+- Hesitation reads through retreating foot, raised shoulders, gaze down, changed mouth, and a held pose.
+- The arm swing and deep bend create a strong anticipation arc before the board bends and releases.
+- Board vibration after the swimmer exits is follow-through and keeps the set alive.
+
+## Prompt implications
+
+Keep the swimmer dominant in a stable miniature composition, with blue foil water below. Hold the hesitation long enough to read, then compress the action into a decisive dive and lingering board vibration.
 
 ## Sources
 
-- [Oscars — animation techniques and stop-motion](https://www.oscars.org/saa/apply)
-- [MoMA — stop-motion’s articulated movement](https://www.moma.org/explore/inside_out/2010/04/07/crude-elegance-stop-motion-animation-and-tim-burton/)
-- [NFB — clay and under-camera techniques](https://blog.nfb.ca/blog/2011/09/14/animation-open-house-2011/)
+- [Australian Film Television and Radio School: stop-motion learning resource](https://medialab.aftrs.edu.au/wp-content/uploads/2018/04/stop-motion-learning-resource.pdf)
+- [Aardman: Morph and modeling-clay animation](https://aardman.com/film-tv-games/morph/)
+- [Walt Disney Animation Studios: anticipation and follow-through](https://www.disneyanimation.com/process/animation/)

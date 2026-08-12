@@ -1,41 +1,5 @@
-# Title
+integrated_multimodal_description: Plasticine clay stop motion on a handcrafted miniature potting bench, with softly sculpted volume, visible thumbprints, small surface wobble, stepped posing, and coherent practical-light changes. [0.00–1.05 s] One squat green clay pumpkin sits centered on a terracotta tile beneath a warm miniature work-lamp key, cool ambient fill, and a soft rim; its contact patch remains fixed. The camera performs a lateral arc, small amplitude, slow speed, moving clockwise at tabletop height. [1.05–3.75 s] The pumpkin performs one observable action: grows one clay vine that wraps once around its body. A narrow coil extrudes from the existing crown mass, advances in hand-shaped increments, and circles exactly one turn while shallow dimples migrate consistently across a subtle axial rotation; apparent clay volume is conserved. [3.75–4.55 s] The coil unwinds and merges back into the crown with visible thumb-smoothed joins, leaving no added or missing clay. [4.55–5.1667 s] The pumpkin restores its opening silhouette, dimples settle, and the shot holds. Preserve tile, contact, center, scale, material color, and practical lighting. Native output contract: 736×416, 24 fps, 124 frames, exactly 5.1667 seconds. No liquid simulation, rubber gloss, extra clay, detached vine, fingerprints sliding like decals, text, or camera jitter beyond natural stop motion.
 
-Clay Coil Breathing Sphere
+overall_soundscape: Soft clay kneads and tacky releases, one faint terracotta contact creak, gentle coil squishes, and a final thumb-smoothed pat.
 
-## Intent
-
-Extrude and reabsorb one clay coil from a fixed sphere while preserving total volume and visible sticky material continuity.
-
-## Shot Class
-
-Centered miniature close-up, 70 mm equivalent, locked camera.
-
-## Subject / Continuity
-
-One coral plasticine sphere on a gray miniature plinth. Preserve center, total clay volume, fingerprints, dimples, tool marks, sticky seams, and contact shadow.
-
-## Timed Action + Camera
-
-100 BPM. Beat 1 (0.00-0.60): sphere holds. Beats 2-4 (0.60-2.40): one coil extrudes from upper surface by visibly drawing mass from the sphere; sphere squashes proportionally. Beats 5-6 (2.40-3.60): coil rotates once in stepped poses as thumbprint dimples travel around it. Beat 7 (3.60-4.20): coil merges back through a tacky seam and sphere restores volume. Beat 8 (4.20-4.80): original sphere holds through 5.1667 s.
-
-## Spatial Block
-
-Sphere centered (0,+0.15,0), radius 0.15 m; coil extends to Y=+0.38 m while center stays fixed. Camera fixed at (0,+0.24,−1.4).
-
-## Look + Lighting
-
-Soft plasticine, thumbprints, finger dents, tool marks, sticky pull-apart, stepped rotation, practical side light revealing relief.
-
-## Sound
-
-Silent; no clay foley, music, voice, or soundtrack.
-
-## Limits
-
-One extrusion-return action. No appearing mass, volume gain, detached coil, center drift, smooth CG motion, cuts, camera motion, text, logos, or endpoint wobble.
-
-## Sources
-
-- [Oscars — clay animation and stop-motion techniques](https://www.oscars.org/saa/apply)
-- [NFB — clay under-camera animation](https://blog.nfb.ca/blog/2011/09/14/animation-open-house-2011/)
-- [Disney Animation — squash and stretch](https://www.disneyanimation.com/process/animation/)
+non_diegetic_music: Plucked cello and bassoon make one curling phrase that returns neatly to its starting note; timing intent only, never a frame-exact BPM claim.

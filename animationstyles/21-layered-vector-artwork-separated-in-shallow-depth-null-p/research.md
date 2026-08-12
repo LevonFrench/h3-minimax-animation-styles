@@ -1,16 +1,25 @@
 # Research — 2.5D layered explainer animation
 
-## Style fingerprint
+## Identification and provenance
 
-- **Visual/material vocabulary:** separated Z planes; null-parented camera; controlled parallax; card-edge reveal; soft cast shadow; route line emerging from screen; frontal reset.
-- **Motion logic:** Space signs, person, shelter, buildings, and clouds on shallow depth planes; use one restrained push and return to a square-on title composition.
-- **MiniMax H3 translation:** Use one primary action, one continuous camera path (or a locked camera), one lighting progression, and a stable resolved endpoint. At 100 BPM, map beats 1–8 to 0.00–4.80 seconds and use the remaining H3 tail through 5.17 seconds as a clean hold. Treat exact typography and perfect loops as explicit constraints, but expect final frame-accurate enforcement in post.
+“2.5D explainer” is a workflow label, not an art-historical movement.
+
+## Historically and technically grounded mechanics
+
+Separated Z planes, null-parented camera motion, controlled parallax, card-edge reveals, soft cast shadows, and a frontal reset create shallow dimensional space from flat artwork.
+
+## Actionable motion, material, and camera vocabulary
+
+- Preserve material evidence, edge behavior, motivated overlap, readable spacing, and a stable endpoint.
+- Keep signs, commuter, shelter, buildings, and clouds on stable depth planes; let the route line connect them causally and return square-on for the exact title.
+- Camera vocabulary: restrained forward camera push, 8% depth amplitude, slow ease-in/out; continuous screen direction; no unmotivated reframing.
+
+## Prompt implications
+
+Name visible causes, not style alone. Preserve the original subject/action, use legible intermediate states and coherent space, and reserve the final tail for a settled hold.
 
 ## Sources
 
 - [Adobe — 3D layers](https://helpx.adobe.com/after-effects/desktop/work-with-layers/3d-layers/3d-layers.html)
-- [Adobe — Cameras and points of interest](https://helpx.adobe.com/uk/after-effects/using/cameras-lights-points-interest.html)
-
-## Prompting takeaways
-
-Name the physical medium before the subject, describe visible intermediate states rather than asking for a dissolve, bind each sound to one visible event, and state what must remain stable: subject identity, material texture, screen geometry, letterforms, or the loop phase.
+- [Adobe — Cameras, lights, and points of interest](https://helpx.adobe.com/uk/after-effects/using/cameras-lights-points-interest.html)
+- [Adobe — Animation basics](https://helpx.adobe.com/after-effects/desktop/animate-in-after-effects/animation-basics/animation-basics.html)

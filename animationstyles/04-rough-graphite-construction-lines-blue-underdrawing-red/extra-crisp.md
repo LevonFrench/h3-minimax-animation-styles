@@ -1,40 +1,5 @@
-# Title
+integrated_multimodal_description: A native 736×416, 24 fps, 124-frame, 5.1667-second T2VA pencil-test shot. [0.00–1.15 s] One young adult acrobat crouches on off-white punched animation paper under neutral animation-stand illumination; rough graphite search lines overlay blue construction and sparse red corrections, with peg holes and exposure marks at the edge. The animation-stand camera is locked, zero amplitude, zero speed. [1.15–3.80 s] The acrobat performs one action: a single standing backflip, passing through a distinct anticipation key, accelerating takeoff spacing, tight apex, opening descent, hair overlap, and landing squash; arcs and onion-skin traces remain visible. [3.80–4.55 s] The feet return to the same baseline and the torso rebounds into balance, preserving scale and screen position. [4.55–5.1667 s] The final balanced key settles and holds with construction evidence intact. No clean ink, color fill, background scenery, extra people, or reframing.
 
-Heron Landing Pencil Test
+overall_soundscape: Graphite scratches track the drawn motion, followed by a soft paper thump at landing and a faint sheet flutter during the rebound.
 
-## Intent
-
-Expose animation thought on paper: construction, corrections, changing spacing, apex, and landing all remain visible.
-
-## Shot Class
-
-Top-down full-page study, 55 mm equivalent, locked animation-stand camera.
-
-## Subject / Continuity
-
-One long-legged heron drawn in blue underdrawing, rough graphite search lines, and sparse red joint corrections on punched animation paper.
-
-## Timed Action + Camera
-
-100 BPM. Beat 1 (0.00-0.60): crouched key pose holds. Beats 2-3 (0.60-1.80): the heron springs upward, drawings spaced progressively farther apart. Beats 4-5 (1.80-3.00): it reaches a high apex with tight spacing and overlapping wing-tip action. Beats 6-7 (3.00-4.20): legs extend toward the paper ground line, spacing widens into descent. Beat 8 (4.20-4.80): feet compress into a stable landing key. Hold landing and camera through 5.1667 s.
-
-## Spatial Block
-
-Heron's ground mark stays centered at (0,0,0), apex Y=+0.24 m within the page. Camera fixed at (0,+0.70,0), optical axis perpendicular, page edges and peg holes visible.
-
-## Look + Lighting
-
-Blue construction ovals persist beneath graphite cleanup; red corrections cluster at ankles, knees, and wing roots; loose arcs and spacing-chart marks remain at margins. Cool even desk light, slight paper shadow at peg holes.
-
-## Sound
-
-Silent visual study; no dialogue, music, pencil foley, or soundtrack.
-
-## Limits
-
-One jump-and-land action, locked camera. No finished cel color, erased construction, photoreal bird texture, page turn, morphing, extra subjects, cuts, text beyond abstract exposure ticks, or endpoint drift.
-
-## Sources
-
-- [Animation Resources — Don Graham biography](https://animationresources.org/biography-don-graham/)
-- [Animation Resources — Walter Lantz drawing lesson](https://animationresources.org/education-a-drawing-lesson-from-walter-lantz/)
+non_diegetic_music: Two low piano pulses support anticipation and landing, followed by a quiet sustained harmonic under the hold; no frame-exact musical claim.

@@ -1,14 +1,22 @@
-# Research — Pop-Art Cut-Paper Collage
+# Research — Pop-art-inflected cut-paper collage
 
-## Actionable vocabulary
+## Provenance and identification
 
-- Collage gains specificity from torn or scissor-cut edges, pasted-paper overlap, halftone/screenprint misregistration, found-pattern contrast, and flat layer shadows.
-- Pop-art energy comes from saturated limited palettes, repeated motifs, starbursts, dots, stripes, and bold graphic scale changes.
-- Preserve the sphere as one underlying form while swapping four surface skins; concentric cutouts can bloom physically as stacked paper rings.
-- Use a stable rostrum view and planar motion to avoid generic liquid morphing.
+The source is a hybrid: saturated Pop-art print language plus frame-by-frame cut-paper collage and surreal morphing. The Academy distinguishes overhead collage/cutout methods and recognizes cutout animation; MoMA's Pop collection provides art-historical context for bold commercial imagery and print processes. These sources support components, not the exact coined composite label.
+
+## Visual mechanics
+
+- Make floral, striped, polka-dot, and starburst skins read as physically layered printed paper.
+- Keep cut edges, screen-print texture, and slight layer relief visible.
+- Expand into concentric cutouts around one registered center.
+- Pulse color halos behind the object so they never occlude the surface sequence.
+
+## Prompt implications
+
+Name the four skins and restore the first exactly. Surreal fluidity should connect paper states without turning them into liquid CGI.
 
 ## Sources
 
-- [The Met — Juan Gris and papiers collés](https://www.metmuseum.org/art/collection/search/500421)
-- [MoMA — Jeff Scher’s collages and painted animation](https://www.moma.org/calendar/exhibitions/3680)
-- [NFB — under-camera paper cut-out techniques](https://blog.nfb.ca/blog/2011/09/14/animation-open-house-2011/)
+- [Academy — Animation Activities Guide](https://www.oscars.org/sites/oscars/files/complete_animation_activities_guide.pdf)
+- [Academy — Student Academy Awards animation techniques](https://www.oscars.org/saa/apply)
+- [MoMA — Pop Art collection](https://www.moma.org/collection/terms/pop-art)

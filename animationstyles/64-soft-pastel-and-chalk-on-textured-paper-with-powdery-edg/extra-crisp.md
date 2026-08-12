@@ -1,41 +1,5 @@
-# Title
+integrated_multimodal_description: Soft pastel-and-chalk animation on dark blue textured paper, with granular pigment caught in the tooth, rubbed highlights, directional smudged shadows, powdery edges, and visible frame-by-frame handwork. [0.00–1.10 s] One pale peach moon fills the upper center above a simple charcoal ridge, illuminated by its own softly rubbed warm face while a cool chalk shadow sits along the lower right edge. The camera performs a vertical tilt-up, small amplitude, very slow speed, keeping the moon’s center stable relative to the ridge. [1.10–3.70 s] The moon performs one observable action: brightens from crescent glow to a full soft halo. A hand-rubbed highlight builds progressively from upper left, the lower-right shadow is gently pushed outward, and a finite veil of pastel dust lifts from the boundary for one shallow clockwise circulation close to the paper surface. [3.70–4.55 s] Dust settles back into the moon edge, restoring a legible circular contour and balanced pigment density; nothing becomes volumetric smoke. [4.55–5.1667 s] The complete warm halo and ridge hold still. Preserve paper tooth, center, ridge, color temperature, and light-shadow logic. Native output contract: 736×416, 24 fps, 124 frames, exactly 5.1667 seconds. No glitter, smoke cloud, hard vector edge, extra moons, sliding paper texture, text, or camera shake.
 
-Pastel Eclipse Dust
+overall_soundscape: Quiet night air, granular chalk rubbing, a faint powder whisper during circulation, and distant soft wind over the ridge.
 
-## Intent
-
-Animate one matte pastel eclipse through rubbed highlight, layered shadow, and physically settling powder.
-
-## Shot Class
-
-Top-down paper close-up, 70 mm equivalent, locked camera.
-
-## Subject / Continuity
-
-One soft blue pastel sphere rests on charcoal tooth paper. Preserve center, powdery contour, broad-side stroke direction, and matte average volume.
-
-## Timed Action + Camera
-
-100 BPM. Beat 1 (0.00-0.60): sphere holds. Beats 2-3 (0.60-1.80): a pale highlight appears as newly rubbed pigment moving across upper-left contour. Beats 4-5 (1.80-3.00): layered violet strokes smudge across lower-right, forming an eclipse shadow. Beat 6 (3.00-3.60): loose dust lifts gently from the advancing edge. Beat 7 (3.60-4.20): dust settles onto paper beneath the sphere. Beat 8 (4.20-4.80): matte eclipse holds through 5.1667 s.
-
-## Spatial Block
-
-Sphere centered (0,0,0), diameter 0.30 m; dust settles within Y=−0.20 to −0.28 m. Camera fixed at (0,+0.62,0).
-
-## Look + Lighting
-
-Soft pastel, toothy paper, broad-side strokes, pressure-saturated marks, velvety bloom, powdery edges, diffuse light.
-
-## Sound
-
-Silent; no dust sound, voice, music, or soundtrack.
-
-## Limits
-
-One eclipse-material progression. No sparks, glossy highlight, wet flow, camera motion, cuts, text, logos, or dust movement after 4.80 s.
-
-## Sources
-
-- [The Met — Pastel materials and techniques](https://www.metmuseum.org/de/perspectives/materials-and-techniques-drawing-pastel)
-- [The Met — The Rise of Pastel](https://www.metmuseum.org/pt/perspectives/the-rise-of-pastel-in-the-eighteenth-century)
-- [The Met — Eighteenth-Century Pastels](https://www.metmuseum.org/exhibitions/listings/2013/pastels)
+non_diegetic_music: Breath flute and bowed glass swell gradually into one luminous chord, then hold with minimal movement; no frame-exact BPM assertion.

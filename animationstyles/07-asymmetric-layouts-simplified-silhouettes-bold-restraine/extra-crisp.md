@@ -1,40 +1,5 @@
-# Title
+integrated_multimodal_description: A native 736×416, 24 fps, 124-frame, 5.1667-second limited-animation T2VA shot. [0.00–1.15 s] One angular hotel clerk occupies the left third of an asymmetric flattened lobby, framed by mustard, teal, black, and cream blocks under even poster-like illumination; a wall of diamond key hooks creates disciplined negative space. The graphic proscenium camera is locked, zero amplitude, zero speed. [1.15–3.85 s] The clerk performs one action: with the body held, one wrist reaches to hang a room key, using only two economical arm poses and a selective eye glance toward the hook. [3.85–4.55 s] The key lands squarely on the chosen diamond, preserving the flat perspective grid and the clerk’s silhouette separation. [4.55–5.1667 s] The wrist returns to the counter, pupils center, and all shapes hold. No realistic perspective, full-body fluid motion, extra guests, texture noise, or camera movement.
 
-The Librarian's Red Stamp
+overall_soundscape: A quiet lobby ventilation tone supports one sleeve swish, a crisp metal key click, and a small counter tap.
 
-## Intent
-
-Turn selective motion and negative space into graphic percussion while the character body remains deliberately held.
-
-## Shot Class
-
-Asymmetric medium-wide composition, 70 mm equivalent, locked frontal camera.
-
-## Subject / Continuity
-
-An angular librarian in a mustard triangular coat sits at far screen-left; a huge pale-blue checkout card fills screen-right. Only gaze, wrist, and one stamp move.
-
-## Timed Action + Camera
-
-100 BPM. Beat 1 (0.00-0.60): held pose, eyes on card. Beats 2-3 (0.60-1.80): pupils slide right while the body remains frozen. Beats 4-5 (1.80-3.00): wrist lifts a red circular stamp in two economical poses. Beat 6 (3.00-3.60): stamp descends once onto the blank card. Beat 7 (3.60-4.20): wrist recoils; red circle remains. Beat 8 (4.20-4.80): eyes return toward viewer. Hold all geometry through 5.1667 s; camera locked.
-
-## Spatial Block
-
-Librarian anchored at (−0.38,0,0); wrist travels Y=+0.12 to +0.25 to +0.12 m. Card centered (+0.28,+0.18,+0.02). Camera fixed at (0,+0.22,−2.0), no parallax.
-
-## Look + Lighting
-
-UPA-inspired limited animation, flattened perspective, bold restrained mustard/pale-blue/red palette, angular silhouettes, poster-flat fills, expansive negative space. Even matte light; the red circle is the sole color accent change.
-
-## Sound
-
-Silent take; no dialogue, music, stamp foley, or generated soundtrack.
-
-## Limits
-
-One stamp action. No cabinet, drawers, full-body motion, extra marks on card, readable text, gradients, realistic depth, camera motion, cuts, logos, or post-hold animation.
-
-## Sources
-
-- [Library of Congress — The Unicorn in the Garden](https://www.loc.gov/exhibits/music-and-animation/the-unicorn-in-the-garden-1953.html)
-- [Library of Congress — Three Films by Chuck Jones](https://lcweb2.loc.gov/static/programs/national-film-preservation-board/documents/chuck_jones.pdf)
+non_diegetic_music: Dry vibraphone, muted bass, and one brushed cymbal accent create restrained mid-century graphic punctuation, ending cleanly before the hold.

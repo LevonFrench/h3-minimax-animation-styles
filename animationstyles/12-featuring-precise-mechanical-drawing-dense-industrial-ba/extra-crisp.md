@@ -1,40 +1,5 @@
-# Title
+integrated_multimodal_description: A native 736×416, 24 fps, 124-frame, 5.1667-second industrial-design cel T2VA shot. [0.00–1.05 s] One compact orange inspection drone hovers beside a large blue pressure gauge in a dense turbine hall, rendered with precise mechanical drawing, hard-edged cel color, diagrammatic tick overlays, and repeating background piston cycles under cool overhead strips plus one amber service lamp. [1.05–3.85 s] The drone performs one action: it rotates the gauge’s calibration knob exactly one quarter turn with a small gripping arm, maintaining plausible alignment and contact while the needle advances smoothly into the green sector. A slow lateral multiplane truck moves right, 5% frame-width amplitude, constant slow speed; pipes, drone, and far machinery retain their depth order and continuous screen direction. [3.85–4.55 s] The knob stops, the needle stabilizes, and the drone releases without drifting. [4.55–5.1667 s] Supporting machinery continues its subdued cycle while the calibrated gauge and drone hold. No impossible mechanisms, extra workers, loose geometry, cuts, or competing camera moves.
 
-Skybridge Counterweight
+overall_soundscape: Layered turbine hum and restrained piston rhythm support a servo whine, three small gear clicks, and a precise latch sound at calibration.
 
-## Intent
-
-Sell mechanical mass on one axis through suspension reaction, layered depth, and delayed clothing overlap.
-
-## Shot Class
-
-Medium-wide three-quarter profile, 45 mm equivalent, continuous parallel tracking camera.
-
-## Subject / Continuity
-
-A helmeted maintenance worker in a fixed ochre coat rides a suspended counterweight platform across a dense industrial canyon. Platform geometry, cable attachment, clothing, and body identity remain stable.
-
-## Timed Action + Camera
-
-100 BPM. Beat 1 (0.00-0.60): platform begins moving right. Beats 2-3 (0.60-1.80): worker lowers center of gravity as cables tension. Beats 4-5 (1.80-3.00): platform crosses a tower gap; background layers stream with coherent parallax. Beat 6 (3.00-3.60): one rail joint compresses the suspension. Beat 7 (3.60-4.20): coat hem and shoulder strap settle one beat late. Beat 8 (4.20-4.80): platform locks at the receiving gantry. Hold through 5.1667 s. Camera tracks parallel and settles simultaneously.
-
-## Spatial Block
-
-Platform and rider (+0.00,+0.18,0) to (+1.10,+0.18,0). Camera (−0.30,+0.42,−2.6) to (+0.80,+0.42,−2.6), never crossing the motion axis.
-
-## Look + Lighting
-
-High-detail industrial cel animation, precise perspective, dense layered machinery, hard amber signals, cool atmospheric haze, weighty mechanics. One amber receiving light activates at docking.
-
-## Sound
-
-Silent visual take; no dialogue, music, machinery, or soundtrack.
-
-## Limits
-
-One crossing action. No train, sparks, random shake, multiple riders, changing cables, cuts, zoom, unreadable anatomy, text, logos, or movement after docking.
-
-## Sources
-
-- [Library of Congress — animation, pacing, and sound](https://www.loc.gov/exhibits/music-and-animation/about.html)
-- [Animation Resources — staging and dimensional drawing](https://animationresources.org/biography-don-graham/)
+non_diegetic_music: Low modular-synth pulses and muted toms maintain technical restraint, ending in a short stable chord rather than claiming frame-exact sync.

@@ -1,14 +1,22 @@
-# Research — Tactile Stop-Motion Product Loop
+# Research: tactile stop-motion product loop
 
-## Actionable vocabulary
+## Identification and provenance
 
-- Stop-motion gains credibility from real material evidence: paper fibers, fold memory, imperfect cut edges, wood grain, tiny registration shifts, and practical-light falloff.
-- Animate each leaf as a hinged paper mechanism with stepped poses and slight sequential overlap; reverse the same pose order to close the loop cleanly.
-- Preserve the tea tin as the hero identity while secondary paper leaves articulate behind it. Keep label geometry readable and unchanged.
-- Stillness matters in stop-motion: hold the opening and resolved product pose long enough to read, while allowing subtle handcrafted variation.
+The source gives no formal style name. It combines object stop motion, handcrafted paper engineering, miniature product staging, and turntable animation. Stop motion creates movement through successive physical adjustments; Aardman’s craft discourse values visible handwork and registration character. The folded-paper leaf choreography is a bespoke product-animation device.
+
+## Visual and motion mechanics
+
+- Preserve tin edges, printed label registration, paper fibers, wooden grain, practical shadows, and tiny exposure variation.
+- The product completes a constant clockwise revolution while paper leaves rise in sequence, fan open, then reverse-fold.
+- Physical creases should hinge rather than elastically morph; stop-motion increments remain visible.
+- The final state includes every fold, platform angle, label, light, and shadow—not only product orientation.
+
+## Prompt implications
+
+Keep the tea tin as hero and the folded leaves as one supporting mechanical flourish. Use a stable handcrafted paper studio and avoid replacing physical materials with glossy CGI.
 
 ## Sources
 
-- [Academy Museum/Oscars — animation activities guide](https://www.oscars.org/sites/oscars/files/complete_animation_activities_guide.pdf)
-- [MoMA — Crude Elegance: Stop-motion Animation](https://www.moma.org/explore/inside_out/2010/04/07/crude-elegance-stop-motion-animation-and-tim-burton/)
-- [NFB — under-camera paper, clay, paint, and sand techniques](https://blog.nfb.ca/blog/2011/09/14/animation-open-house-2011/)
+- [Australian Film Television and Radio School: stop-motion learning resource](https://medialab.aftrs.edu.au/wp-content/uploads/2018/04/stop-motion-learning-resource.pdf)
+- [Aardman: Morph and modeling-clay stop motion](https://aardman.com/film-tv-games/morph/)
+- [TIME studio report: visible handmade texture in stop motion](https://time.com/5139215/aardman-animation-studio-early-man/)

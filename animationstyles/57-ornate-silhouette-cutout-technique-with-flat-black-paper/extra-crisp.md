@@ -1,41 +1,5 @@
-# Title
+integrated_multimodal_description: An ornate silhouette-cutout stage made from opaque flat black paper against luminous amber backlight, with crisp fibered cut edges and tiny physical registration irregularities. [0.00–1.00 s] One symmetrical black paper moth rests centered on a small theatrical pin, wings closed into a narrow leaf shape; four hinged wing panels are visibly implied. The camera performs a centered dolly-in, small amplitude, slow speed, keeping the pin and moth axis fixed. [1.00–3.55 s] The moth performs one observable action: opens its four hinged panels in stepped increments—upper pair first, lower pair following—until a balanced ornate silhouette is revealed. Four tiny punched-paper stars shift radially outward in sympathy while remaining on the same flat plane. [3.55–4.45 s] The panels fold shut in reverse order and the four stars return to their exact starting positions; no piece floats above the backlit plane. [4.45–5.1667 s] The pristine leaf silhouette fully recombines and holds. Preserve center registration, hinge positions, symmetry, amber illumination, and paper opacity. Native output contract: 736×416, 24 fps, 124 frames, exactly 5.1667 seconds. No extra panels, fuzzy fur, volumetric depth, translucent black paper, missing stars, text, or camera tilt.
 
-Silhouette Sphere Blossom
+overall_soundscape: Quiet miniature-stage room tone, four soft paper-joint ticks during opening, a faint paper brush on closing, and low lamp hum.
 
-## Intent
-
-Open one flat paper sphere into a decorative flower through visible hinges and stepped planar articulation.
-
-## Shot Class
-
-Centered frontal cutout tableau, 65 mm equivalent, locked rostrum camera.
-
-## Subject / Continuity
-
-One black-paper sphere rests against an amber transmitted-light field. Eight hinged flaps and six tiny star cutouts occupy fixed planes with visible fibers and shallow shadows.
-
-## Timed Action + Camera
-
-100 BPM. Beat 1 (0.00-0.60): sphere closed. Beats 2-5 (0.60-3.00): eight flaps open sequentially at pin hinges in stepped poses, transforming silhouette into a flower. Beats 6-7 (3.00-4.20): six star cutouts slide outward on the rear plane and stop at fixed radius. Beat 8 (4.20-4.80): complete flower and stars hold through 5.1667 s.
-
-## Spatial Block
-
-Sphere/flower centered (0,0,0), diameter 0.24 to 0.42 m; stars on radius 0.30 m at Z=+0.02. Camera fixed at (0,+0.20,−1.3).
-
-## Look + Lighting
-
-Flat opaque black profiles, elegant decorative cuts, articulated hinges, paper fibers, amber backlight, shallow layer shadows.
-
-## Sound
-
-Silent; no dialogue, music, paper foley, or soundtrack.
-
-## Limits
-
-One opening action. No rubber motion, volumetric CGI, changing flap or star counts, extra colors, camera motion, cuts, text, logos, or endpoint drift.
-
-## Sources
-
-- [MoMA — Early Animation and Lotte Reiniger](https://www.moma.org/explore/inside_out/2010/06/01/early-animation/)
-- [Academy — cutout animation as a frame-by-frame technique](https://www.oscars.org/sites/oscars/files/93aa_anim_feature.pdf)
-- [NFB — paper cut-out under-camera techniques](https://blog.nfb.ca/blog/2011/09/14/animation-open-house-2011/)
+non_diegetic_music: Delicate harpsichord and glass harmonica form a small symmetrical phrase, resolving before the final hold; rhythmic intention only.

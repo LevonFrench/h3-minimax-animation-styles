@@ -1,14 +1,22 @@
-# Research — Anticipation and Overlapping Settle
+# Research: hand-drawn startled take and overlap
 
-## Actionable vocabulary
+## Identification and provenance
 
-- A startle reads as cause → compressed anticipation → stretched reaction → suspended extreme → impact → overlapping settle.
-- Preserve apparent volume: cheeks, torso, and legs compress together; ears and eyes elongate along one vertical line of action.
-- Overlapping action keeps soft masses from stopping simultaneously. Let cheeks and belly lag the torso and settle in decreasing offsets.
-- One clear silhouette and a locked camera make the timing legible.
+This is a classical hand-drawn character-animation exercise combining squash and stretch, anticipation/reaction, line of action, suspended timing, follow-through, and overlapping secondary motion. Disney Animation identifies these principles as foundational; NFB material emphasizes expressive timing between drawings. The forest-creature setup is original, not a named historical style.
+
+## Visual and motion mechanics
+
+- The dry acorn tap is the cause; downward compression precedes the vertical startled take.
+- Eyes, ears, cheeks, torso, and legs elongate along one readable line of action while volume remains credible.
+- A brief suspended drawing sharpens the extreme; landing compression then releases into smaller ripples.
+- Cheeks and belly settle one beat after the torso, supplying overlap and secondary action.
+
+## Prompt implications
+
+Keep the mushroom, creature, and acorn spatially stable. Use a locked medium shot and emphasize readable silhouettes. Return exact neutral proportions for the final hold.
 
 ## Sources
 
-- [Disney Animation — animation principles](https://www.disneyanimation.com/process/animation/)
-- [Disney Animation — hand-drawn animation](https://www.disneyanimation.com/process/hand-drawn-animation/)
-- [Academy — animation activities guide](https://www.oscars.org/sites/oscars/files/complete_animation_activities_guide.pdf)
+- [Walt Disney Animation Studios: core character-animation principles](https://www.disneyanimation.com/process/animation/)
+- [National Film Board of Canada: twelve principles and movement between frames](https://blog.nfb.ca/blog/2015/03/20/12-principles-animation/)
+- [EDC Digital Media & Arts: volume-preserving squash and stretch](https://dma.edc.org/sites/default/files/Animation_Sample_Activity-2011.pdf)

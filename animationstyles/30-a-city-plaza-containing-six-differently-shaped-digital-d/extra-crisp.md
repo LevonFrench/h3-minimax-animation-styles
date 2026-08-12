@@ -1,40 +1,5 @@
-# Title
+integrated_multimodal_description: T2VA, native 736×416, 24 fps, 124 frames, exactly 5.1667 s. A single white pulse is the dominant subject across six differently shaped digital displays in a dusk city plaza. 0.00–1.25 s: all screens show distinct restrained line systems; bezels, gaps, mounts, and architecture stay visible. 1.25–3.10 s: the pulse jumps sequentially from leftmost display to rightmost, crossing each physical gap as a bright causal handoff; camera locked-off, zero amplitude, zero speed. 3.10–4.45 s: every local line system pivots toward the pulse’s travel direction and joins into one continuous cobalt wave spanning the separate canvases while respecting their borders. 4.45–5.1667 s: the wave settles and holds still across all six screens. Keep fixed spectator geometry and stable plaza light. No borderless-wall illusion, extra pulses, text, camera reframing, or exposure flicker.
 
-Six-Screen Aurora Handoff
+overall_soundscape: Open-plaza ambience, six crisp relay clicks moving spatially across the frame, then a broad clean electronic wash.
 
-## Intent
-
-Carry one synchronized pulse across six physical displays, respecting every bezel and adapting the image to each aspect ratio.
-
-## Shot Class
-
-Fixed wide plaza sightline, 35 mm equivalent, locked camera.
-
-## Subject / Continuity
-
-Six differently shaped digital displays remain physically separate. One green aurora pulse travels screen-to-screen and resolves as a single mountain mosaic from the hero viewpoint.
-
-## Timed Action + Camera
-
-100 BPM. Beat 1 (0.00-0.60): all screens dark blue. Beats 2-6 (0.60-3.60): one aurora pulse crosses displays 1-6 in sequence, jumping each physical gap as a timed handoff while retaining direction and phase. Beat 7 (3.60-4.20): all six panels adapt their crop into aligned mountain fragments. Beat 8 (4.20-4.80): final mosaic locks across bezels. Hold through 5.1667 s; camera locked.
-
-## Spatial Block
-
-Six fixed display planes span plaza X=−3.0 to +3.0 m at varied Y; camera fixed at (0,+1.65,−9.0), master vanishing point centered.
-
-## Look + Lighting
-
-Real plaza, six visible bezels, synchronized DOOH playback, blue-green emissive aurora, per-screen aspect adaptation, shared master canvas. Screen spill rises sequentially with the pulse.
-
-## Sound
-
-Silent; no crowd, dialogue, music, effects, or soundtrack.
-
-## Limits
-
-One traveling pulse. Exactly six screens; no boundary erasure, geometry changes, camera motion, cuts, text, logos, desynchronization, or motion after lock.
-
-## Sources
-
-- [IAB — DOOH definition and core features](https://www.iab.com/guidelines/dooh-defintion-and-core-features/)
-- [IDOOH — DOOH Creative Specifications](https://idooh.media/download/IDOOH_DOOH_Creative_Specs_2022-09.pdf)
+non_diegetic_music: Restrained percussive synth sequence blooming into a sustained blue-toned chord; timing remains musical intent rather than frame-exact BPM.

@@ -1,16 +1,22 @@
-# Research — Anamorphic corner-LED illusion
+# Research: corner-LED anamorphic illusion
 
-## Style fingerprint
+## Identification and provenance
 
-- **Visual/material vocabulary:** hero viewing zone; measured 90-degree seam; forced-perspective room; virtual shadow box; edge breakout; occlusion at screen lip; screen-pixel texture.
-- **Motion logic:** Lock the physical street camera and screen geometry; all depth cues must be rendered for that single viewpoint, and the seam must remain visible and correctly registered.
-- **MiniMax H3 translation:** Use one primary action, one continuous camera path (or a locked camera), one lighting progression, and a stable resolved endpoint. At 100 BPM, map beats 1–8 to 0.00–4.80 seconds and use the remaining H3 tail through 5.17 seconds as a clean hold. Treat exact typography and perfect loops as explicit constraints, but expect final frame-accurate enforcement in post.
+This is anamorphic digital-out-of-home content: imagery is pre-distorted for one intended street viewpoint so a 90-degree LED corner reads as a deep virtual volume. Contemporary corner-cube installations require continuous pixel spacing across the seam and study of valid viewing angles. “Forced-perspective billboard animation” is descriptive industry vocabulary, not an art-historical movement.
+
+## Visual and motion mechanics
+
+- Lock the spectator viewpoint; the room’s floor, ceiling, and walls must converge consistently through the physical seam.
+- Let occlusion, contact shadow, scale growth, and seam crossing sell apparent emergence—not uncontrolled lens motion.
+- Preserve LED texture, façade reflections, and the screen edge so the illusion has a physical reference.
+- Cube fragments may seem to cross the boundary only along the calibrated sightline, then reverse along the same trajectories.
+
+## Prompt implications
+
+Show the billboard from its intended street position with no reframing. Establish the orange cube deep inside, drive it toward the seam, fragment outward, pause, reverse, and assemble exact text. Keep the building and urban context stable.
 
 ## Sources
 
-- [Ibrahim 3D — Complete Guide to 3D Anamorphic Billboards](https://www.ibrahim3d.com/learn/3d-anamorphic-billboards)
-- [IAB — DOOH definition and core features](https://www.iab.com/guidelines/dooh-defintion-and-core-features/)
-
-## Prompting takeaways
-
-Name the physical medium before the subject, describe visible intermediate states rather than asking for a dissolve, bind each sound to one visible event, and state what must remain stable: subject identity, material texture, screen geometry, letterforms, or the loop phase.
+- [Daktronics project report: seamless 90-degree anamorphic LED corner](https://www.avnetwork.com/news/lighting-up-the-sunset-strip)
+- [Daktronics: display size, aspect ratio, audience distance, and continuous-image viewing](https://www.daktronics.com/web-documents/lit/dd1445982.pdf)
+- [Daktronics: LED viewing-angle considerations](https://www.daktronics.com/en-us/support/kb/DD2598985)

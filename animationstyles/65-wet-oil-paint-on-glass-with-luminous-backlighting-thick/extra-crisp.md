@@ -1,41 +1,5 @@
-# Title
+integrated_multimodal_description: Wet oil paint-on-glass animation under luminous backlighting, with persistent cobalt and ultramarine pigment, thick brush ridges, visible pressure, residual mixing, and additive/subtractive repainting. [0.00–1.10 s] One cobalt koi is centered in a dark turquoise painted pond, facing right, lit by a warm glass backlight beneath and one pale painted highlight along its spine. The camera performs a gentle orbital move, small amplitude, slow speed, circling a few degrees clockwise while remaining top-down. [1.10–3.80 s] The koi performs one observable action: curls into a tight circle around its own tail. Wet blue pigment is pushed in continuous curved strokes; fins smear and are repainted, the outer edge bleeds slightly, and a single white painted ribbon follows the circular body path without becoming a separate object. [3.80–4.55 s] The koi uncurls to its original right-facing profile as subtractive brushwork clears the bleed and repainting restores the boundary; the white ribbon merges into the spine highlight with no seam. [4.55–5.1667 s] The fish and wet pigment settle in a luminous hold. Preserve one koi, pond field, pigment mass, center, palette, and backlight. Native output contract: 736×416, 24 fps, 124 frames, exactly 5.1667 seconds. No clean vector morph, digital particles, extra fish, dry canvas texture, text, or camera jump.
 
-White Ribbon Through Blue Oil
+overall_soundscape: Soft wet-brush drag on glass, low watery resonance, one gentle painted swish through the curl, and tiny sticky brush releases at restoration.
 
-## Intent
-
-Make one white painted ribbon travel through a centered wet pigment form by visible pushing, wiping, and repainting.
-
-## Shot Class
-
-Top-down glass-plane close-up, locked camera.
-
-## Subject / Continuity
-
-One centered ultramarine wet-oil oval and one white painted ribbon share luminous glass. Preserve pigment mass, center, ribbon width, brush drag, pooling, and tool marks.
-
-## Timed Action + Camera
-
-100 BPM. Beat 1 (0.00-0.60): oval rests, ribbon at left edge. Beats 2-4 (0.60-2.40): white ribbon is pushed through blue pigment in one clockwise curve, thin areas glowing. Beats 5-6 (2.40-3.60): finger-wiped soft edges expose light behind the ribbon while displaced blue paint pools along outer edge. Beat 7 (3.60-4.20): edges are repainted cleanly. Beat 8 (4.20-4.80): centered oval with one white spiral ribbon holds through 5.1667 s.
-
-## Spatial Block
-
-Oval centered (0,0,0), 0.38×0.28 m; ribbon travels within it. Camera fixed at (0,+0.70,0).
-
-## Look + Lighting
-
-Wet oil on glass, thick ridges, brush drag, finger wipe, pigment pools, luminous backlight through thin paint, handmade continuity.
-
-## Sound
-
-Silent; no painting foley, music, voice, or soundtrack.
-
-## Limits
-
-One ribbon-painting action. No digital liquid simulation, extra forms, visible hand, camera motion, cuts, text, logos, or endpoint movement.
-
-## Sources
-
-- [NFB — Hand-Crafted Cinema with Caroline Leaf](https://www.nfb.ca/film/handcrafted_cinema/)
-- [NFB — under-camera paint, sand, and clay techniques](https://blog.nfb.ca/blog/2011/09/14/animation-open-house-2011/)
-- [NFB production guide mentioning animation on glass](https://www3.nfb.ca/sg/56975.pdf)
+non_diegetic_music: Bass clarinet and bowed vibraphone form a slow circular phrase that resolves into a single luminous overtone; not frame-exact BPM sync.

@@ -1,38 +1,5 @@
-# Extra Crisp — Material Relay
+integrated_multimodal_description: Mixed-media stop-motion assembly on a warm gray tabletop, combining matte paper, brushed felt, crinkled foil, and wet painted marks as physically distinct materials. [0.00–1.00 s] One small matte-paper seed pod stands centered, unchanged in scale, beneath a soft practical overhead key, cool side fill, and gentle contact shadow. The camera performs a tabletop arc move, small amplitude, slow speed, traveling left-to-right while preserving center framing. [1.00–3.85 s] The seed pod performs one observable action: dresses itself in four tactile layers. A kraft-paper flap folds around the left side, burgundy felt brushes and wraps the lower half with visible nap, silver foil overlays the upper half with real creases and specular flashes, and one indigo wet-paint spiral is brushed across the front leaving distinct ridges; each transition is a physical fold, peel, or overlay in stepped increments, never a dissolve. [3.85–4.55 s] Paint retracts by reverse brush marks, foil peels away, felt unrolls, and the paper flap refolds into the body in reverse order. [4.55–5.1667 s] The original matte-paper seed pod and contact shadow fully recombine and hold. Preserve one form, center, scale, tabletop, material identities, and practical lighting. Native output contract: 736×416, 24 fps, 124 frames, exactly 5.1667 seconds. No digital crossfade, generic blended surface, extra material, changing volume, text, logos, or camera shake.
 
-## Intent
+overall_soundscape: Distinct kraft folds, felt brushing, foil crinkles, wet brush drag, and a layered reverse sequence that ends with one soft paper tap.
 
-Stage four physical media as a relay around one invariant sphere, with every hand-built transition readable.
-
-## Shot Class
-
-Locked rostrum tabletop shot, 16:9, native H3 736×416, 24 fps, 124 frames.
-
-## Subject / Continuity
-
-One centered sphere keeps the same diameter, center, contact shadow, and orientation while its physical skin changes.
-
-## Timed Action + Camera
-
-Establish folded matte paper to 0.60 s. Paper tabs lift and felt wraps by 1.60 s. Felt peels and foil closes by 2.60 s. Foil facets fold under brushed wet paint by 3.60 s. Reverse the assembly cleanly through 4.80 s and hold the exact paper opening state through 5.1667 s. Camera remains locked.
-
-## Spatial Block
-
-All skins conform to the same spherical envelope; discarded layers remain attached as tabs until their reverse transition.
-
-## Look + Lighting
-
-Warm paper field; diffuse paper, directional felt nap, sharp foil glints, wet painted highlights; slight stop-motion registration jitter.
-
-## Sound
-
-Paper fold, felt brush, foil crinkle, wet bristle stroke, soft closure; a four-note motif moves across toy piano, plucks, and airy pad.
-
-## Limits
-
-No dissolve, scale drift, translation, liquid morph, camera move, extra object, text, or unreadable material blend.
-
-## Sources
-
-- [National Film Board of Canada — under-camera cut-out animation](https://blog.nfb.ca/blog/2011/09/14/animation-open-house-2011/)
-- [Tate — collage](https://www.tate.org.uk/art/art-terms/c/collage)
+non_diegetic_music: Prepared piano, brushed drum, metallic chime, and bowed glass each enter with one material, then withdraw in reverse; no frame-exact tempo claim.

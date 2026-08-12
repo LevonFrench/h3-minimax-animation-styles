@@ -76,17 +76,15 @@ Near-duplicate source prompts remain separate. Where useful, their spicy version
 
 A new prompt invented independently from `research.md`. The writer was deliberately prevented from reading the harvested transcription or `spicy.md`, so this is not a rewrite or paraphrase of the source concept.
 
-Each extra-crisp prompt includes:
+Each extra-crisp prompt follows the official H3 T2VA field order:
 
-- Intent
-- Shot Class
-- Subject / Continuity
-- Timed Action + Camera
-- Spatial Block
-- Look + Lighting
-- Sound
-- Limits
-- Sources
+- `integrated_multimodal_description`
+- `overall_soundscape`
+- `non_diegetic_music`
+
+The integrated description carries the native output contract, timed action,
+camera type/amplitude/speed, spatial continuity, material and lighting logic,
+final settle or hold, and a short set of meaningful exclusions.
 
 Use this variant when you want a fresh scene that embodies the researched style without inheriting the source card's subject or choreography.
 
@@ -99,13 +97,11 @@ The working assumptions are:
 - native **736×416**, approximately 16:9
 - **24 fps** generation
 - **124 frames**, approximately **5.1667 seconds**
-- a **100 BPM** timing grid when explicit beat timing is used
+- BPM or beat language only when useful as editorial intent, never as a claim of frame-exact sync
 - one readable primary action
 - one physically continuous camera path, or a deliberately locked camera
 - one coherent lighting progression
 - a stable final pose and camera landing through the short H3 tail
-
-Loop-oriented prompts use a seamless-cycle contract where returning precisely to the opening state is more important than a conventional final hold.
 
 Timing language is an execution guide, not a claim of frame-perfect model control. Exact musical hits should be trimmed, held, or conformed in post-production.
 

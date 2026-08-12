@@ -1,40 +1,5 @@
-# Title
+integrated_multimodal_description: A native 736×416, 24 fps, 124-frame, 5.1667-second broadcast-sports-package T2VA shot. [0.00–1.00 s] One hero sprinter in crisp black silhouette drives forward inside a high-contrast red-and-charcoal panel tunnel, surrounded by restrained radial lane diagrams, angular masks, and shallow 3D graphic planes under hard white rim light. [1.00–3.75 s] The sprinter performs one action: a single explosive starting-block launch, with one readable compression, forward drive, and lengthened stride while the same silhouette remains dominant. A forward tunnel move uses 18% depth amplitude and fast speed, accelerating then braking; panels, lane marks, and runner preserve one continuous forward trajectory and consistent occlusion. [3.75–4.45 s] One brief white exposure stinger reveals a close shoe-contact graphic, then the red-charcoal system returns without a scene change. [4.45–5.1667 s] The runner freezes in a clean drive pose as camera and motion blur settle and hold. No extra athletes, illegible data, prolonged flash, reversed direction, or additional camera moves.
 
-FENCING // FINAL POINT
+overall_soundscape: Starting-block metal snap, one forceful foot strike, compressed crowd air, and a short panel whoosh form the synchronized package sound.
 
-## Intent
-
-Build one aggressive broadcast stinger around a single fencer lunge, one forward camera path, and a flash-motivated title lock.
-
-## Shot Class
-
-Low three-quarter sports hero shot, 32 mm equivalent, continuous forward dolly through shallow panels.
-
-## Subject / Continuity
-
-One white fencer silhouette with a red foil crosses charcoal angular masks. Preserve anatomy, foil length, mask geometry, and exact final title.
-
-## Timed Action + Camera
-
-100 BPM. Beat 1 (0.00-0.60): fencer coils at left. Beats 2-4 (0.60-2.40): one lunge extends right as camera drives forward through red-charcoal panels. Beats 5-6 (2.40-3.60): foil tip meets a radial target; one light streak follows the blade. Beat 7 (3.60-4.20): brief white exposure flash, physically motivated by target contact. Beat 8 (4.20-4.80): flash resolves to exact title “FINAL POINT.” Hold title and camera through 5.1667 s.
-
-## Spatial Block
-
-Fencer (−0.45,0,0) to (+0.15,0,0); foil tip ends (+0.48,+0.22,0). Camera (0,+0.18,−2.0) to (0,+0.18,−1.25), no lateral drift.
-
-## Look + Lighting
-
-Angular red and charcoal masks, shallow 3D panel tunnel, radial target diagram, crisp white silhouette, controlled motion blur. One contact-driven white flash only.
-
-## Sound
-
-Silent visual take; no commentary, music, impacts, or soundtrack.
-
-## Limits
-
-One lunge. Exact title only: FINAL POINT. No runner, track, extra athlete, multiple flashes, montage, cuts, camera shake, misspelled text, logos, or post-lock motion.
-
-## Sources
-
-- [Adobe — keyframes and Graph Editor](https://helpx.adobe.com/after-effects/desktop/animate-in-after-effects/animation-basics/animation-basics.html)
-- [Adobe — animated 3D camera](https://helpx.adobe.com/uk/after-effects/using/cameras-lights-points-interest.html)
+non_diegetic_music: Aggressive low drums, clipped brass synth, and one rising pulse brake into a concise final hit; no frame-exact BPM claim.

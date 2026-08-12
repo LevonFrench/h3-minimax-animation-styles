@@ -1,25 +1,5 @@
-# Spicy — Motion-tracked mixed-media sports spot
+integrated_multimodal_description: Native MiniMax H3 T2VA clip, 736×416, 24 fps, 124 frames, 5.1667 s, 16:9. One dominant subject: a generic runner moving along a concrete waterfront at sunrise; clean tracked sports graphics support rather than obscure the body. Camera move: one lateral gimbal track parallel to the runner, approximately 4 meters at steady jogging speed, maintaining a medium full-body profile. 0.00–0.65 s: establish natural stride, water, and sunrise. 0.65–2.65 s: a bright route line locks perfectly to the pavement beneath successive footfalls without sliding; restrained speed lines trail the stride. 1.05–3.55 s: one circular marker follows the runner’s torso and the exact data text “PACE 06:42” and “DISTANCE 3.2 KM” remains anchored beside the body, stable in scale and orientation. 2.65–3.85 s: tracked path thickens and rises continuously from the ground on the final stride. 3.85–4.45 s: it wraps around the runner as one clean graphic arc and wipes the footage. 4.45–5.17 s: final settle/hold on a bold title card reading exactly “KEEP MOVING.” Exclude branded clothing, extra metrics, misspellings, foot-sliding graphics, anatomical occlusion, and handheld shake.
 
-## Prompt
+overall_soundscape: Natural footsteps, controlled breathing, fabric movement, and distant water remain grounded in the live-action space. Precise interface ticks mark footfall locks and metric updates; one rising graphic sweep carries the final wipe.
 
-**FORMAT:** MiniMax H3, 736×416, 16:9, 24 fps, 124 frames, 5.17 seconds, 100 BPM. Beat 8 lands at 4.80 seconds; hold the resolved endpoint through the remaining tail.
-
-**STYLE LOCK:** Motion-tracked mixed-media sports spot. ground-plane track; torso attach point; corner-pin stability; tracked path; restrained data overlay; sunrise live action; stride-synced graphic cue. Choose high-contrast features and keep overlays rigidly attached through scale and perspective changes; do not let pace text slide relative to the torso.
-
-**SHOT CLASS:** side-front gimbal track, 50 mm equivalent; continuous parallel movement. One physically continuous shot; no unmotivated reframing, zoom, orbit, or generic camera drift.
-
-**SUBJECT AND PRIMARY ACTION:** combining generic live-action running footage with After Effects-style planar tracking, motion-tracked typography, animated paths, graphic speed lines, and clean data overlays. A generic runner moves along a concrete waterfront at sunrise. A bright line locks to the pavement beneath each footfall, tracing the route without sliding. A circular marker follows the runner's torso while the exact data text "PACE 06:42" and "DISTANCE 3.2 KM" remains anchored beside the body. On the final stride, the tracked path rises from the ground, wraps around the runner as a graphic arc, and wipes the footage into a bold title card reading "KEEP MOVING".
-
-**TIME BLOCK:** Beats 1–2 / 0.00–1.20 s: establish the subject, medium, and anticipation with a readable silhouette. Beats 3–5 / 1.20–3.00 s: perform the single main action in physically connected intermediate states. Beats 6–7 / 3.00–4.20 s: resolve the action and allow secondary material motion to settle. Beat 8 / 4.20–4.80 s: land the final composition. Tail / 4.80–5.17 s: stable endpoint; only medium-native micro-motion may continue.
-
-**SPATIAL BLOCK:** Primary subject begins at stage origin (0,0,0) and remains inside the central title-safe 70% of frame; camera follows the declared shot class without crossing the subject axis. Graphic or rostrum work uses the paper/screen plane as Z=0. Miniature or dimensional work preserves grounded contact and consistent parallax.
-
-**LIGHT AND CONTINUITY:** One coherent lighting progression, stable palette, stable subject design, and persistent material properties. Preserve silhouettes, joint logic, contact shadows, line or grain behavior, and exact title spelling. Transformations must pass through visible intermediate shapes; no cross-dissolves, spontaneous duplicate subjects, broken anatomy, texture swimming, random flicker, or late camera movement.
-
-## Soundscape
-
-Natural footsteps, controlled breathing, fabric movement, distant water, and precise interface ticks synchronize with the tracked graphic events. Bind each transient to its matching visible contact or material event; no invented impacts.
-
-## Music
-
-A 100 BPM electronic beat with clipped percussion and pulsing bass follows the stride rhythm and expands beneath the final title. Keep the cue on a 100 BPM grid, let major accents support the declared beat phases, and resolve by 4.80 seconds so the final visual hold remains clean.
+non_diegetic_music: A clipped electronic beat and pulsing bass carry an editorial 116 BPM athletic feel, expanding beneath the final title. Tempo is not claimed as frame-exact synchronization; finish with a compact resolved tail.

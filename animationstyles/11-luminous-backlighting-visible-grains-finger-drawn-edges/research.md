@@ -1,16 +1,25 @@
 # Research — Backlit sand animation
 
-## Style fingerprint
+## Identification and provenance
 
-- **Visual/material vocabulary:** granular silhouette; luminous light-table ground; finger channels; additive piles; subtractive windows; density gradients; drifting residual grains; continuous transformation.
-- **Motion logic:** Make motion granular and causal: grains swept from the dune become towers, finger taps remove windows, then loosened grains arc into the tree without a cross-dissolve.
-- **MiniMax H3 translation:** Use one primary action, one continuous camera path (or a locked camera), one lighting progression, and a stable resolved endpoint. At 100 BPM, map beats 1–8 to 0.00–4.80 seconds and use the remaining H3 tail through 5.17 seconds as a clean hold. Treat exact typography and perfect loops as explicit constraints, but expect final frame-accurate enforcement in post.
+Sand animation has multiple artist-specific methods; sources support granular, handcrafted animation rather than this exact scene.
+
+## Historically and technically grounded mechanics
+
+Loose grains, finger-drawn edges, backlit value fields, pushed piles, erased channels, and residue make every change additive or subtractive. Mass distribution and grain density create tone.
+
+## Actionable motion, material, and camera vocabulary
+
+- Preserve material evidence, edge behavior, motivated overlap, readable spacing, and a stable endpoint.
+- Maintain the figure and dune as contiguous grain masses; show displacement trails and residue as the wind, figure, and landscape transform.
+- Camera vocabulary: locked light-table camera, zero amplitude, zero speed; continuous screen direction; no unmotivated reframing.
+
+## Prompt implications
+
+Name visible causes, not style alone. Preserve the original subject/action, use legible intermediate states and coherent space, and reserve the final tail for a settled hold.
 
 ## Sources
 
-- [NFB — sand animation workshop](https://www.nfb.ca/film/handcrafted_cinema/)
-- [NFB — animation materials overview](https://www3.nfb.ca/sg/56975.pdf)
-
-## Prompting takeaways
-
-Name the physical medium before the subject, describe visible intermediate states rather than asking for a dissolve, bind each sound to one visible event, and state what must remain stable: subject identity, material texture, screen geometry, letterforms, or the loop phase.
+- [NFB — Sand, or Peter and the Wolf](https://collection.nfb.ca/film/sand-or-peter-and-the-wolf)
+- [NFB — Handcrafted Cinema](https://www.nfb.ca/film/handcrafted_cinema/)
+- [Library of Congress — Animation forms and formats](https://wwws.loc.gov/rr/mopic/migsub.html)

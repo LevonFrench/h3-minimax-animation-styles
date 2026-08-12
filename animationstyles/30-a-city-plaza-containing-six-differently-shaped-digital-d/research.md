@@ -1,16 +1,22 @@
-# Research — Synchronized multi-screen DOOH
+# Research: synchronized multi-display digital out-of-home
 
-## Style fingerprint
+## Identification and provenance
 
-- **Visual/material vocabulary:** fixed plaza sightline; six physical bezels; traveling handoff pulse; per-screen aspect adaptation; shared master canvas; synchronized final mosaic.
-- **Motion logic:** Preserve every display boundary and geometry; the pulse should cross gaps as a timed visual handoff, while the final artwork aligns across one fixed viewpoint.
-- **MiniMax H3 translation:** Use one primary action, one continuous camera path (or a locked camera), one lighting progression, and a stable resolved endpoint. At 100 BPM, map beats 1–8 to 0.00–4.80 seconds and use the remaining H3 tail through 5.17 seconds as a clean hold. Treat exact typography and perfect loops as explicit constraints, but expect final frame-accurate enforcement in post.
+This is a site-specific multi-screen motion-graphics composition, combining digital-out-of-home display design with a single-image illusion across separate physical canvases. LED manufacturers emphasize that audience distance, aspect ratio, pixel spacing, and viewing angle determine whether imagery reads as continuous. The exact six-screen choreography is a bespoke hybrid, not a recognized named style.
+
+## Visual and motion mechanics
+
+- The fixed spectator view is part of the composition; retain visible bezels, gaps, supports, and distinct screen shapes.
+- Begin with six legibly different visual systems, then use one white pulse as the causal carrier of synchronization.
+- Reorient local graphics toward shared flow direction before revealing the spanning blue wave.
+- Align the final words across the physical gaps without pretending the screens are one borderless panel.
+
+## Prompt implications
+
+Use stable plaza exposure and a single fixed frame. Make the white pulse visibly jump each gap in sequence. Reserve the last two seconds for the unified blue wave and exact phrase.
 
 ## Sources
 
-- [IAB — DOOH definition and core features](https://www.iab.com/guidelines/dooh-defintion-and-core-features/)
-- [IDOOH — DOOH Creative Specifications](https://idooh.media/download/IDOOH_DOOH_Creative_Specs_2022-09.pdf)
-
-## Prompting takeaways
-
-Name the physical medium before the subject, describe visible intermediate states rather than asking for a dissolve, bind each sound to one visible event, and state what must remain stable: subject identity, material texture, screen geometry, letterforms, or the loop phase.
+- [Daktronics: display size, aspect ratio, distance, and image continuity](https://www.daktronics.com/web-documents/lit/dd1445982.pdf)
+- [Daktronics: LED video walls and multi-panel imagery](https://www.daktronics.com/en-us/products/video-displays/video-wall/led-video-walls)
+- [Adobe After Effects: motion tracking and attaching graphics](https://helpx.adobe.com/after-effects/desktop/animate-in-after-effects/track-motion/tracking-stabilizing-motion-cs5.html)

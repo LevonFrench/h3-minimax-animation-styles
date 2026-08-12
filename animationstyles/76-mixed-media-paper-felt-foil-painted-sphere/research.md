@@ -1,14 +1,22 @@
-# Research — Mixed-Media Material Animation
+# Research — Mixed-media stop-motion assembly
 
-## Actionable vocabulary
+## Provenance and identification
 
-- Mixed-media animation gains clarity from visibly distinct fabrication systems: torn or folded paper, fuzzy felt nap, crinkled metallic foil, and brushed wet paint.
-- Under-camera replacement and stop-motion assembly should preserve one stable silhouette while layers peel, fold, wrap, and overlay.
-- Light each material according to its physical response: diffuse paper, directional felt fibers, sharp foil glints, and wet painted highlights.
-- Make each transition mechanically readable and return all layers to the opening paper construction.
+The source intentionally combines multiple tactile media—paper, felt, foil, and paint—through stop-motion-style assembly. The Academy recognizes paper, collage, paint-on-glass, and movable physical materials within frame-by-frame animation; MoMA's stop-motion discussion supports handmade miniature materiality. “Mixed-media sphere” is a project-specific hybrid, so sources support its components rather than an exact established label.
+
+## Visual mechanics
+
+- Give each stage a distinct material behavior: paper folds, felt nap brushes, foil creases/specularly flashes, wet paint leaves brush marks.
+- Wrap all four treatments around one unchanged spherical form and center.
+- Make transitions physical—peel, fold, overlay—rather than digital cross-dissolves.
+- Retract and recombine all treatments into the original matte paper sphere in the final second.
+
+## Prompt implications
+
+Name the material order and protect constant scale. Use practical texture continuity and stop-motion increments; avoid hybridizing them into an unidentifiable generic surface.
 
 ## Sources
 
-- [National Film Board of Canada — under-camera cut-out animation](https://blog.nfb.ca/blog/2011/09/14/animation-open-house-2011/)
-- [Tate — collage](https://www.tate.org.uk/art/art-terms/c/collage)
-- [The Met — papiers collés](https://www.metmuseum.org/art/collection/search/500421)
+- [Academy — Animation Activities Guide](https://www.oscars.org/sites/oscars/files/complete_animation_activities_guide.pdf)
+- [Academy — Student Academy Awards animation techniques](https://www.oscars.org/saa/apply)
+- [MoMA — Stop-Motion Animation and Tim Burton](https://www.moma.org/explore/inside_out/2010/04/07/crude-elegance-stop-motion-animation-and-tim-burton/)

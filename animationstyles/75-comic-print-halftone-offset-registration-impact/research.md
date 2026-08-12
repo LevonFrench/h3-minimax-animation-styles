@@ -1,14 +1,22 @@
-# Research — Comic-Print Animation
+# Research — Comic-print halftone and registration effects
 
-## Actionable vocabulary
+## Provenance and identification
 
-- Comic-print language combines bold ink contours, Ben-Day or halftone dots, limited process colors, hard panel composition, and emphatic action lines.
-- Deliberate cyan/magenta/yellow registration offsets can visualize speed while the main silhouette remains readable.
-- A freeze-frame impact works best as one brief graphic punctuation: radial speed lines, a single starburst, then immediate return to motion.
-- Preserve flat color regions and visible dot structure; avoid glossy 3D shading or painterly blending.
+The source hybridizes comic-panel impact grammar with printed halftone and deliberately offset process-color registration. MoMA's Pop-art collection contextualizes the use of mass-media and commercial print imagery, while Adobe's color-printing documentation explains CMYK process separations and registration. These references support the component vocabulary, not a singular historical “comic-print animation” movement.
+
+## Visual mechanics
+
+- Render halftone dots as stable print screens that turn with the yellow sphere.
+- Separate cyan and magenta registration shadows only during speed, then realign them.
+- Use one held impact drawing with radial lines and exactly one starburst frame.
+- Restore clean contours and registration at the original center.
+
+## Prompt implications
+
+Keep the freeze frame graphically legible and brief. Treat misregistration as designed color-plate separation, not RGB glitch or chromatic aberration.
 
 ## Sources
 
-- [Tate — Roy Lichtenstein](https://www.tate.org.uk/art/artists/roy-lichtenstein-1508)
-- [MoMA — Comic Abstraction](https://www.moma.org/calendar/exhibitions/26)
-- [The Met — commercial printing and halftone process](https://www.metmuseum.org/art/collection/search/429261)
+- [MoMA — Pop Art collection](https://www.moma.org/collection/terms/pop-art)
+- [Adobe — About color separations](https://helpx.adobe.com/illustrator/using/printing-color-separations.html)
+- [Adobe — Printer marks and registration](https://helpx.adobe.com/indesign/using/printers-marks-bleeds.html)

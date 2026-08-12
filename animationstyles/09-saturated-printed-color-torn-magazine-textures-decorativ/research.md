@@ -1,16 +1,25 @@
-# Research — Paper collage replacement animation
+# Research — Paper-collage replacement animation
 
-## Style fingerprint
+## Identification and provenance
 
-- **Visual/material vocabulary:** torn magazine fiber; printed halftone; mismatched paper grain; rostrum-camera parallax; replacement wings; scale jumps; tape edges; postage perforation.
-- **Motion logic:** Treat every transformation as a physical swap or hinge under a rostrum camera; keep torn edges, print direction, and cast shadows coherent across replacements.
-- **MiniMax H3 translation:** Use one primary action, one continuous camera path (or a locked camera), one lighting progression, and a stable resolved endpoint. At 100 BPM, map beats 1–8 to 0.00–4.80 seconds and use the remaining H3 tail through 5.17 seconds as a clean hold. Treat exact typography and perfect loops as explicit constraints, but expect final frame-accurate enforcement in post.
+This is a hybrid collage-motion recipe; sources establish collage and handcrafted moving-image materials, not the invented sequence.
+
+## Historically and technically grounded mechanics
+
+Torn fibers, printed halftones, mismatched paper grain, shallow rostrum parallax, physical swaps, hinge-like motion, tape edges, and small cast shadows make transformations materially legible.
+
+## Actionable motion, material, and camera vocabulary
+
+- Preserve material evidence, edge behavior, controlled silhouettes, motivated overlap, readable spacing, and a stable endpoint.
+- Keep print direction and torn edges coherent as wings change; make bird-to-sun-to-submarine transitions read as replacement and scale shifts, not liquid dissolves.
+- Camera vocabulary: slow rostrum drift, 3% frame-width amplitude, constant speed; continuous screen direction; no unmotivated reframing.
+
+## Prompt implications
+
+Translate technique into visible causes rather than style names alone. Preserve the original subject/action and use legible intermediate states, coherent spatial relationships, and a settled final hold.
 
 ## Sources
 
-- [The Met — cut-paper material and staging](https://www.metmuseum.org/exhibitions/listings/2014/grand-design/blog/posts/chasing-shadows)
-- [NFB — Hand-Crafted Cinema](https://www.nfb.ca/film/handcrafted_cinema/)
-
-## Prompting takeaways
-
-Name the physical medium before the subject, describe visible intermediate states rather than asking for a dissolve, bind each sound to one visible event, and state what must remain stable: subject identity, material texture, screen geometry, letterforms, or the loop phase.
+- [MoMA — Collage](https://www.moma.org/collection/terms/collage)
+- [MoMA — Materials glossary](https://www.moma.org/interactives/objectphoto/materials/glossary.html)
+- [NFB — Handcrafted Cinema](https://www.nfb.ca/film/handcrafted_cinema/)

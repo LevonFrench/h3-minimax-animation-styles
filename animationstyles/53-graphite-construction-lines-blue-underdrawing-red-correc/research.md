@@ -1,14 +1,22 @@
-# Research — Rough Pencil Timing and Arcs
+# Research — Rough animation pencil test: arced toss and spacing
 
-## Actionable vocabulary
+## Provenance and identification
 
-- Rough animation exposes construction: graphite mass, blue underdrawing, red correction, onion skins, peg holes, timing charts, and spacing notes.
-- Natural joints travel on arcs. The wrist, elbow, and shoulder should describe nested curved paths while the ball follows one clean parabola.
-- Spacing communicates speed: wide during ascent/descent, tight near the apex, then a receiving hand anticipates beneath the ball.
-- Keep the paper field and registration fixed; line boil belongs to drawings, not camera drift.
+A pencil test is a working animation stage rather than a finished surface style. Disney describes rough animation as strong poses developed with timing, weight, mass, overlapping action, later refined by cleanup and in-betweens. The Academy guide likewise treats animation as planned frame-by-frame progression. Blue underdrawing, red correction, registration holes, timing notes, and onion-skin ghosts are credible production-desk signals, though their exact colors are workflow conventions rather than universal rules.
+
+## Visual mechanics
+
+- Keep shoulder, elbow, wrist, and ball on separate but nested arcs.
+- Express acceleration through drawing spacing: wider in fast travel, clustered near the apex.
+- Make the receiving hand anticipate beneath the descending ball and yield after contact.
+- Construction marks should evolve with the drawing rather than remain a static overlay.
+
+## Prompt implications
+
+Prioritize one toss and one catch. Give the red correction line a brief functional role marking the parabola; preserve roughness without multiplying limbs through uncontrolled ghosts.
 
 ## Sources
 
-- [Disney Animation — hand-drawn animation process](https://www.disneyanimation.com/process/hand-drawn-animation/)
-- [Academy — extremes, in-betweens, and scenes](https://www.oscars.org/sites/oscars/files/complete_animation_activities_guide.pdf)
-- [Library of Congress — Winsor McCay’s registration and timing](https://www.loc.gov/loc/lcib/9906/animate.html)
+- [Walt Disney Animation Studios — Hand-Drawn Animation](https://www.disneyanimation.com/process/hand-drawn-animation/)
+- [Academy — Animation Activities Guide](https://www.oscars.org/sites/oscars/files/complete_animation_activities_guide.pdf)
+- [Walt Disney Animation Studios — Animation process](https://www.disneyanimation.com/process/animation/)

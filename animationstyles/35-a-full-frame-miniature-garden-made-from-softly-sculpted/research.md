@@ -1,16 +1,22 @@
-# Research — Mechanical clay-animation loop
+# Research: tactile clay stop-motion mechanism loop
 
-## Style fingerprint
+## Identification and provenance
 
-- **Visual/material vocabulary:** plasticine thumbprints; stepped pose; armature-like stems; gear-driven phase; contact-shadow continuity; surface wobble; exact recurrence.
-- **Motion logic:** Make the brass gear the sole causal driver: each tooth advances flowers through one phase and the bee completes one closed path; preserve fingerprints and shadows at the seam.
-- **MiniMax H3 translation:** Use one primary action, one continuous camera path (or a locked camera), one lighting progression, and a stable resolved endpoint. At 100 BPM, map beats 1–8 to 0.00–4.80 seconds and use the remaining H3 tail through 5.17 seconds as a clean hold. Treat exact typography and perfect loops as explicit constraints, but expect final frame-accurate enforcement in post.
+This is plasticine stop motion combined with a visible mechanical cycle. Aardman’s official history of Morph describes a simple modeling-clay character able to change back into a lump, while studio accounts emphasize frame-by-frame manipulation and visible fingerprints as evidence of craft. The gear-driven garden is an original hybrid setup, not a documented named style.
+
+## Visual and motion mechanics
+
+- Retain thumbprints, small registration shifts, stepped poses, practical shadows, and slight surface compression.
+- The central gear is the causal master: each tooth phase drives stem bend, petal opening, raised center, closing, and upright return.
+- The bee follows a discrete circular path with readable pose spacing and one-frame contact on the same flower.
+- Loop credibility depends on every material, shadow, and gear phase returning together.
+
+## Prompt implications
+
+Use a locked miniature-stage camera with shallow but sufficient depth. Favor readable increments over fluid interpolation. Keep the brass-colored gear centered and make all floral motion subordinate to it.
 
 ## Sources
 
-- [NFB — plasticine and animation materials](https://www3.nfb.ca/sg/56975.pdf)
-- [Library of Congress — puppet animation history](https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-motion-pictures/overview-of-the-edison-motion-pictures-by-genre/)
-
-## Prompting takeaways
-
-Name the physical medium before the subject, describe visible intermediate states rather than asking for a dissolve, bind each sound to one visible event, and state what must remain stable: subject identity, material texture, screen geometry, letterforms, or the loop phase.
+- [Aardman: Morph and modeling-clay transformation](https://aardman.com/film-tv-games/morph/)
+- [TIME studio report: frame-by-frame clay craft and visible fingerprints](https://time.com/5139215/aardman-animation-studio-early-man/)
+- [National Film Board of Canada: animation principles, timing, and movement between frames](https://blog.nfb.ca/blog/2015/03/20/12-principles-animation/)

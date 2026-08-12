@@ -1,16 +1,22 @@
-# Research — Motion-tracked mixed-media sports spot
+# Research: tracked sports-graphics compositing
 
-## Style fingerprint
+## Identification and provenance
 
-- **Visual/material vocabulary:** ground-plane track; torso attach point; corner-pin stability; tracked path; restrained data overlay; sunrise live action; stride-synced graphic cue.
-- **Motion logic:** Choose high-contrast features and keep overlays rigidly attached through scale and perspective changes; do not let pace text slide relative to the torso.
-- **MiniMax H3 translation:** Use one primary action, one continuous camera path (or a locked camera), one lighting progression, and a stable resolved endpoint. At 100 BPM, map beats 1–8 to 0.00–4.80 seconds and use the remaining H3 tail through 5.17 seconds as a clean hold. Treat exact typography and perfect loops as explicit constraints, but expect final frame-accurate enforcement in post.
+This is a hybrid live-action/motion-graphics commercial treatment using planar and point tracking, attached typography, paths, and interface overlays. Adobe explains that tracking transfers analyzed motion to another layer or effect; full perspective tracking is suited to planar surfaces, while position/scale/rotation tracking suits moving subjects. The sports-commercial label describes use, not a unique style lineage.
+
+## Visual and motion mechanics
+
+- Pavement graphics need planar adherence: no sliding, floating, or mismatched perspective across footfalls.
+- A torso marker and data label should inherit the runner’s screen motion without covering anatomy.
+- Keep live-action sunrise color and natural gait primary; graphic speed lines are secondary accents.
+- The ground path rising into an arc should be one continuous tracked element that motivates the final wipe.
+
+## Prompt implications
+
+Choose a clear lateral tracking shot with moderate parallax and persistent trackable pavement texture. Protect the exact metrics and final title. Make every graphic respond causally to stride events.
 
 ## Sources
 
-- [Adobe — Tracking and stabilizing motion](https://helpx.adobe.com/after-effects/desktop/animate-in-after-effects/track-motion/tracking-stabilizing-motion-cs5.html)
-- [Adobe — planar perspective tracking](https://helpx.adobe.com/after-effects/desktop/animate-in-after-effects/track-mask/rigid-mask-tracking.html)
-
-## Prompting takeaways
-
-Name the physical medium before the subject, describe visible intermediate states rather than asking for a dissolve, bind each sound to one visible event, and state what must remain stable: subject identity, material texture, screen geometry, letterforms, or the loop phase.
+- [Adobe After Effects: tracking and stabilizing motion](https://helpx.adobe.com/after-effects/desktop/animate-in-after-effects/track-motion/tracking-stabilizing-motion-cs5.html)
+- [Adobe After Effects: planar perspective and mask-tracking modes](https://helpx.adobe.com/after-effects/desktop/animate-in-after-effects/track-mask/rigid-mask-tracking.html)
+- [Adobe After Effects: vector shape layers and paths](https://helpx.adobe.com/after-effects/using/overview-shape-layers-paths-vector.html)

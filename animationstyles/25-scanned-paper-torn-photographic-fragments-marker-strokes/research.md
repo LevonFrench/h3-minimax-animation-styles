@@ -1,16 +1,25 @@
 # Research — Editorial photocopy collage
 
-## Style fingerprint
+## Identification and provenance
 
-- **Visual/material vocabulary:** torn photo fiber; toner grain; coarse halftone; marker stroke; tape edge; rubber-stamp registration; high-contrast paper palette; page-flip transition.
-- **Motion logic:** Treat masks as physical paper edges with small cast shadows; preserve cyclist anatomy across strips and make the final frame a deliberately balanced poster.
-- **MiniMax H3 translation:** Use one primary action, one continuous camera path (or a locked camera), one lighting progression, and a stable resolved endpoint. At 100 BPM, map beats 1–8 to 0.00–4.80 seconds and use the remaining H3 tail through 5.17 seconds as a clean hold. Treat exact typography and perfect loops as explicit constraints, but expect final frame-accurate enforcement in post.
+The prompt blends collage, photocopy aesthetics, and digital compositing; sources support component materials and reproduction mechanics, not a singular coined style.
+
+## Historically and technically grounded mechanics
+
+Torn photo fibers, toner grain, coarse halftone, marker strokes, tape edges, rubber-stamp registration, masking, and physical page flips produce tactile editorial montage.
+
+## Actionable motion, material, and camera vocabulary
+
+- Preserve material evidence, edge behavior, motivated overlap, readable spacing, and a stable endpoint.
+- Treat masks as paper edges with shallow shadows; preserve the cyclist across strips, keep arrows/circle/letters subordinate, and land on a balanced exact-title poster.
+- Camera vocabulary: locked rostrum camera, zero amplitude, zero speed; continuous screen direction; no unmotivated reframing.
+
+## Prompt implications
+
+Name visible causes, not style alone. Preserve the original subject/action, use legible intermediate states and coherent space, and reserve the final tail for a settled hold.
 
 ## Sources
 
-- [NFB — Hand-Crafted Cinema](https://www.nfb.ca/film/handcrafted_cinema/)
-- [Adobe — masks and shapes](https://helpx.adobe.com/uk/after-effects/desktop/drawing-painting-and-paths/shapes-and-shape-attributes/creating-shapes-masks.html)
-
-## Prompting takeaways
-
-Name the physical medium before the subject, describe visible intermediate states rather than asking for a dissolve, bind each sound to one visible event, and state what must remain stable: subject identity, material texture, screen geometry, letterforms, or the loop phase.
+- [MoMA — Collage](https://www.moma.org/collection/terms/collage)
+- [MoMA — Mechanical Reproduction: From Premise to Press](https://post.moma.org/mechanical-reproduction-from-premise-to-press/)
+- [NFB — Handcrafted Cinema](https://www.nfb.ca/film/handcrafted_cinema/)

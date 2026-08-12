@@ -1,41 +1,5 @@
-# Title
+integrated_multimodal_description: A distinct wet paint-on-glass shot, continuously reworked beneath the camera, with luminous indigo backlight, viscous brush ridges, frame-to-frame residue, and visible subtractive clearing. [0.00–1.20 s] One blue heron stands in profile at the center of a shallow painted marsh, long beak aimed downward, with an amber glow beneath the glass and one creamy highlight on the neck. The camera performs a lateral slide, small amplitude, very slow speed, moving left while keeping the bird dominant. [1.20–3.65 s] The heron performs one observable action: lowers its beak to touch the painted water. Neck pigment is pushed through one controlled S-curve; the body remains registered, leg strokes stay planted, and a single white ribbon of paint travels down the neck into a circular ripple at contact. [3.65–4.55 s] The neck is repainted upright along the same path while the ripple is subtractively cleared; controlled edge bleed around the breast is brushed back into a crisp wet silhouette and the white ribbon returns to the neck highlight. [4.55–5.1667 s] The restored heron holds, luminous and still. Preserve one bird, planted legs, marsh plane, pigment mass, palette, and backlight. Native output contract: 736×416, 24 fps, 124 frames, exactly 5.1667 seconds. No vector interpolation, extra birds, dry brush canvas, detached ripple, text, or abrupt camera move.
 
-Scalloped Oil Aperture
+overall_soundscape: Viscous brush strokes, a quiet marsh hush, one delicate water-touch plink, a painted ripple swish, and sticky pigment lift during restoration.
 
-## Intent
-
-Use subtractive finger channels and palette-knife scallops to expose light, then restore exact pigment density and tool-mark phase.
-
-## Shot Class
-
-Top-down glass macro, locked camera.
-
-## Subject / Continuity
-
-One thick crimson oil disc rests on a luminous glass field. Wet edges, pigment density, central highlight, finger channels, and palette-knife marks remain materially consistent.
-
-## Timed Action + Camera
-
-100 BPM. Beat 1 (0.00-0.60): dense disc holds. Beats 2-4 (0.60-2.40): six finger-wiped channels open counterclockwise from center, exposing luminous spokes. Beats 5-6 (2.40-3.60): palette-knife scallops redistribute the displaced paint around the rim. Beat 7 (3.60-4.20): pigment is pushed counterclockwise back into the channels. Beat 8 (4.20-4.80): opening density, edge softness, highlight, and mark orientation recur. Hold through 5.1667 s.
-
-## Spatial Block
-
-Disc centered (0,0,0), diameter 0.36 m. Camera fixed at (0,+0.68,0), perpendicular.
-
-## Look + Lighting
-
-Wet oil, finger-wiped channels, palette-knife scallops, thin glowing pigment, thick opaque ridges, visible tool paths, steady backlight.
-
-## Sound
-
-Silent; no foley, music, voice, or soundtrack.
-
-## Limits
-
-One wipe-and-restore cycle. No brush-loop repeat, digital dissolve, pigment loss, visible hand, camera motion, cuts, text, logos, or post-hold motion.
-
-## Sources
-
-- [NFB — Caroline Leaf’s sand, paint-on-glass, and scratch techniques](https://www.nfb.ca/film/handcrafted_cinema/)
-- [NFB — animation with paint under camera](https://blog.nfb.ca/blog/2011/09/14/animation-open-house-2011/)
-- [NFB — animation on glass and with sand](https://www3.nfb.ca/sg/56975.pdf)
+non_diegetic_music: Solo cello harmonic descends with the neck and returns in one calm arc, supported by a faint glassy drone; rhythmic intent is not frame-exact.

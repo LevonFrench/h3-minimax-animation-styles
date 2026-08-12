@@ -1,16 +1,25 @@
-# Research — Paint-on-glass animation
+# Research — Paint-on-glass transformation
 
-## Style fingerprint
+## Identification and provenance
 
-- **Visual/material vocabulary:** wet oil translucency; luminous glass backlight; wiped and repainted passages; brush pressure ridges; pigment drag; soft edge migration; fluid metamorphosis.
-- **Motion logic:** Avoid dissolves: the sail physically spreads into the fish fin while the hull pigment is pushed into the body; leave faint prior-frame smears as material memory.
-- **MiniMax H3 translation:** Use one primary action, one continuous camera path (or a locked camera), one lighting progression, and a stable resolved endpoint. At 100 BPM, map beats 1–8 to 0.00–4.80 seconds and use the remaining H3 tail through 5.17 seconds as a clean hold. Treat exact typography and perfect loops as explicit constraints, but expect final frame-accurate enforcement in post.
+Paint-on-glass practices vary by artist and medium; this synthesis supports the physical repainting logic rather than one exact named school.
+
+## Historically and technically grounded mechanics
+
+Wet oil pigment, brush-pressure ridges, luminous backlight, smeared edges, subtractive wiping, and direct repainting create continuous mutable images with traces of prior states.
+
+## Actionable motion, material, and camera vocabulary
+
+- Preserve material evidence, edge behavior, controlled silhouettes, motivated overlap, readable spacing, and a stable endpoint.
+- Let waves, hull, sail, fish, sea, and stars share wet pigment and pass through brushed intermediate states; avoid crisp vector edges or particle substitution.
+- Camera vocabulary: locked glass-table camera, zero amplitude, zero speed; continuous screen direction; no unmotivated reframing.
+
+## Prompt implications
+
+Translate technique into visible causes rather than style names alone. Preserve the original subject/action and use legible intermediate states, coherent spatial relationships, and a settled final hold.
 
 ## Sources
 
-- [NFB — Hand-Crafted Cinema](https://www.nfb.ca/film/handcrafted_cinema/)
-- [NFB — animation materials overview](https://www3.nfb.ca/sg/56975.pdf)
-
-## Prompting takeaways
-
-Name the physical medium before the subject, describe visible intermediate states rather than asking for a dissolve, bind each sound to one visible event, and state what must remain stable: subject identity, material texture, screen geometry, letterforms, or the loop phase.
+- [NFB — Handcrafted Cinema](https://www.nfb.ca/film/handcrafted_cinema/)
+- [NFB — The Art of the Animator, Part II](https://collection.nfb.ca/film/the-art-of-the-animator-part-ii)
+- [Library of Congress — Animation forms and formats](https://wwws.loc.gov/rr/mopic/migsub.html)

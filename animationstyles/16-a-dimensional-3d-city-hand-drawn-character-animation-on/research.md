@@ -1,16 +1,25 @@
-# Research — Hybrid stepped 2D character in smooth 3D world
+# Research — Hybrid 2D character / 3D environment
 
-## Style fingerprint
+## Identification and provenance
 
-- **Visual/material vocabulary:** smooth 3D environment; hand-drawn character on twos; held graphic poses; halftone shadow; chromatic misregistration; ink contour; one-frame impact card; painted trail.
-- **Motion logic:** The contrast is the style: environment and camera remain fluid at 24 fps while the skater advances in deliberate two-frame holds; use one impact frame only.
-- **MiniMax H3 translation:** Use one primary action, one continuous camera path (or a locked camera), one lighting progression, and a stable resolved endpoint. At 100 BPM, map beats 1–8 to 0.00–4.80 seconds and use the remaining H3 tail through 5.17 seconds as a clean hold. Treat exact typography and perfect loops as explicit constraints, but expect final frame-accurate enforcement in post.
+This is a hybrid pipeline description, not a singular historical style.
+
+## Historically and technically grounded mechanics
+
+Dimensional city geometry provides stable perspective, contact, and parallax while hand-drawn character lines retain boil, stepped accents, and graphic smears. Integration depends on shared lighting, occlusion, and ground contact.
+
+## Actionable motion, material, and camera vocabulary
+
+- Preserve material evidence, edge behavior, motivated overlap, readable spacing, and a stable endpoint.
+- Keep the skater’s drawn identity coherent against the 3D street; match wheel contact, shadows, rail occlusion, and perspective through the trick.
+- Camera vocabulary: low tracking dolly, 14% frame-width amplitude, fast constant speed; continuous screen direction; no unmotivated reframing.
+
+## Prompt implications
+
+Name visible causes, not style alone. Preserve the original subject/action, use legible intermediate states and coherent space, and reserve the final tail for a settled hold.
 
 ## Sources
 
-- [ACM SIGGRAPH — integrating CG with filmed imagery](https://blog.siggraph.org/2018/06/jurassic-park-made-a-dinosaur-sized-leap-forward-in-computer-generated-animation-on-screen-25-years-ago.html)
-- [Adobe — keyframes and interpolation](https://helpx.adobe.com/after-effects/desktop/animate-in-after-effects/animation-basics/animation-basics.html)
-
-## Prompting takeaways
-
-Name the physical medium before the subject, describe visible intermediate states rather than asking for a dissolve, bind each sound to one visible event, and state what must remain stable: subject identity, material texture, screen geometry, letterforms, or the loop phase.
+- [SIGGRAPH — Jurassic Park and CG integration](https://blog.siggraph.org/2018/06/jurassic-park-made-a-dinosaur-sized-leap-forward-in-computer-generated-animation-on-screen-25-years-ago.html)
+- [Adobe — 3D layers](https://helpx.adobe.com/after-effects/desktop/work-with-layers/3d-layers/3d-layers.html)
+- [Adobe — Principles of animation](https://www.adobe.com/creativecloud/animation/discover/principles-of-animation.html)

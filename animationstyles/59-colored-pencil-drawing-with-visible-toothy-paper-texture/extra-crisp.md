@@ -1,41 +1,5 @@
-# Title
+integrated_multimodal_description: A frame-by-frame colored-pencil drawing on cream toothy paper, with visible directional strokes, granular pigment catches, small paper gaps, and restrained hand-redrawn contour boil. [0.00–1.00 s] One striped pear sits centered on a lightly sketched tabletop, illuminated by a single cool window key from left and warm reflected fill from the paper. The camera performs a shallow arc move, small amplitude, slow speed, moving a few degrees left-to-right while maintaining medium framing. [1.00–3.85 s] The pear performs one observable action: turns slowly by one quarter rotation around its vertical axis. Green and ochre pencil strokes wrap the implied volume; crosshatching, stem shading, and a small white-paper highlight shift consistently with the same surface, while one local contour bulge appears and is redrawn back without changing the object’s center. [3.85–4.55 s] Rotation eases to a stop with no overshoot; paper tooth remains stationary beneath the marks and never slides like a texture map. [4.55–5.1667 s] The pear holds the new facing, symmetrical and still. Preserve tabletop line, paper grain, scale, palette, and light direction. Native output contract: 736×416, 24 fps, 124 frames, exactly 5.1667 seconds. No photoreal gloss, texture sliding, duplicate fruit, loose dust clouds, text, or camera shake.
 
-Colored-Pencil Plum Turn
+overall_soundscape: Soft pencil grain scratching in short frame-by-frame strokes, quiet paper room tone, and a faint wooden stem creak as the turn settles.
 
-## Intent
-
-Make rotation visible through directional hatching and a reserved-paper highlight rather than glossy shading.
-
-## Shot Class
-
-Centered top-down drawing close-up, locked camera.
-
-## Subject / Continuity
-
-One violet colored-pencil plum on cream tooth paper. Preserve center, average volume, contour identity, dry pigment, paper tooth, and one reserved-paper highlight.
-
-## Timed Action + Camera
-
-100 BPM. Beat 1 (0.00-0.60): plum holds. Beats 2-5 (0.60-3.00): it turns once clockwise; hatch direction rotates consistently and the white paper highlight slides left-to-right across the form. Beat 6 (3.00-3.60): one small organic bulge travels around lower contour without changing average volume. Beat 7 (3.60-4.20): bulge resolves and hatching returns to opening direction. Beat 8 (4.20-4.80): exact opening drawing holds through 5.1667 s.
-
-## Spatial Block
-
-Plum centered (0,0,0), 0.25 m diameter, contour variance ≤0.015 m. Camera fixed at (0,+0.62,0).
-
-## Look + Lighting
-
-Directional colored-pencil hatching, visible cream paper tooth, pressure variation, crisp dry pigment, controlled line boil, no glossy reflection.
-
-## Sound
-
-Silent; no pencil foley, voice, music, or soundtrack.
-
-## Limits
-
-One rotation cycle. No pastel smudge, PBR shine, center drift, color change, camera motion, cuts, text, logos, or endpoint movement.
-
-## Sources
-
-- [The Met — Pastel (useful comparison of tooth and dry pigment)](https://www.metmuseum.org/de/perspectives/materials-and-techniques-drawing-pastel)
-- [Disney Animation — frame-by-frame hand-drawn process](https://www.disneyanimation.com/process/hand-drawn-animation/)
-- [Library of Congress — early line drawing and registration](https://www.loc.gov/loc/lcib/9906/animate.html)
+non_diegetic_music: A gentle acoustic-guitar harmonic rotates through a four-note figure and rests on a warm final tone; no frame-accurate BPM claim.

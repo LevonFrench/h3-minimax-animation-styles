@@ -1,14 +1,22 @@
-# Research — Cel-Animated Bouncing Ball
+# Research: cel-animation squash-and-stretch exercise
 
-## Actionable vocabulary
+## Identification and provenance
 
-- Squash and stretch communicate force while preserving apparent volume; elongation follows the velocity vector, and impact squash spreads perpendicular to it.
-- Timing and spacing sell gravity: wider spacing during fast descent, a compressed impact drawing, close spacing near the apex, and diminishing rebound heights.
-- Strong extremes, readable anticipation, and clean in-betweens matter more than decorative camera movement. Keep the camera locked and the wooden floor spatially stable.
-- A short settling roll can finish the action, but the ball should hold a clean round endpoint through the final beat.
+This is a classical hand-drawn animation exercise presented with inked contours and opaque cel-like color. Disney Animation names timing, staging, squash and stretch, anticipation, follow-through, and secondary action as core character-animation principles. Educational animation material emphasizes preserving volume during squash and stretch. The red-ball test is a canonical principles exercise, not a unique studio style.
+
+## Visual and motion mechanics
+
+- Stretch aligns with velocity; squash aligns with impact force. Thin when long, widen when flat, preserving apparent volume.
+- Frame spacing is tight near apices and contacts, wider during fast travel.
+- Each rebound loses height and energy; rolling resolves residual horizontal momentum.
+- Confident ink contour and opaque red fill should remain stable without boil.
+
+## Prompt implications
+
+Use one side-on locked stage and a clearly visible floor. Prioritize the red ball’s deformation and spacing; keep background simple. The final round settle is a held resolved state, not another bounce.
 
 ## Sources
 
-- [Disney Animation — animation principles](https://www.disneyanimation.com/process/animation/)
-- [Disney Animation — hand-drawn animation process](https://www.disneyanimation.com/process/hand-drawn-animation/)
-- [Academy — animation activities guide](https://www.oscars.org/sites/oscars/files/complete_animation_activities_guide.pdf)
+- [Walt Disney Animation Studios: animation process and core principles](https://www.disneyanimation.com/process/animation/)
+- [National Film Board of Canada: twelve animation principles](https://blog.nfb.ca/blog/2015/03/20/12-principles-animation/)
+- [EDC Digital Media & Arts: preserving volume in squash and stretch](https://dma.edc.org/sites/default/files/Animation_Sample_Activity-2011.pdf)

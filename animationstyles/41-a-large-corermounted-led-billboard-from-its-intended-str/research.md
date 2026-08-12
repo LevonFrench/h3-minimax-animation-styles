@@ -1,14 +1,22 @@
-# Research — Corner Anamorphic LED Billboard
+# Research: anamorphic corner-LED public-display loop
 
-## Actionable vocabulary
+## Identification and provenance
 
-- “Naked-eye 3D” is forced-perspective/anamorphic content authored for one primary viewing zone. Screen geometry, corner angle, virtual camera, and street viewpoint must agree.
-- A believable pop-out uses a virtual room, corner seam, occlusion at the physical frame, contact shadows, and consistent environmental reflections; it is not a hologram.
-- Keep the street camera fixed at the hero viewpoint so the illusion does not collapse. Preserve LED pixel structure and realistic brightness against the night environment.
-- One object crossing the virtual proscenium reads better than multiple shape changes. Let the red ball roll forward, elongate once into a ribbon, then retract and reform.
+This is anamorphic digital-out-of-home animation calibrated to an intended viewing position. Corner-cube installations join LED surfaces around a 90-degree seam; published technical reports stress continuous pixel spacing and view studies. The ball-to-ribbon choreography is an original application, not a distinct historical style.
+
+## Visual and motion mechanics
+
+- Preserve one fixed spectator viewpoint, consistent virtual-room vanishing lines, the physical seam, façade reflections, and nighttime context.
+- Sell apparent emergence through occlusion, scale, contact shadow, and calibrated seam crossing.
+- Ball stretching into ribbon should preserve material continuity, gloss, red color, and apparent volume.
+- The full public-display loop must restore object, room light, LED brightness, reflections, and motion phase.
+
+## Prompt implications
+
+Keep the red object as the sole hero and the virtual room as its stable reference. Do not let geometry truly enter the real street; it only appears to from the intended angle.
 
 ## Sources
 
-- [JCDecaux — 3D Effect Guide](https://www.jcdecaux.lt/en/jcdecaux/download-file?url=public%3A%2F%2Fblocks%2Fdownloadable_file%2F2023-08%2F3D+effect+in+DOOH_Guide_EN.pdf)
-- [INFiLED — technical guide to 3D LED billboards](https://www.infiled.com/blog/how-to-design-high-impact-3d-led-billboards-complete-technical-guide/)
-- [Blindspot — how anamorphic 3D billboards work](https://seeblindspot.com/anamorphic-3d-billboards/)
+- [Daktronics project report: 90-degree anamorphic corner and view studies](https://www.avnetwork.com/news/lighting-up-the-sunset-strip)
+- [Daktronics: audience distance and continuous-image display planning](https://www.daktronics.com/web-documents/lit/dd1445982.pdf)
+- [Daktronics: LED viewing-angle guidance](https://www.daktronics.com/en-us/support/kb/DD2598985)

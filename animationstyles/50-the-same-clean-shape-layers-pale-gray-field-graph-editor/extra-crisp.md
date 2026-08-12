@@ -1,41 +1,5 @@
-# Title
+integrated_multimodal_description: T2VA, native 736×416, 24 fps, 124 frames, exactly 5.1667 s. One rigid group of three equal white vector cards is the dominant subject on a pale-gray field. 0.00–0.95 s: cards rest in a vertical stack with cobalt circular markers. 0.95–3.45 s: each marker demonstrates one horizontal passage within its card while the cards remain fixed: top uses balanced gentle ease-in/ease-out; middle departs slowly, accelerates sharply, makes one small overshoot and restrained rebound; bottom uses long soft eases with a fast middle. Thin coral velocity graphs draw beneath each marker and correspond to visible motion. Camera locked-off, zero amplitude, zero speed. 3.45–4.35 s: graphs fade and markers return to aligned centers. 4.35–5.1667 s: the three cards translate together as one rigid evenly spaced group a short distance right, settle, and hold. No changing card dimensions, mismatched graphs, extra panels, heavy blur, text, or camera motion.
 
-Three Easing Cards
+overall_soundscape: Three distinct soft glide signatures, tiny middle-card rebound clicks, then one unified group-move whoosh and quiet stop.
 
-## Intent
-
-Compare three easing silhouettes without collision, then unify equal cards under one hierarchical group settle.
-
-## Shot Class
-
-Full-frame UI-motion study, locked orthographic camera.
-
-## Subject / Continuity
-
-Three identical rounded cards—coral, teal, navy—have equal dimensions and corner radius. Thin corresponding curve overlays contain no text.
-
-## Timed Action + Camera
-
-100 BPM. Beats 1-3 (0.00-1.80): cards enter left-to-right with staggered starts: standard ease, sharp single overshoot, then long soft handles with fast center travel. Beats 4-5 (1.80-3.00): each settles into an evenly spaced row while its accurate curve overlay remains visible. Beat 6 (3.00-3.60): overlays disappear. Beat 7 (3.60-4.20): all cards move upward together as one group by 0.08 m. Beat 8 (4.20-4.80): final grid holds through 5.1667 s.
-
-## Spatial Block
-
-Cards end at X=−0.28,0,+0.28 m, same Y=+0.04, identical 0.20×0.13 m. Camera fixed at (0,0,−1.5).
-
-## Look + Lighting
-
-Crisp shape layers, pale gray field, accurate graph overlays, clean graph-editor easing, exact spacing and radius.
-
-## Sound
-
-Silent; no UI sounds, voice, music, or soundtrack.
-
-## Limits
-
-One comparative entry sequence. No readable UI text, collisions, changing card sizes, repeated springs, camera motion, cuts, logos, or endpoint drift.
-
-## Sources
-
-- [Adobe — animation basics and Graph Editor](https://helpx.adobe.com/after-effects/desktop/animate-in-after-effects/animation-basics/animation-basics.html)
-- [Blender Manual — F-Curves](https://docs.blender.org/manual/en/3.5/editors/graph_editor/fcurves/introduction.html)
-- [Adobe — shape layers](https://helpx.adobe.com/ca/after-effects/using/overview-shape-layers-paths-vector.html)
+non_diegetic_music: Clean instructional synth pulses with restrained dynamics; musical timing is not claimed as frame-exact BPM.

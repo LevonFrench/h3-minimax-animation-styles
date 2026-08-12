@@ -1,41 +1,5 @@
-# Title
+integrated_multimodal_description: T2VA, native 736×416, 24 fps, 124 frames, exactly 5.1667 s. One round moss-green forest creature with inked contours and opaque painted color stands beneath a russet leaf on a warm theatrical woodland stage. 0.00–1.25 s: the creature holds neutral as one dew drop gathers above. 1.25–2.05 s: the drop taps its head, causing a brief downward compression. 2.05–3.35 s: one startled take shoots vertically along a clear line of action—eyes, ears, cheeks, torso, and legs elongate while apparent volume remains credible—then holds the extreme for a readable suspended instant. Camera locked medium, zero amplitude, zero speed. 3.35–4.35 s: it lands into one compressed pose. 4.35–5.1667 s: torso settles first, cheeks and ears follow one beat later, exact neutral proportions return, and the character holds. Keep leaf, floor, and drop trajectory spatially stable. No extra creatures, morphing anatomy, camera shake, text, or repeated tap.
 
-Startled Dumpling
+overall_soundscape: Quiet forest room tone, one tiny wet tap, a quick rising whistle, soft landing, and two subtle secondary jiggles.
 
-## Intent
-
-Stage one clean startle from cause through compression, stretch, landing, and overlapping soft-mass settle.
-
-## Shot Class
-
-Medium full frontal shot, 60 mm equivalent, locked camera.
-
-## Subject / Continuity
-
-A round cel-animated dumpling creature with two long ears and no clothing sits beneath one hanging droplet. Preserve apparent volume, ear length, eye identity, floor mark, and shadow.
-
-## Timed Action + Camera
-
-100 BPM. Beat 1 (0.00-0.60): droplet lands beside creature as the sole cause. Beat 2 (0.60-1.20): cheeks, torso, and legs compress together. Beats 3-4 (1.20-2.40): creature stretches vertically into one startled leap, ears and eyes aligned with the line of action. Beat 5 (2.40-3.00): suspended extreme. Beat 6 (3.00-3.60): single landing impact. Beat 7 (3.60-4.20): cheeks and belly lag torso in decreasing offsets. Beat 8 (4.20-4.80): full stable settle. Hold through 5.1667 s.
-
-## Spatial Block
-
-Creature remains centered (0,0,0), height compresses 0.24 to 0.15 m then stretches to 0.46 m. Camera fixed at (0,+0.24,−1.6).
-
-## Look + Lighting
-
-Clean ink contours, opaque painted color, readable silhouette, warm theatrical key, subtle overlapping cel motion.
-
-## Sound
-
-Silent; no squeak, droplet sound, music, dialogue, or soundtrack.
-
-## Limits
-
-One startle action. No extra characters, repeated jumps, volume loss, camera motion, cuts, text, logos, or movement after settle.
-
-## Sources
-
-- [Disney Animation — animation principles](https://www.disneyanimation.com/process/animation/)
-- [Disney Animation — hand-drawn animation](https://www.disneyanimation.com/process/hand-drawn-animation/)
-- [Academy — animation activities guide](https://www.oscars.org/sites/oscars/files/complete_animation_activities_guide.pdf)
+non_diegetic_music: Sparse pizzicato punctuates surprise and recovery without promising frame-exact timing.

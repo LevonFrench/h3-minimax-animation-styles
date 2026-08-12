@@ -1,14 +1,22 @@
-# Research — Limited Cel and Effects Animation
+# Research — Limited cel-style effects animation
 
-## Actionable vocabulary
+## Provenance and identification
 
-- Limited animation holds the main drawing while selectively animating only high-value elements such as aura flames, highlights, mouths, or effects cycles.
-- UPA’s reduced naturalism shows that limited movement can be an aesthetic choice, not merely cost-cutting.
-- Use held orb frames, stepped highlight increments, reusable aura cycles, and three discrete effects rings. Energy should remain graphic and planar.
-- Keep line art, flat shading, glow contour, and pulse phase stable at the endpoint.
+Limited animation is historically associated with selective movement, repeated cycles, and held drawings rather than full-frame redraw. MoMA's account of UPA notes figures becoming more limited and less naturalistic; its Hubley essay describes modernist flat symbolic design. The source combines that lineage with contemporary aura-effects iconography, so “limited cel-style glowing orb” is a hybrid direction, not a canonical historical label.
+
+## Visual mechanics
+
+- Hold the cyan sphere while allocating animation to looping aura flames and three graphic rings.
+- Use clean line art, flat shading, and stepped highlight increments.
+- Repeat aura cycles consistently, then allow one higher spike before exact reset.
+- Keep effects centered and planar; avoid volumetric plasma.
+
+## Prompt implications
+
+Count three pulses and separate held core from animated effects. Make the final pulse state match the opening.
 
 ## Sources
 
-- [MoMA — Independent Animation and limited movement](https://www.moma.org/explore/inside_out/2012/12/25/an-auteurist-history-of-film-independent-animation-1947-60/)
-- [MoMA — UPA modernist animation](https://www.moma.org/interactives/exhibitions/1997/hubley/hub_essay.html)
-- [Academy — cel layers and special effects](https://www.oscars.org/sites/oscars/files/complete_animation_activities_guide.pdf)
+- [MoMA — Independent Animation, 1947–60](https://www.moma.org/explore/inside_out/2012/12/25/an-auteurist-history-of-film-independent-animation-1947-60/)
+- [MoMA — The Hubley Studio essay](https://www.moma.org/interactives/exhibitions/1997/hubley/hub_essay.html)
+- [Academy — Animation Activities Guide](https://www.oscars.org/sites/oscars/files/complete_animation_activities_guide.pdf)

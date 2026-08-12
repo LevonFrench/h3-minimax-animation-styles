@@ -1,16 +1,25 @@
 # Research — Single-line trim-path morph
 
-## Style fingerprint
+## Identification and provenance
 
-- **Visual/material vocabulary:** Bezier path; tapered stroke; rounded join; trim-path write-on; path continuity; tangent-aware transformation; route pictograms; clean endpoint.
-- **Motion logic:** Maintain one cobalt stroke with no detached fragments; every vehicle and figure emerges by moving existing vertices and extending the visible trim.
-- **MiniMax H3 translation:** Use one primary action, one continuous camera path (or a locked camera), one lighting progression, and a stable resolved endpoint. At 100 BPM, map beats 1–8 to 0.00–4.80 seconds and use the remaining H3 tail through 5.17 seconds as a clean hold. Treat exact typography and perfect loops as explicit constraints, but expect final frame-accurate enforcement in post.
+“Single-line trim-path morph” is a descriptive software technique, not a recognized historical school.
+
+## Historically and technically grounded mechanics
+
+Bezier continuity, tapered strokes, rounded joins, trim-path write-on, tangent-aware interpolation, and path-following motion let one visible line assume successive readable forms.
+
+## Actionable motion, material, and camera vocabulary
+
+- Preserve material evidence, edge behavior, motivated overlap, readable spacing, and a stable endpoint.
+- Maintain one cobalt stroke with no detached fragments; create bicycle, bus, person, route symbols, and title by extending or moving existing geometry through legible intermediates.
+- Camera vocabulary: locked orthographic vector view, zero amplitude, zero speed; continuous screen direction; no unmotivated reframing.
+
+## Prompt implications
+
+Name visible causes, not style alone. Preserve the original subject/action, use legible intermediate states and coherent space, and reserve the final tail for a settled hold.
 
 ## Sources
 
 - [Adobe — Shape layers, paths, and vector graphics](https://helpx.adobe.com/ca/after-effects/using/overview-shape-layers-paths-vector.html)
-- [Adobe — Animating shape paths and masks](https://helpx.adobe.com/sg/after-effects/using/animating-shape-paths-masks.html)
-
-## Prompting takeaways
-
-Name the physical medium before the subject, describe visible intermediate states rather than asking for a dissolve, bind each sound to one visible event, and state what must remain stable: subject identity, material texture, screen geometry, letterforms, or the loop phase.
+- [Adobe — Shape attributes and Trim Paths](https://helpx.adobe.com/ca/after-effects/using/shape-attributes-paint-operations-path.html)
+- [Adobe — Tapered shape strokes](https://helpx.adobe.com/uk/after-effects/using/taper-shape-strokes.html)
