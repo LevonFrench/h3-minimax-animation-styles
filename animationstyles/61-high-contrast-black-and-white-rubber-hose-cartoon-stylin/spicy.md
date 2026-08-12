@@ -1,0 +1,7 @@
+# Spicy — Rubber-Hose Rhythm Sphere
+
+integrated_multimodal_description: High-contrast 1930s-inspired rubber-hose cartoon animation, 16:9, native H3 736x416 at 24 fps, black field, white inked forms, restrained gate weave, no gray except soft film exposure variation. [Shot 1] One white sphere with a thick black outline remains centered at constant apparent volume. SHOT CLASS: locked frontal graphic stage; no camera motion. The sphere compresses into a wide pancake, rebounds into a tall narrow oval, ripples through two rubbery waves, and performs one jaunty clockwise spin without drifting. Four sets of short hand-drawn motion rays pop around it on rhythmic accents, then vanish. TIME BLOCK at 100 BPM: beat 1, 0.00–0.60 s, round pose; beat 2, 0.60–1.20 s, pancake squash; beat 3, 1.20–1.80 s, tall stretch; beats 4–5, 1.80–3.00 s, two decreasing ripples; beat 6, 3.00–3.60 s, one spin with graphic rays; beat 7, 3.60–4.20 s, elastic settle; beat 8, 4.20–4.80 s, exact opening sphere and ray-free field restored; 4.80–5.1667 s, seam-ready hold with slight line boil. SPATIAL BLOCK: center fixed at origin; maximum width/height distortion preserves area; camera locked. LIGHT CUE: flat monochrome graphic exposure. No limbs or face, no grayscale 3D shading, no lateral drift, no camera move, no text.
+
+overall_soundscape: Rubbery boings, soft impact puffs, tiny slide whistles, and a faint optical-track hiss.
+
+non_diegetic_music: Bouncy mono jazz—upright piano, tuba, muted trumpet, and woodblock—lands on the major extremes while remaining loop-open.
