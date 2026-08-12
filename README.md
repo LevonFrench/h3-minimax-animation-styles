@@ -12,6 +12,12 @@ The collection was transcribed from a 392.7-second reference video containing 76
 
 Frames were sampled from each five-second segment, the left-hand prompt panel was isolated, and its text was extracted into a separate numbered folder. The original source video is not stored in this project.
 
+## Credit and provenance
+
+Credit for the original animation-style series and source prompts belongs to their creator. The source video visibly credits **Kc Tagliareni**. Matching prompts were shared in the **Banodoco Discord** by **The Shadow (NYC)** on August 4, 2026, including this [source prompt post](https://discord.com/channels/1076117621407223829/1534271058499207218/1534294567447171324). Publicly available evidence does not establish whether those two names identify the same person, so this repository preserves both attributions rather than guessing.
+
+This repository's contribution is the corrected transcription, linked style research, and the independently developed `spicy.md` and `extra-crisp.md` prompt variants. It is an unofficial community derivative and is not affiliated with or endorsed by Banodoco, MiniMax, Kc Tagliareni, or The Shadow (NYC).
+
 ## Library structure
 
 Each numbered directory represents one prompt card and is named with its source position followed by a descriptive style slug:
@@ -62,7 +68,7 @@ Typical improvements include:
 - stronger material and animation-process vocabulary
 - continuity constraints and a stable endpoint
 - better coordination between action, soundscape, music, and lighting
-- correction of obvious OCR errors without altering `original.md`
+- further clarification where the source wording remains ambiguous
 
 Near-duplicate source prompts remain separate. Where useful, their spicy versions explore distinct, research-supported treatments instead of duplicating one another.
 
