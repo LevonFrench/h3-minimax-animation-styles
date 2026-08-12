@@ -10,5 +10,5 @@ Pen nibs scratch across paper, wings produce delicate paper-like flutters, and t
 
 ## Music
 
-A lively solo upright-piano accompaniment uses short ascending runs and playful rhythmic accents, ending with one bright chord. mews) mk ele Lee
+A lively solo upright-piano accompaniment uses short ascending runs and playful rhythmic accents, ending with one bright chord.
 

@@ -2,7 +2,7 @@
 
 ## Prompt
 
-\5.00-second 16:9 clay stop-motion animation composed for 864x480, maintaining the same plasticine materials, practical miniature lighting, visible thumbprints, stepped movement, and subtle registration variation. An original clay mechanic grips an oversized toy hammer beside a small peg. The mechanic raises the hammer halfway, pauses, adjusts both feet, and studies the target. The hammer lowers slightly as doubt enters the expression. After a clear held hesitation, the mechanic shifts weight backward, raises the hammer far behind the head through an exaggerated anticipation arc, and freezes for one accented pose. The hammer then accelerates downward and strikes the peg. The mechanic's body follows through past the target while the peg sinks neatly into the bench.
+A 5.00-second 16:9 clay stop-motion animation composed for 864x480, maintaining the same plasticine materials, practical miniature lighting, visible thumbprints, stepped movement, and subtle registration variation. An original clay mechanic grips an oversized toy hammer beside a small peg. The mechanic raises the hammer halfway, pauses, adjusts both feet, and studies the target. The hammer lowers slightly as doubt enters the expression. After a clear held hesitation, the mechanic shifts weight backward, raises the hammer far behind the head through an exaggerated anticipation arc, and freezes for one accented pose. The hammer then accelerates downward and strikes the peg. The mechanic's body follows through past the target while the peg sinks neatly into the bench.
 
 ## Soundscape
 

@@ -19,7 +19,6 @@ Each numbered directory represents one prompt card and is named with its source 
 ```text
 animationstyles/
   01-thin-black-ink-lines-on-an-off-white-paper-field-with-re/
-    prompt.md
     original.md
     research.md
     spicy.md
@@ -29,17 +28,13 @@ animationstyles/
     ...
 ```
 
-There are **76 folders and 380 Markdown files**: five files per style.
+There are **76 folders and 304 Markdown files**: four files per style.
 
 ## File variants
 
-### `prompt.md`
-
-The initial transcription harvested from the on-screen card. It retains the card's Prompt, Soundscape, and Music sections.
-
 ### `original.md`
 
-The immutable preservation copy of `prompt.md`. Every `original.md` was SHA-256 checked against its corresponding `prompt.md`; all 76 pairs are byte-for-byte identical.
+The canonical transcription harvested from the on-screen card. It retains the card's Prompt, Soundscape, and Music sections. Unambiguous OCR artifacts—missing spaces, stray punctuation, and obvious letter substitutions—have been corrected without creatively rewriting the source.
 
 Use this file when you need the closest available transcription of the source card.
 
@@ -73,7 +68,7 @@ Near-duplicate source prompts remain separate. Where useful, their spicy version
 
 ### `extra-crisp.md`
 
-A new prompt invented independently from `research.md`. The writer was deliberately prevented from reading `prompt.md`, `original.md`, or `spicy.md`, so this is not a rewrite or paraphrase of the harvested concept.
+A new prompt invented independently from `research.md`. The writer was deliberately prevented from reading the harvested transcription or `spicy.md`, so this is not a rewrite or paraphrase of the source concept.
 
 Each extra-crisp prompt includes:
 
@@ -112,8 +107,7 @@ Timing language is an execution guide, not a claim of frame-perfect model contro
 
 | Goal | File |
 |---|---|
-| Preserve or inspect the harvested source | `original.md` |
-| Inspect the first extracted transcription | `prompt.md` |
+| Preserve or inspect the corrected harvested source | `original.md` |
 | Learn the style vocabulary and provenance | `research.md` |
 | Generate the original idea with stronger H3 direction | `spicy.md` |
 | Generate a fresh idea informed only by the style research | `extra-crisp.md` |
@@ -123,12 +117,11 @@ Timing language is an execution guide, not a claim of frame-perfect model contro
 The completed library was audited with the following result:
 
 - 76 style folders
-- 76 `prompt.md` files
 - 76 `original.md` files
 - 76 `research.md` files
 - 76 `spicy.md` files
 - 76 `extra-crisp.md` files
-- zero original/prompt hash mismatches
+- no duplicate transcription files
 - source links present in every research note
 - required H3 timing and structural fields present in every generated variant
 - zero missing-file or structural audit errors

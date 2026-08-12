@@ -2,7 +2,7 @@
 
 ## Prompt
 
-A5.00-second 16:9 commercial motion-design test composed for 864x480, using center-locked match cuts, shape continuity, time remapping, speed ramps, masking, and seamless transitions between unrelated generic objects. A top-down coffee cup rotates clockwise; its circular rim match-cuts into a rising orange sun. The sun accelerates across the sky and becomes the spinning wheel of a bicycle. The wheel fills the frame, and its black center transforms into a vinyl record rotating on a turntable. A highlight traveling across the record widens into a white circular field, The exact title "START SOMETHING" emerges through negative space while the circle settles behind it, Every transition preserves the same central position and rotational direction.
+A 5.00-second 16:9 commercial motion-design test composed for 864x480, using center-locked match cuts, shape continuity, time remapping, speed ramps, masking, and seamless transitions between unrelated generic objects. A top-down coffee cup rotates clockwise; its circular rim match-cuts into a rising orange sun. The sun accelerates across the sky and becomes the spinning wheel of a bicycle. The wheel fills the frame, and its black center transforms into a vinyl record rotating on a turntable. A highlight traveling across the record widens into a white circular field. The exact title "START SOMETHING" emerges through negative space while the circle settles behind it. Every transition preserves the same central position and rotational direction.
 
 ## Soundscape
 

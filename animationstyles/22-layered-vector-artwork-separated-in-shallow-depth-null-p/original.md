@@ -2,7 +2,7 @@
 
 ## Prompt
 
-\5.00-second 16:9 2.5D explainer animation composed for 864x480, using layered vector artwork separated in shallow depth, null-parented camera movement, soft cast shadows, controlled parallax, and smooth After Effects-style easing. A generic commuter stands at a bus stop while foreground signs, the character, the shelter, distant buildings, and clouds occupy separate depth planes. The camera pushes through the scene as the character checks a simple phone interface. A route line emerges from the screen, travels into the environment, and connects the shelter to three distant landmarks. The layers briefly rotate to reveal their card-like construction, then return to a clean frontal composition. The title "YOUR CITY, CONNECTED" settles above the route.
+A 5.00-second 16:9 2.5D explainer animation composed for 864x480, using layered vector artwork separated in shallow depth, null-parented camera movement, soft cast shadows, controlled parallax, and smooth After Effects-style easing. A generic commuter stands at a bus stop while foreground signs, the character, the shelter, distant buildings, and clouds occupy separate depth planes. The camera pushes through the scene as the character checks a simple phone interface. A route line emerges from the screen, travels into the environment, and connects the shelter to three distant landmarks. The layers briefly rotate to reveal their card-like construction, then return to a clean frontal composition. The title "YOUR CITY, CONNECTED" settles above the route.
 
 ## Soundscape
 
