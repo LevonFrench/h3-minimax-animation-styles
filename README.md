@@ -20,17 +20,17 @@ This repository's contribution is the corrected transcription, linked style rese
 
 ## Library structure
 
-Each numbered directory represents one prompt card and is named with its source position followed by a descriptive style slug:
+Each numbered directory represents one prompt card and is named with its chronological position followed by a concise canonical style slug. The slugs come from the corrected research identification, not raw OCR fragments from the prompt cards. Source-identical retained cards use `-a` and `-b` suffixes.
 
 ```text
 animationstyles/
-  01-thin-black-ink-lines-on-an-off-white-paper-field-with-re/
+  01-ink-line-metamorphosis-early-drawn-animation/
     original.md
     research.md
     spicy.md
     extra-crisp.md
   ...
-  76-mixed-media-paper-felt-foil-painted-sphere/
+  76-mixed-media-stop-motion-assembly/
     ...
 ```
 
